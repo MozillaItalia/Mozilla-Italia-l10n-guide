@@ -79,7 +79,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the CC License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the CC License - see the [LICENSE.md](LICENSE.md) file for details (looking for an alternative)
 
 ## Acknowledgments
 
