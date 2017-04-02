@@ -1,0 +1,10 @@
+- Step 1: Collecting pre-exsisting documentation and resources.
+- Step 2: Organizing said resources in the first draft of the localization guide.
+- Step 3: Recruiting volunteer localizers.
+- Step 4: Having volunteers read the draft and apply it in brief translation projects.
+- Step 5: Collecting feedback about the volunteers' experience.
+- Step 6: Opening dialogue between senior localizers and new volunteers to discuss changes and integrations to implement.
+- Step 7: Implementing changes in the guide.
+- Step 8: Repeating steps 4-7 until a consensus is reached.
+- Step 9: Publishing guide on Gitbooks and starting to use it as a reference for newcomers.
+- Step 10: Translating the guide in English so that it may be used/adapted/expanded upon by other communities.
