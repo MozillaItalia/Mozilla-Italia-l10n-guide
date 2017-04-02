@@ -73,6 +73,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Sara Todaro** - *Senior volunteer translator* - [GitHub](https://github.com/kitsunenosaraT), [Mozillians](https://https://mozillians.org/u/sara_t/)
+* **Elio Giugliano** - *Volunteer translator* - [GitHub](https://github.com/eliogi), [Mozillians](https://mozillians.org/it/u/coldair/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
