@@ -4,7 +4,7 @@ The localization guide made by volunteers localizers for volunteer localizers!
 
 ## Getting Started
 
-These instructions will get you a copy of the manual on your local machine for drowing up and collaboration purposes. Follow the Prerequisites - Intalling procedure to learn how to collaborate with us.
+These instructions will get you a copy of the Guide on your local machine for drowing up and collaboration purposes. Follow the Prerequisites - Intalling procedure to learn how to collaborate with us.
 
 ### Prerequisites
 
