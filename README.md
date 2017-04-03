@@ -4,7 +4,7 @@ The localization guide made by volunteers localizers for volunteer localizers!
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the Guide on your local machine for drowing up and collaboration purposes. Follow the Prerequisites - Intalling procedure to learn how to collaborate with us.
 
 ### Prerequisites
 
