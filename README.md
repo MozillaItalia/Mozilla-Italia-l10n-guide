@@ -10,7 +10,13 @@ We are a group of volunteers passionate about localization and Open Software, ou
 
 Does it sounds like fun? Would you like be a part of our team? Then read further to know the details.
 
-INDEX HERE
+
+Table of contents
+=================
+
+  * [What are we doing?](#What are we doing)
+  * [Table of contents](#table-of-contents)
+  * [The problem](#The problem)
 
 ### What are we doing?
 
