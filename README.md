@@ -4,7 +4,7 @@ The localization guide made by volunteers localizers for volunteer localizers!
 
 ## Getting Started
 
-These instructions will get you a copy of the Guide on your local machine for drowing up and collaboration purposes. Follow the Prerequisites - Intalling procedure to learn how to collaborate with us.
+These instructions will get you a copy of the Guide on your local machine for drowing up and collaboration purposes. Follow the Prerequisites - Installing procedure to learn how to collaborate with us.
 
 ### Prerequisites
 
@@ -68,13 +68,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
 * **Sara Todaro** - *Senior volunteer translator* - [GitHub](https://github.com/kitsunenosaraT), [Mozillians](https://mozillians.org/u/sara_t/)
 * **Elio Giugliano** - *Volunteer translator* - [GitHub](https://github.com/eliogi), [Mozillians](https://mozillians.org/it/u/coldair/)
-* **Sandro Della Giustina** - *Senior volunteer translator* - [GitHub](https://github.com/gialloporpora), [Mozillians]https://mozillians.org/u/gialloporpora/)
+* **Sandro Della Giustina** - *Senior volunteer translator* - [GitHub](https://github.com/gialloporpora), [Mozillians](https://mozillians.org/u/gialloporpora/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -87,4 +87,3 @@ This project is licensed under the CC License - see the [LICENSE.md](LICENSE.md)
 * Hat tip to anyone who's code was used
 * Inspiration
 * README template from [PurpleBooth] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-
