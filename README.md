@@ -14,18 +14,18 @@ Does it sounds like fun? Would you like be a part of our team? Then read further
 Table of contents
 =================
 
-  * [Welcome!](#Welcome)  
+  * [Welcome!](#welcome)  
   * [Table of contents](#table-of-contents)
   * [What are we doing?](#what-are-we-doing)
   * [The problem](#the-problem)
   * [The solution](#the-solution)  
-  * [What does it take to become a contributor?](#what-does-it-take-to-become-a-contributor?)
+  * [What does it take to become a contributor?](#what-does-it-take-to-become-a-contributor)
   * [Contributing](#contributing)
   * [License](#license)
   * [Authors](#authors)
-  * [Communication Channels](#Communication-Channels)  
-  * [Acknowledgments](#Acknowledgments)
-  * [Glossary](#Glossary)
+  * [Communication Channels](#communication-channels)  
+  * [Acknowledgments](#acknowledgments)
+  * [Glossary](#glossary)
 
 ### What are we doing?
 
