@@ -4,11 +4,39 @@
 
 ## Welcome!
 
-<<<<<<< HEAD
+
 Thank you for stopping by the Guide of the Mozilla Italia l10n (localization)team.
-=======
+
 These instructions will get you a copy of the Guide on your local machine for drowing up and collaboration purposes. Follow the Prerequisites - Installing procedure to learn how to collaborate with us.
->>>>>>> origin/readme_in_progress
+
+
+We are a group of volunteers passionate about localization and Open Software, our goal is to make Mozilla's products, events and core values accessible for Italian users.
+
+Does it sounds like fun? Would you like be a part of our team? Then read further to know the details.
+
+### What are we doing?
+
+Mozilla Italia has a renowned tradition of providing high quality and comprehensive localization just by resorting to the good will of volunteer translators.
+
+We always need the talent and passion of new volunteers to keep this project alive, however it's not easy to get a truly continuative collaboration. Lately we started to wonder why…
+
+#### The problem
+* translation resources and instructions all over the place
+* time-consuming, impractical  workflow
+* not enough coordination and general keeping in touch with volunteers
+* probably, a lot more things that we failed to take in account
+
+#### The solution
+* open a dialogue between senior localizers and new volunteers on the localization workflow, resources and instruments
+* use feedback obtained by volunteers to write a comprehensive and localizer-friendly manual
+* have the volunteers apply this guide on real localization projects for Mozilla Italia
+
+**Hence, it starts the collaborative writing of the Mozilla Italian l10n Guide**
+We hope that our work will be read, reused and re-mixed by other l10n communities in the world to develop their very own localization workflow.
+
+Thank you for stopping by the Guide of the Mozilla Italia l10n (localization)team.
+
+These instructions will get you a copy of the Guide on your local machine for drowing up and collaboration purposes. Follow the Prerequisites - Installing procedure to learn how to collaborate with us.
 
 We are a group of volunteers passionate about localization and Open Software, our goal is to make Mozilla's products, events and core values accessible for Italian users.
 
@@ -41,7 +69,7 @@ We hope that our work will be read, reused and re-mixed by other l10n communitie
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) to know what roles and duties are required in this project. Don't forget to go through our [CODEOFCONDUCT.md](CODEOFCONDUCT.md) to learn about a few golden rules that will make coexistence in the team easier.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) to know what roles and duties are required in this project. Don't forget to go through our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to learn about a few golden rules that will make coexistence in the team easier.
 
 ### License
 
@@ -62,9 +90,11 @@ See also the list of [contributors](https://github.com/kitsunenosaraT/mozilla-it
 
 
 ## Acknowledgments
-* README template inspired from [PurpleBooth] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [STEMMRoleModels](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/README.md)
+* README template inspired by [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [STEMMRoleModels](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/README.md)
 
 ## Glossary
 **Open Software**
+
 **l10n** abbr. of localization (L-(ocalizatio=10 letters)-N, in case you were wondering).
+
 **localization** a translation process with emphasis on making the context familiar for the readers of a given country/area.
