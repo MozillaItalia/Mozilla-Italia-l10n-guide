@@ -10,6 +10,10 @@ We are a group of volunteers passionate about localization and Open Software, ou
 
 Does it sounds like fun? Would you like be a part of our team? Then read further to know the details.
 
+### INDEX
+### What are we doing?
+#### The problem
+
 ### What are we doing?
 
 Mozilla Italia has a renowned tradition of providing high quality and comprehensive localization just by resorting to the good will of volunteer translators.
