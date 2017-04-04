@@ -6,5 +6,5 @@
 - Step 6: Opening dialogue between senior localizers and new volunteers to discuss changes and integrations to implement.
 - Step 7: Implementing changes in the guide.
 - Step 8: Repeating steps 4-7 until a consensus is reached.
-- Step 9: Publishing guide on Gitbooks and starting to use it as a reference for newcomers.
+- Step 9: Publishing guide on [GitBook](https://www.gitbook.com/) and starting to use it as a reference for newcomers.
 - Step 10: Translating the guide in English so that it may be used/adapted/expanded upon by other communities.
