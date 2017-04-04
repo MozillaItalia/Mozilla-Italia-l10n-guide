@@ -4,7 +4,11 @@
 
 ## Welcome!
 
+<<<<<<< HEAD
 Thank you for stopping by the Guide of the Mozilla Italia l10n (localization)team.
+=======
+These instructions will get you a copy of the Guide on your local machine for drowing up and collaboration purposes. Follow the Prerequisites - Installing procedure to learn how to collaborate with us.
+>>>>>>> origin/readme_in_progress
 
 We are a group of volunteers passionate about localization and Open Software, our goal is to make Mozilla's products, events and core values accessible for Italian users.
 
