@@ -14,7 +14,7 @@ Does it sounds like fun? Would you like be a part of our team? Then read further
 Table of contents
 =================
 
-  * [What are we doing?](#What are we doing)
+  * [What are we doing?](#what-are-we-doing)
   * [Table of contents](#table-of-contents)
   * [The problem](#The problem)
 
