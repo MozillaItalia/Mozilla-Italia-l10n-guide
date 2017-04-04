@@ -4,7 +4,7 @@
 
 ## Welcome!
 
-Thank you for stopping by the Guide of the Mozilla Italia l10n (localization)team.
+Thank you for stopping by the Guide of the Mozilla Italia l10n (localization) team.
 
 We are a group of volunteers passionate about localization and Open Software, our goal is to make Mozilla's products, events and core values accessible for Italian users.
 
@@ -14,9 +14,18 @@ Does it sounds like fun? Would you like be a part of our team? Then read further
 Table of contents
 =================
 
-  * [What are we doing?](#what-are-we-doing)
+  * [Welcome!](#Welcome)  
   * [Table of contents](#table-of-contents)
-  * [The problem](#The problem)
+  * [What are we doing?](#what-are-we-doing)
+  * [The problem](#the-problem)
+  * [The solution](#the-solution)  
+  * [What does it take to become a contributor?](#what-does-it-take-to-become-a-contributor?)
+  * [Contributing](#contributing)
+  * [License](#license)
+  * [Authors](#authors)
+  * [Communication Channels](#Communication-Channels)  
+  * [Acknowledgments](#Acknowledgments)
+  * [Glossary](#Glossary)
 
 ### What are we doing?
 
