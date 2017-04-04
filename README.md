@@ -4,11 +4,7 @@
 
 ## Welcome!
 
-
 Thank you for stopping by the Guide of the Mozilla Italia l10n (localization)team.
-
-These instructions will get you a copy of the Guide on your local machine for drowing up and collaboration purposes. Follow the Prerequisites - Installing procedure to learn how to collaborate with us.
-
 
 We are a group of volunteers passionate about localization and Open Software, our goal is to make Mozilla's products, events and core values accessible for Italian users.
 
@@ -35,8 +31,6 @@ We always need the talent and passion of new volunteers to keep this project ali
 We hope that our work will be read, reused and re-mixed by other l10n communities in the world to develop their very own localization workflow.
 
 Thank you for stopping by the Guide of the Mozilla Italia l10n (localization)team.
-
-These instructions will get you a copy of the Guide on your local machine for drowing up and collaboration purposes. Follow the Prerequisites - Installing procedure to learn how to collaborate with us.
 
 We are a group of volunteers passionate about localization and Open Software, our goal is to make Mozilla's products, events and core values accessible for Italian users.
 
@@ -93,7 +87,7 @@ See also the list of [contributors](https://github.com/kitsunenosaraT/mozilla-it
 * README template inspired by [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [STEMMRoleModels](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/README.md)
 
 ## Glossary
-**Open Software**
+**Open Software** defintion of software with source code that can be inspected, modified and upgraded from anyone. Open Source Software is a more detailed definition.
 
 **l10n** abbr. of localization (L-(ocalizatio=10 letters)-N, in case you were wondering).
 
