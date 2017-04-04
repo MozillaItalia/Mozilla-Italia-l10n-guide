@@ -10,9 +10,17 @@ We are a group of volunteers passionate about localization and Open Software, ou
 
 Does it sounds like fun? Would you like be a part of our team? Then read further to know the details.
 
-### INDEX
+INDEX
 ### What are we doing?
 #### The problem
+#### The solution
+### What does it take to become a contributor?
+## Contributing
+### License
+### Authors
+### Communication Channels
+## Acknowledgments
+## Glossary
 
 ### What are we doing?
 
