@@ -84,7 +84,7 @@ See also the list of [contributors](https://github.com/kitsunenosaraT/mozilla-it
 * README template inspired by [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [STEMMRoleModels](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/README.md)
 
 ## Glossary
-**Open Software** defintion of software with source code that can be inspected, modified and upgraded from anyone. Open Source Software is a more detailed definition.
+**Open Software** defintion of software with source code that can be inspected, modified and upgraded by anyone. Open Source Software is a more detailed definition.
 
 **l10n** abbr. of localization (L-(ocalizatio=10 letters)-N, in case you were wondering).
 
