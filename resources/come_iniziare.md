@@ -6,9 +6,9 @@ Questo topic vuole essere un aiuto per tutti i nuovi traduttori, in modo da aver
 Verranno descritti i vari tipi di file da tradurre e verranno dati dei suggerimenti su strumenti utili a facilitare il lavoro di localizzazione.
 
 
-Esistono sostanzialmente due tipi di file in cui vengono raccolte le stringhe dei siti Mozilla: i file `.lang` e i file `.po`.
+Esistono sostanzialmente due tipi di file in cui vengono raccolte le stringhe dei siti Mozilla: i file ``.lang`` e i file `.po`.
 
-Per i primi è possibile utilizzare un buon editor di testo (vedi un elenco di editor per le varie piattaforme qui di seguito), per i secondi, anche se è ancora possibile utilizzare un editor di testo, esistono strumenti più specifici come ad esempio **[PoEdit](https://poedit.net/)**.
+Per i primi è possibile utilizzare un buon editor di testo (vedi un elenco di editor per le varie piattaforme qui di seguito), per i secondi, anche se è ancora possibile utilizzare un editor di testo, esistono strumenti più specifici come ad esempio **[Poedit](https://Poedit.net/)**.
 
 Entrambi i tipi di file sono ora localizzabili grazie alla nuova piattaforma per la localizzazione di Mozilla, **[Pontoon](https://pontoon.mozilla.org)**.
 
@@ -19,7 +19,7 @@ Senza entrare troppo nel dettaglio, di seguito si cercherà di spiegare brevemen
 
 
 Non è importante conoscere HTML, però, trattandosi di pagine web, una minima infarinatura sul codice HTML è utile per capire cosa si può tradurre e cosa invece non va tradotto.
-I tag HTML sono delimitati da un segno di `<>` e, eccetto per le immagini, appaiono sempre in coppia: un tag di apertura e uno di chiusura.
+I tag HTML sono delimitati da un segno di `<` `>` e, eccetto per le immagini, appaiono sempre in coppia: un tag di apertura e uno di chiusura.
 I tag HTML e le loro proprietà non vanno ovviamente tradotti.
 Ci sono alcune eccezioni riportate qui di seguito dove è possibile tradurre il testo associato ad alcune proprietà.
 
@@ -38,17 +38,15 @@ Nel nostro caso:
 <img src="http://mozilla.com/image.png" alt="Descrizione dell'immagine"/>
 ```
 
-L'unica avvertenza quando si traduce il testo di una proprietà HTML è quello di non usare mai delle virgolette per non generare errori nel codice.
+L'unica avvertenza quando si traduce il testo di una proprietà HTML è quello di non usare mai le virgolette dritte `"` per non generare errori nel codice. Si possono usare invece le virgolette curve `“` e `”`.
 
-Analogamente vanno di solito tradotti il contenuto della proprietà title dei link e del tag **abbr**.
-Per gli altri tag HTML ignorare tutto quello che viene incluso fra i simboli `<` e `>`.\
-
-
+Analogamente vanno di solito tradotti il contenuto della proprietà title dei link e del tag `abbr`.
+Per gli altri tag HTML ignorare tutto quello che viene incluso fra i simboli `<` e `>`.
 
 ### Caratteri speciali
 
 
-i seguenti caratteri non possono essere utilizzati traducendo delle stringhe con codice HTML:
+I seguenti caratteri non possono essere utilizzati traducendo delle stringhe con codice HTML:
 
 -   E commerciale “&”, se si vuole inserire questo simbolo scrivere `&amp;`.
 
@@ -60,99 +58,61 @@ i seguenti caratteri non possono essere utilizzati traducendo delle stringhe con
 
 In alcune stringhe ci sono anche alcuni *pattern di formattazione* utilizzati per inserire del testo in modo dinamico. È importante comprendere cosa viene inserito (solitamente si può intuire ciò che viene inserito guardando il commento o dal contesto della stringa stessa) per poter farne una buona traduzione. I principali pattern che si troveranno sono i seguenti:
 
--   %s - indica che viene inserita una stringa, può essere un link, la versione di un software, il nome di un'app ecc….
+- `%s` - indica che viene inserita una stringa, può essere un link, la versione di un software, il nome di un'app ecc…
 
--   `%(something)s` - è lo stesso di %s, però in questo caso il nome della variabile fra parentesi può aiutare a capire di cosa si tratta (ad esempio %(version)s indica un numero di versione). È importante non tradurre la parola fra parentesi.
+- `%(something)s` - è lo stesso di %s, però in questo caso il nome della variabile fra parentesi può aiutare a capire di cosa si tratta (ad esempio `%(version)s` indica un numero di versione). È importante non tradurre la parola fra parentesi.
 
--   `{0} {1} {something}` - è un modo alternativo (che dipende sostanzialmente dal fatto di utilizzare una versione più recente del software lato server).
+-   `{0}` `{1}` `{something}` - è un modo alternativo (che dipende sostanzialmente dal fatto di utilizzare una versione più recente del software lato server).
 
 -   essendo il simbolo **%** un carattere speciale, per stampare il suddetto simbolo è necessario raddoppiarlo, %%. In ogni caso difficilmente si aggiunge un carattere di % se non è già presente nell'originale, quindi basta utilizzare quanto fatto nella stringa en-US.
 
-I pattern possono essere riordinati per adeguarli alle necessità di localizzazione, tranne nel primo caso (più di un %s) che obbliga a mantenere l'ordine della stringa inglese.\
+I pattern possono essere riordinati per adeguarli alle necessità di localizzazione, tranne nel primo caso (più di un `%s`) che obbliga a mantenere l'ordine della stringa inglese.
 
 ## File lang
-I file .lang vengono utilizzati soprattutto per le stringhe del sito mozilla.com e sono molto semplici da gestire. Un file .lang non è altro che un file di testo in cui vengono raccolte le stringhe da tradurre in più righe, ecco come si presenta:
+I file `.lang` vengono utilizzati soprattutto per le stringhe del sito mozilla.com e sono molto semplici da gestire. Un file `.lang` non è altro che un file di testo in cui vengono raccolte le stringhe da tradurre in più righe, ecco come si presenta:
 
 ```
 ## Metadato
-```
 
-```
 …
-```
 
-```
 # commento
-```
 
-```
 ;Get Firefox
-```
 
-```
-Get
-Firefox
+Get Firefox
 ```
 
 
 il carattere, singolo, di hashtag indica un commento di solito utile per capire il contesto della stringa o per conoscere l'URL del sito di test, ovviamente non è da tradurre e nemmeno da eliminare.
 
-I due hashtag **\#\#** indicano un metadato e queste righe non vanno assolutamente modificate.
+I due hashtag **##** indicano un metadato e queste righe non vanno assolutamente modificate.
 
-Il ; invece introduce la stringa inglese che non va assolutamente modificata, nemmeno se c'è qualche errore ortografico. la traduzione deve essere messa nella riga successiva sostituendo la stringa inglese, ad esempio:
+`;` invece introduce la stringa inglese che non va assolutamente modificata, nemmeno se c'è qualche errore ortografico. la traduzione deve essere messa nella riga successiva sostituendo la stringa inglese, ad esempio:
 
 ```
 ;Get Firefox
-```
 
+Scarica Firefox
 ```
-Scarica
-Firefox
-```
-
-
 Nel caso che la traduzione coincida con la stringa inglese va aggiunto `{ok}`, ad esempio:
 
 ```
 ;Download
-```
 
-```
 Download {ok}
 ```
 
 
-L'unica altra avvertenza da tenere a mente quando si traduce un file .lang è quella di salvarlo con codifica **UTF-8 senza BOM (Byte Order Mark)**, anche nel caso che l'originale non sia salvato con tale codifica.
+L'unica altra avvertenza da tenere a mente quando si traduce un file `.lang` è quella di salvarlo con codifica **UTF-8 senza BOM** (Byte Order Mark), anche nel caso che l'originale non sia salvato con tale codifica.
 
-## File po
+Come detto per l'editing dei file da localizzare è fondamentale avere un buon editor di testo. la scelta dell'editor da utilizzare è del tutto personale, ma il programma scelto deve supportare obbligatoriamente il formato di codifica caratteri utf-8 (quindi il Notepad di Windows non si può usare). Inoltre avere l'evidenziazione della sintassi e un correttore ortografico aiuta molto nel processo di localizzazione).
 
-Il formato **.po** (o per essere più precisi il suo template che ha estensione .pot) viene generato dai programmatori del software e raccoglie tutte le stringhe da localizzare. Il compito del traduttore è quello di modificare il file traducendo le stringhe e generare il file **.mo** che verrà utilizzato per la localizzazione del software.
+**N.B.**: per i file `.lang` è fondamentale salvarli con codifica caratteri **utf-8 senza BOM**.
 
-Nello specifico caso di Mozilla, questo tipo di formato è utilizzato per tradurre la maggior parte dei siti e delle applicazioni web (Persona, Addons Mozilla, firefox Marketplace, ecc…) e non è necessario generare il file .mo compilato in quanto il lavoro viene fatto automaticamente da un apposito script.
+**N.B.**: evitare editor di rich text come Word, AbiWord, Writer di OpenOffice/LibreOffice e WordPad.
 
-Quindi l'unica cosa che rimane da fare è quella di modificare il file **.po** traducendo tutte le occorenze e caricare il file sui server Mozilla. Anche se è possibile utilizzare un editor di testo per tradurre questo tipo di file, si consiglia di utilizzare degli strumenti appositi come [Pontoon](https://pontoon.mozilla.org) o [PoEdit](http://www.poedit.net/download.php) che sono trattati più dettagliatamente nei prossimi paragrafi.
-
-L'utilizzo di software appositi permette di dimenticarsi della sintassi di questi file che è molto più complessa dei file .lang trattati in precedenza.  Di seguito alcuni dei software più utilizzati per gestire i file .po, Pontoon e PoEdit, verranno trattati più approfonditamente nei prossimi paragrafi.
-
-- [PoEdit](http://www.poedit.net/download.php)
-
-- [Better PoEditor](http://sourceforge.net/projects/betterpoeditor/?source=dlp)
-
-- [Pootle](http://pootle.translatehouse.org/) - uno strumento online di traduzione partecipativa, prima dell'avvento di Pontoon, Mozilla ne utilizzava una versione personalizzata chiamata Verbatim.
-
-- [Virtaal](http://sourceforge.net/projects/translate/files/Virtaal/) - altro software Open Source per tradurre i file .po (non stabile su OS X).
-
-- [xgettext per Windows](http://gnuwin32.sourceforge.net/packages/gettext.htm) (strumento avanzato e non consigliato)
-
-**Note** Per la lingua itaiana controllare che nelle proprietà del file la codifica sia **UTF-8**, che il locale sia **it** e che la forma plurale sia **2**.
-
-Come detto per l'editing dei file da localizzare è fondamentale avere un buon editor di testo. la scelta dell'editor da utilizzare è del tutto personale, ma il programma scelto deve supportare obbligatoriamente il formato di codifica caratteri utf-8 (quindi il Notepad di Windows non si può usare). Inoltre avere l'evidenziazione della sintassi e un correttore ortografico aiuta molto nel processo di localizzazione).\
-\
-**nota**: per i file .lang è fondamentale salvarli con codifica caratteri **utf-8 senza BOM**.\
-**NOTA 2**: evitare editor di rich text come Word, AbiWord, Writer di OpenOffice/LibreOffice e WordPad.\
-\
-Di seguito un elenco di editor di testo disponibili sulle varie piattaforme che possono essere utilizzati per l'editing dei file. Tutti supportano l'evidenziazione della sintassi e, magari previa configurazione, il controllo ortografico.\
-\
+Di seguito un elenco di editor di testo disponibili sulle varie piattaforme che possono essere utilizzati per l'editing dei file. Tutti supportano l'evidenziazione della sintassi e, magari previa configurazione, il controllo ortografico.
 
 - [pspad](http://www.pspad.com/it/download.php) - ottimo editor di testo per la piattaforma windows.
 
@@ -167,14 +127,38 @@ Di seguito un elenco di editor di testo disponibili sulle varie piattaforme che 
 
 -  [Scintilla](http://www.scintilla.org/SciTEDownload.html) - editor di testo per piattaforma Linux e Windows.
 
-- [OmegaT](http://omegat.org/) – strumento di traduzione assistita multipiattaforma, dispone di un filtro per i file po.
+Alternativamente, [OmegaT](http://omegat.org/) offre un filtro apposito per i file `.lang` che permette di tradurre in un'interfaccia facilitata senza preoccuparsi delle precedenti regole di sintassi.
 
-In aggiunta ci sono Vim e Emacs disponibili per tutte le piattaforme e sicuramente con plugin appositi per l'editing dei file .po, però si sconsiglia, a meno che non si abbia già famigliarità con questi strumenti avanzati di editing, l'utilizzo di questi editor che sono un po più complicati e meno intuitivi a un primo approccio.
+## File po
 
-Altri strumenti che possono tornare molto utili per tradurre file sono un software di traduzione, un glossario e altri strumenti per memorizzare la propria fraseologia in modo da non fare lo stesso lavoro più volte.\
-\
-Come glossari per le traduzioni delle pagine e dei software Mozilla si consiglia di utilizzare il glossario Microsoft e transvision.mozfr.org che permette di trovare i termini all'interno delle stringhe di Firefox, Thunderbird e SeaMonkey.\
-\
+Il formato `.po` (o per essere più precisi il suo template che ha estensione `.pot`) viene generato dai programmatori del software e raccoglie tutte le stringhe da localizzare. Il compito del traduttore è quello di modificare il file traducendo le stringhe e generare il file `.mo` che verrà utilizzato per la localizzazione del software.
+
+Nello specifico caso di Mozilla, questo tipo di formato è utilizzato per tradurre la maggior parte dei siti e delle applicazioni web (Persona, Addons Mozilla, firefox Marketplace, ecc…) e non è necessario generare il file .mo compilato in quanto il lavoro viene fatto automaticamente da un apposito script.
+
+Quindi l'unica cosa che rimane da fare è quella di modificare il file `.po` traducendo tutte le occorenze e caricare il file sui server Mozilla. Anche se è possibile utilizzare un editor di testo per tradurre questo tipo di file, si consiglia di utilizzare degli strumenti appositi come [Pontoon](https://pontoon.mozilla.org) o [Poedit](http://www.Poedit.net/download.php) che sono trattati più dettagliatamente nei prossimi paragrafi.
+
+L'utilizzo di software appositi permette di dimenticarsi della sintassi di questi file che è molto più complessa dei file `.lang` trattati in precedenza.  Di seguito alcuni dei software più utilizzati per gestire i file `.po`, Pontoon e Poedit, verranno trattati più approfonditamente nei prossimi paragrafi.
+
+- [Poedit](http://www.Poedit.net/download.php)
+
+- [Better Poeditor](http://sourceforge.net/projects/betterPoeditor/?source=dlp)
+
+- [Pootle](http://pootle.translatehouse.org/) - uno strumento online di traduzione partecipativa, prima dell'avvento di Pontoon, Mozilla ne utilizzava una versione personalizzata chiamata Verbatim.
+
+- [Virtaal](http://sourceforge.net/projects/translate/files/Virtaal/) - altro software Open Source per tradurre i file .po (non stabile su OS X).
+
+- [xgettext per Windows](http://gnuwin32.sourceforge.net/packages/gettext.htm) (strumento avanzato e non consigliato)
+
+**N.B.** Per la lingua italiana controllare che nelle proprietà del file la codifica sia **UTF-8**, che il locale sia **it** e che la forma plurale sia **2**.
+
+- [OmegaT](http://omegat.org/) – strumento di traduzione assistita multipiattaforma, dispone di un filtro per i file `.lang` e `po`.
+
+In aggiunta ci sono Vim e Emacs disponibili per tutte le piattaforme e sicuramente con plugin appositi per l'editing dei file `.po`, però si sconsiglia, a meno che non si abbia già familiarità con questi strumenti avanzati di editing, l'utilizzo di questi editor che sono un po più complicati e meno intuitivi a un primo approccio.
+
+Altri strumenti che possono tornare molto utili per tradurre file sono un software di traduzione, un glossario e altri strumenti per memorizzare la propria fraseologia in modo da non fare lo stesso lavoro più volte.
+
+Come glossari per le traduzioni delle pagine e dei software Mozilla si consiglia di utilizzare il glossario Microsoft e transvision.mozfr.org che permette di trovare i termini all'interno delle stringhe di Firefox, Thunderbird e SeaMonkey.
+
 Esistono sostanzialmente due metodi veloci per cercare all'interno di questi glossari:
 
 - utilizzare uno smart bookmark
@@ -191,8 +175,8 @@ http://transvision.mozfr.org/?recherche=%s&locale=it&repo=trunk
 http://www.microsoft.com/Language/en-US/Search.aspx?sString=%s&langID=it-IT
 ```
 
-\
-una volta aggiunti, aprire la Libreria, cercare il segnalibro e aggiungere una parola chiave per ognuno di essi.\
+
+una volta aggiunti, aprire la Libreria, cercare il segnalibro e aggiungere una parola chiave per ognuno di essi.
 Se invece si vuole installarli come motori di ricerca [qui ci sono i relativi search plugin](http://www.gialloporpora.altervista.org/searchplugins/). Anche in questo caso è possibile (anzi è consigliabile) associare una parola chiave per una rapida consultazione dalla barra degli indirizzi. Supponendo di aver associato la parola chiave **msg** al glossario Microsoft, basterà digitare nella barra degli indirizzi:
 
 ```
@@ -213,31 +197,31 @@ N.B. La traduzione automatica, o MT (**M**achine **T**ranslation), è utile per 
 
 ### Memorie di traduzione (TM)
 
-Quando si entra in un progetto di traduzione collaborativa, uno dei problemi maggiori è senzaltro 
-Se si vuole utilizzare come memoria di traduzione con Poedit o Omegat i file che comprendono l'insieme di tutti i progetti già localizzati su Verbatim, [a questo link](https://www.dropbox.com/sh/odlh109rugbovnr/OA8NTEkZ0b) si possono trovare i file necessari. I file per Omegat hanno estensione **tmx** mentre quelli da utilizzare con Poedit hanno, ovviamente, estensione **po**.\
+Quando si entra in un progetto di traduzione collaborativa, uno dei problemi maggiori è senzaltro
+Se si vuole utilizzare come memoria di traduzione con Poedit o Omegat i file che comprendono l'insieme di tutti i progetti già localizzati su Verbatim, [a questo link](https://www.dropbox.com/sh/odlh109rugbovnr/OA8NTEkZ0b) si possono trovare i file necessari. I file per Omegat hanno estensione **tmx** mentre quelli da utilizzare con Poedit hanno, ovviamente, estensione **po**.
 Descirzione dei file:
 
--   firefox.po, firefox.lang, firefox.tmx — sono dei cataloghi in vari formati che contengono tutta la traduzione di Firefox, utile per trovare come è stata resa una stringa.
+-   firefox.po, firefox`.lang`, firefox.tmx — sono dei cataloghi in vari formati che contengono tutta la traduzione di Firefox, utile per trovare come è stata resa una stringa.
 
 -   amo.txt — un glossario in un file di testo tabulato che utilizziamo per la terminologia di AMO+Marketplace.
 
 -   gaia1.2.tmx — un file per OmegaT che contiene la traduzione di Firefox OS, utile per trovare la traduzione di una stringa se non si possiede un dispositivo Firefox OS o il simulatore.
 
--   memoria.po, memoria.lang, memoria.tmx — un mega catalogo, in diversi formati, delle stringhe di mozilla.com, FHR (Firefox Health Report) e tutti i progetti già tradotti su Verbatim (Amo, firefox Input, ecc…).
+-   memoria.po, memoria`.lang`, memoria.tmx — un mega catalogo, in diversi formati, delle stringhe di mozilla.com, FHR (Firefox Health Report) e tutti i progetti già tradotti su Verbatim (Amo, firefox Input, ecc…).
 
-\
+
 Su [transvision.mozfr](http://transvision.mozfr.org/downloads/) è possibile scaricare i file aggiornati per OmegaT della localizzazione di Firefox e Firefox OS.
 Per le memorie di traduzione ci sono molti software professionali che le gestiscono. Il software open source più diffuso è [OmegaT](http://www.omegat.org/it/downloads.html). Per una introduzione esauriente all'uso di OmegaT leggere [guida in formato PDF](http://www.omegat.org/it/tutorial/OmegaT%20for%20Beginners.pdf).
 
-### PoEdit
+### Poedit
 
-[PoEdit](http://www.poedit.net/download.php) è il software più diffuso per la gestione dei cataloghi .po. Il software è multi piattaforma e liberamente scaricabile.
+[Poedit](http://www.Poedit.net/download.php) è il software più diffuso per la gestione dei cataloghi .po. Il software è multi piattaforma e liberamente scaricabile.
 
-Una volta scaricato e installato sul proprio computer basterà fare clic sul collegamento nel desktop per avviare il programma. A questo punto aprire il file .po che contiene le nostre stringhe da tradurre. Se è la prima volta che si utilizza PoEdit andare su *File > Preferenze > Personalizza*
+Una volta scaricato e installato sul proprio computer basterà fare clic sul collegamento nel desktop per avviare il programma. A questo punto aprire il file .po che contiene le nostre stringhe da tradurre. Se è la prima volta che si utilizza Poedit andare su *File > Preferenze > Personalizza*
 
 A questo punto sarà sufficiente aprire un file .po dal menu File > Apri…
 
-Aprire il proprio file .po (ad esempio messages.po). Nel caso dei file Mozilla PoEdit dovrebbe aprire direttamente il file perché i valori di alcuni parametri di localizzazione sono già impostati correttamente, altrimenti verrà chiesto di completare alcuni parametri. È importante utilizzare i seguenti valori:
+Aprire il proprio file .po (ad esempio messages.po). Nel caso dei file Mozilla Poedit dovrebbe aprire direttamente il file perché i valori di alcuni parametri di localizzazione sono già impostati correttamente, altrimenti verrà chiesto di completare alcuni parametri. È importante utilizzare i seguenti valori:
 
 Carattere: UTF-8
 
@@ -262,7 +246,7 @@ Per marcare le stringhe per il processo di revisione, selezionare la stringa in 
 
 **Memoria di traduzione**
 
-PoEdit è dotato di una funzione di memoria che suggerisce la traduzione di stringhe simili già tradotte in precedenza. Questo fa risparmiare il tempo di digitazione, ma soprattutto favorisce l'uniformità stilistica e terminologica.
+Poedit è dotato di una funzione di memoria che suggerisce la traduzione di stringhe simili già tradotte in precedenza. Questo fa risparmiare il tempo di digitazione, ma soprattutto favorisce l'uniformità stilistica e terminologica.
 
 Per aggiungere una memoria di traduzione su Poedit:
 
@@ -289,7 +273,7 @@ OmegaT traduce file nei formati di testo semplice, formattato (anche con le este
 
 Per tradurre gli articoli di SUMO o di una wiki con Omega T è quindi possibile salvare il testo inglese nel proprio editor di testo preferito, tradurre il file in OmegaT e incollare la traduzione ottenuta nel browser.
 
-N.B. I testi formattati appariranno come testo semplice, e i loro attributi (grassetto, corsivo, tag HTML, XLM ecc.) appariranno sotto forma di tag delimitati da "\<" e "\>". È importante riportare accuratamente tutti i tag nella traduzione, una mancata corrispondenza può impedire la creazione del file di arrivo.
+N.B. I testi formattati appariranno come testo semplice, e i loro attributi (grassetto, corsivo, tag HTML, XLM ecc.) appariranno sotto forma di tag delimitati da "<" e ">". È importante riportare accuratamente tutti i tag nella traduzione, una mancata corrispondenza può impedire la creazione del file di arrivo.
 
 **Abilitare la funzione di correzione ortografica:**
 
