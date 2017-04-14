@@ -1,34 +1,50 @@
 # Mozilla Italia l10n Guide Roadmap
 
-Welcome to the Mozilla Italia l10n Guide roadmap!<br>
-In this document we list the main steps we'll take in the development of this collaborative writing of a localization guide made from volunteer localizers for volunteer localizers!
+Welcome to the Mozilla Italia l10n Guide roadmap!
 
-### 1  Collecting resources
-Gathering pre-existing documentation and resources that may be useful in this repository.
+This collaborative guide aims to involve volunteers in the creation of a manual/translation workflow based on the actual needs and feedback of localizers.
 
-### 2 First draft
-Organizing said resources in a first, highly tentative, draft of the localization guide.
+The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](www.mozilla.org)'s products and activities for Italian users).
+<br>**However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.**
 
-### 3 Recruiting
-Gathering through our communication channels contributors interested in becoming volunteer localizers for Mozilla Italia. May be occasional collaborators, localizers from other Open Source communities and even people at their first translation experience.
+This document lists the main steps in the development of the collaborative localization guide made by volunteer localizers, for volunteer localizers!
 
-### 4 Testing
-Having the contributors read the draft and apply it in brief translation projects.
+1.  **Collecting resources**
+<br>*For senior localizers*
+<br>Gathering pre-existing documentation and resources that may be useful in this repository.
 
-### 5 Feedback
-Collecting feedback about the collaborators' experience and impression on every aspect of the translation process, from tools to interpersonal relations with senior localizers.
+2. **First draft**
+<br>*For senior localizers*
+<br>Organizing said resources in a first, very temporary draft of the localization guide (in Italian).
 
-### 6 Discussion
-Opening dialogue between senior localizers and new volunteers to discuss changes and integrations to implement.
+3. **Recruiting**
+<br>*For senior localizers* *For new volunteers*
+<br>Gathering, through our communication channels, volunteer localizers. May be occasional collaborators, localizers from other open source communities and even people at their first translation experience.
 
-### 7 Second Draft
-Implementing changes of step 6 in the guide.
+4. **Testing**
+<br>*For new volunteers*
+<br>Read the draft and apply it in brief translation projects. Take notes of any impression and problem.
 
-### 8 Rise and Repeat
-Repeating steps 4-7 until a consensus is reached.
+5. **Feedback**
+<br>*For senior localizers* *For new volunteers*
+<br>Collecting feedback about the collaborators' experience and impression on every aspect of the translation process, from tools to interpersonal relations with senior localizers.
 
-### 9 Publication
-Publishing the guide on [GitBook](https://www.gitbook.com/) and starting to use it as a reference for newcomers.
+6. **Discussion**
+<br>*For senior localizers* *For new volunteers*
+<br>Opening dialogue between senior localizers and new volunteers to discuss changes and integrations to implement.
 
-### 10 We go international!
-Translating the guide in English so that it may be used/adapted/expanded upon by other communities.
+7. **Second Draft**
+<br>*For senior localizers* *For new volunteers*
+<br>Implementing changes of step 6 in the guide.
+
+8. **Rinse and Repeat**
+<br>*For senior localizers* *For new volunteers*
+<br>Repeating steps 4-7 until a consensus is reached.
+
+9. **Publication**
+<br>*For senior localizers* *For new volunteers*
+<br>Publishing the guide on [GitBook](https://www.gitbook.com/) and starting to use it as a reference for newcomers.
+
+10. **We go international!**
+<br>*For senior localizers* *For new volunteers*
+<br>Translating the guide into English so that it may be used/adapted/expanded upon by other communities.
