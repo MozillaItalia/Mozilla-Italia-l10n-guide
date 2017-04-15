@@ -48,7 +48,7 @@ GitHub gives you a free and safe account, but if you don't feel like to register
 <br>If you'd rather communicate through email, get in touch with [Sara T.](sara.todaro@mozillaitalia.org) We'll incorporate your contributions on GitHub for you, giving you the appropriate credit.
 
 3. **Mozilla Italia forum**<br>
-If you are a "community kind of guy/gal", you can also choose to register an account at the [Mozilla Italia Forum](https://forum.mozillaitalia.org/). You will receive all the instructions, resources and updates, as well as give back your feedback in [this thread]().
+If you are a "community kind of guy/gal", you can also choose to register an account at the [Mozilla Italia Forum](https://forum.mozillaitalia.org/). You will receive all the instructions, resources and updates, as well as give back your feedback in [this thread](https://forum.mozillaitalia.org/index.php?topic=68578.0).
 <br>_Tip_: The Mozilla Italia Forum is the pulsing heart of the Italian community. We don't just do localization, there are a ton of nice activities and discussions going around. Since you're already there, please have a look around!
 
 ## How to contribute on GitHub
