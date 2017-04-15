@@ -73,7 +73,7 @@ See the file [LICENSE.md](LICENSE.md) for details.
 #### Authors
 Don't hesitate to get in touch with us for any question!
 
-* **Sara Todaro** - *Senior volunteer translator*  <br>[GitHub](https://github.com/kitsunenosaraT), [Mozillians](https://mozillians.org/u/sara_t/), [Email](sara.todaro@mozillaitalia.org)
+* **Sara Todaro** - *Senior volunteer translator*  <br>[GitHub](https://github.com/kitsunenosaraT), [Mozillians](https://mozillians.org/u/sara_t/)
 * **Sandro Della Giustina** - *Senior volunteer translator*  <br>[GitHub](https://github.com/gialloporpora), [Mozillians](https://mozillians.org/u/gialloporpora/)
 * **Elio Giugliano** - *Volunteer translator*  <br>[GitHub](https://github.com/eliogi), [Mozillians](https://mozillians.org/it/u/coldair/)
 
@@ -83,7 +83,7 @@ See also the list of [contributors](https://github.com/kitsunenosaraT/mozilla-it
 * [GitHub repository](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide) (please contact @kitsunenosarat to be added as a collaborator)
 * [Mozilla Italia Forum](https://forum.mozillaitalia.org/)
 * [Mozilla Contribute page](http://www.mozilla.org/it/contribute/)
-* [Email](sara.todaro@mozillaitalia.org)
+* [Email the project leader](https://mozillians.org/u/sara_t/)
 
 
 ### Acknowledgments

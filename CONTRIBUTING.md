@@ -36,7 +36,7 @@ As you can see from the [roadmap](ROADMAP.md), this project calls for the intera
 ^ Note: During the testing you may be asked to register a free account on <br>[Pontoon](https://pontoon.mozilla.org/), the dedicated online translation platform of Mozilla, <br>[MDN](https://developer.mozilla.org/), the Mozilla Wiki for developers,
 <br>or install and use free, open source aided translation tools such as [OmegaT](http://omegat.org/) or [Poedit](https://poedit.net/).
 
-**If you'd like to contribute, please drop a few lines to [Sara T.](sara.todaro@mozillaitalia.org) or @kitsunenosarat telling us about yourself and your interest in localization and/or open source. We'll get in touch with you!**
+**If you'd like to contribute, please drop a few lines to @kitsunenosarat telling us about yourself and your interest in localization and/or open source. We'll get in touch with you!**
 
 ## Communication channels
 1. **GitHub**<br>
@@ -45,7 +45,7 @@ If you already have a GitHub account, please include your git nickname (for exam
 
 2. **Email**<br>
 GitHub gives you a free and safe account, but if you don't feel like to register your data on a new site just for the sake of one project, we respect that.
-<br>If you'd rather communicate through email, get in touch with [Sara T.](sara.todaro@mozillaitalia.org) We'll incorporate your contributions on GitHub for you, giving you the appropriate credit.
+<br>If you'd rather communicate through email, get in touch with [Sara T.](https://mozillians.org/u/sara_t/). We'll incorporate your contributions on GitHub for you, giving you the appropriate credit.
 
 3. **Mozilla Italia forum**<br>
 If you are a "community kind of guy/gal", you can also choose to register an account at the [Mozilla Italia Forum](https://forum.mozillaitalia.org/). You will receive all the instructions, resources and updates, as well as give back your feedback in [this thread](https://forum.mozillaitalia.org/index.php?topic=68578.0).
@@ -67,6 +67,6 @@ If you want to propose a consistent change you've written, please make your chan
 
 GitHub provides a [good walkthrough](https://guides.github.com/activities/hello-world/) on how to manage branches. Also, if you need any help, we're here for you!
 
-_Note_: If you still don't feel confident enough to make this passage, email the edited file to [Sara T.](sara.todaro@mozillaitalia.org), and we'll do the pull request giving you the proper credits.
+_Note_: If you still don't feel confident enough to make this passage, email the edited file to [Sara T.](https://mozillians.org/u/sara_t/), and we'll do the pull request giving you the proper credits.
 
 Now that you're ready to start, hava a nice time localizing!
