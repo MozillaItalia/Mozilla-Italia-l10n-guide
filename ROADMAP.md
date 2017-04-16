@@ -4,7 +4,7 @@ Welcome to the Mozilla Italia l10n Guide roadmap!
 
 This collaborative guide aims to involve volunteers in the creation of a manual/translation workflow based on the actual needs and feedback of localizers.
 
-The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](www.mozilla.org)'s products and activities for Italian users).
+The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](https://www.mozilla.org)'s products and activities for Italian users).
 <br>**However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.**
 
 This document lists the main steps in the development of the collaborative localization guide made by volunteer localizers, for volunteer localizers!

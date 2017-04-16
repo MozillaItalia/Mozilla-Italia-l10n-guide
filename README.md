@@ -8,7 +8,7 @@ Thank you for stopping by the Guide of the Mozilla Italia l10n (localization) te
 
 We are a group of volunteers passionate about localization and Open Software, our goal is to make Mozilla's products, events and core values accessible for Italian users.
 
-The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](www.mozilla.org)'s products and activities for Italian users).
+The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](https://www.mozilla.org)'s products and activities for Italian users).
 <br>**However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.**
 
 Does it sounds like fun? Would you like be a part of our team? Then read further to know the details.
@@ -101,4 +101,4 @@ See also the list of [contributors](https://github.com/kitsunenosaraT/mozilla-it
 
 **senior translator** veteran member of a localization community (such as [Mozilla Italia](https://www.mozillaitalia.org/)), with experience of coordinating with others in a long-term project.
 
-**volunteer translator** a person, proficient in at least two languages, offering their free time and commitment to help non-profit organizations (such as [Mozilla](www.mozilla.org)) make their contents available for users of different languages.
+**volunteer translator** a person, proficient in at least two languages, offering their free time and commitment to help non-profit organizations (such as [Mozilla](https://www.mozilla.org)) make their contents available for users of different languages.

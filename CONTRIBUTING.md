@@ -4,13 +4,13 @@ Thank you for stopping by the Mozilla Italia l10n Guide!
 
 This collaborative guide aims to involve volunteers in the creation of a manual/translation workflow based on the actual needs and feedback of localizers.
 
-The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](www.mozilla.org)'s products and activities for Italian users).
+The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](https://www.mozilla.org)'s products and activities for Italian users).
 <br>**However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.**
 
 This document will explain you the basic of how to contribute to the localization guide.
 
 * [Behavior](#behavior)
-* [Roles and tasks](#roles_and_tasks)
+* [Roles and tasks](#roles-and-tasks)
 * [Communication Channels](#communication-channels)
 * [How to contribute on GitHub](#how-to-contribute-on-github)
 
@@ -25,16 +25,16 @@ Firstly, please have a look at our [code of conduct](CODE_OF_CONDUCT.md).
 
 As you can see from the [roadmap](ROADMAP.md), this project calls for the interaction of two different 'teams':
 - **Senior translators**<br> Veteran members of a localization community, with experience of coordinating with others in a long-term project.
-<br> ROLE: They are in charge of writing a **FIRST DRAFT** based on their experiences.
+<br> ROLE:
+ - write a first draft of the guide based on their experiences.
 
 - **New volunteers**<br> A (we hope!) as diverse as possible group of contributors ranging from independent translators to occasional contributors down to people at their first translation experience. The more different are the contributors' backgrounds, the more comprehensive will the guide be!
-<br>ROLE: They will
-1. review the first draft of the guide
-2. test the guide on a short translation project^
-3. contribute to the second draft with their feedback on this experience.
+<br>ROLE:
+ 1. review the first draft of the guide
+ 2. test the guide on a short translation project^
+ 3. contribute to the second draft with their feedback on this experience.
 
-^ Note: During the testing you may be asked to register a free account on <br>[Pontoon](https://pontoon.mozilla.org/), the dedicated online translation platform of Mozilla, <br>[MDN](https://developer.mozilla.org/), the Mozilla Wiki for developers,
-<br>or install and use free, open source aided translation tools such as [OmegaT](http://omegat.org/) or [Poedit](https://poedit.net/).
+^ Note: During the testing you may be asked to register a free account on [Pontoon](https://pontoon.mozilla.org/), the dedicated online translation platform of Mozilla, [MDN](https://developer.mozilla.org/), the Mozilla Wiki for developers, or install and use free, open source aided translation tools such as [OmegaT](http://omegat.org/) or [Poedit](https://poedit.net/).
 
 **If you'd like to contribute, please drop a few lines to @kitsunenosarat telling us about yourself and your interest in localization and/or open source. We'll get in touch with you!**
 
@@ -53,7 +53,7 @@ If you are a "community kind of guy/gal", you can also choose to register an acc
 
 ## How to contribute on GitHub
 - **Become a collaborator**
-<br>If you choose to contribute through GitHub, the first step is to mention in your presentation email your git name (for example @kitsunenosarat) so that we can add you to the collaborators of the repository.
+<br>If you choose to contribute through GitHub, the first step is to mention your git name (for example @kitsunenosarat) so that we can add you to the collaborators of the repository.
 
 - **Check issues**
 <br>Then we suggest to take a look at the open [issues](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/issues).<br>
@@ -69,4 +69,4 @@ GitHub provides a [good walkthrough](https://guides.github.com/activities/hello-
 
 _Note_: If you still don't feel confident enough to make this passage, email the edited file to [Sara T.](https://mozillians.org/u/sara_t/), and we'll do the pull request giving you the proper credits.
 
-Now that you're ready to start, hava a nice time localizing!
+Now that you're ready to start, have a nice time localizing!
