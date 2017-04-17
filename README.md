@@ -6,9 +6,9 @@
 
 Thank you for stopping by the Guide of the Mozilla Italia l10n (localization) team.
 
-We are a group of volunteers passionate about localization and Open Software, our goal is to make Mozilla's products, events and core values accessible for Italian users.
+We are a group of volunteers passionate about localization and Open Software, our goal is to make Mozilla’s products, events and core values accessible for Italian users.
 
-The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](https://www.mozilla.org)'s products and activities for Italian users).
+The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](https://www.mozilla.org)’s products and activities for Italian users).
 <br>**However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.**
 
 Does it sounds like fun? Would you like be a part of our team? Then read further to know the details.
@@ -31,7 +31,7 @@ Table of contents
 
 Mozilla Italia has a renowned tradition of providing high quality and comprehensive localization just by resorting to the good will of volunteer translators.
 
-We always need the talent and passion of new volunteers to keep this project alive, however it's not easy to get a truly continuative collaboration. Lately we started to wonder why…
+We always need the talent and passion of new volunteers to keep this project alive, however it’s not easy to get a truly continuative collaboration. Lately we started to wonder why…
 
 #### The problem
 * translation resources and instructions all over the place
@@ -55,7 +55,7 @@ We hope that our work will be read, reused and re-mixed by other l10n communitie
 ### What does it take to become a contributor?
 * good command of the English language, *very* good command of the Italian language^
 
-* an interest in the world of Open Software (you don't necessarily have to be a technologist or some kind of engineer, many of our finest translators started as simple satisfied users of Firefox and other Mozilla products!)
+* an interest in the world of Open Software (you don’t necessarily have to be a technologist or some kind of engineer, many of our finest translators started as simple satisfied users of Firefox and other Mozilla products!)
 
 * commitment to follow the translation project assigned to you through time, to make an effort and comply with Mozilla Italia localization guidelines
 
@@ -63,7 +63,7 @@ We hope that our work will be read, reused and re-mixed by other l10n communitie
 
 #### Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) to know what roles and duties are required in this project. Don't forget to go through our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to learn about a few golden rules that will make coexistence in the team easier.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) to know what roles and duties are required in this project. Don’t forget to go through our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to learn about a few golden rules that will make coexistence in the team easier.
 
 #### License
 
@@ -71,7 +71,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) to know what roles and duties are
 See the file [LICENSE.md](LICENSE.md) for details.
 
 #### Authors
-Don't hesitate to get in touch with us for any question!
+Don’t hesitate to get in touch with us for any question!
 
 * **Sara Todaro** - *Senior volunteer translator*  <br>[GitHub](https://github.com/kitsunenosaraT), [Mozillians](https://mozillians.org/u/sara_t/)
 * **Sandro Della Giustina** - *Senior volunteer translator*  <br>[GitHub](https://github.com/gialloporpora), [Mozillians](https://mozillians.org/u/gialloporpora/)
