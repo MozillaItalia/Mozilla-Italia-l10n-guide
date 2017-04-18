@@ -36,12 +36,12 @@ As you can see from the [roadmap](ROADMAP.md), this project calls for the intera
 
 ^ Note: During the testing you may be asked to register a free account on [Pontoon](https://pontoon.mozilla.org/), the dedicated online translation platform of Mozilla, [MDN](https://developer.mozilla.org/), the Mozilla Wiki for developers, or install and use free, open source aided translation tools such as [OmegaT](http://omegat.org/) or [Poedit](https://poedit.net/).
 
-**If you’d like to contribute, please drop a few lines to @kitsunenosarat telling us about yourself and your interest in localization and/or open source. We’ll get in touch with you!**
+**If you’d like to contribute, please comment on issue #20 writing a few lines about yourself.**
 
 ## Communication channels
 1. **GitHub**<br>
 The localization guide is hosted on GitHub, a web platform conceived for collaborative work, that easily keeps track of who contributed what.
-If you already have a GitHub account, please include your git nickname (for example @kitsunenosarat) in your presentation. If you don’t have one, you can always register [here](https://github.com/join?source=header-home) (It’s free!)
+If you already have a GitHub account, please come and introduce yourself in issue #20. If you don’t have one, you can always register [here](https://github.com/join?source=header-home) (It’s free!)
 
 2. **Email**<br>
 GitHub gives you a free and safe account, but if you don’t feel like to register your data on a new site just for the sake of one project, we respect that.
