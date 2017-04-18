@@ -45,7 +45,7 @@ If you already have a GitHub account, please include your git nickname (for exam
 
 2. **Email**<br>
 GitHub gives you a free and safe account, but if you don’t feel like to register your data on a new site just for the sake of one project, we respect that.
-<br>If you’d rather communicate through email, get in touch with [Sara T.](https://mozillians.org/u/sara_t/). We’ll incorporate your contributions on GitHub for you, giving you the appropriate credit.
+<br>If you’d rather communicate through email, get in touch with [Sara T.](https://mozillians.org/u/sara_t/) We’ll incorporate your contributions on GitHub for you, giving you the appropriate credit.
 
 3. **Mozilla Italia forum**<br>
 If you are a "community kind of guy/gal", you can also choose to register an account at the [Mozilla Italia Forum](https://forum.mozillaitalia.org/). You will receive all the instructions, resources and updates, as well as give back your feedback in [this thread](https://forum.mozillaitalia.org/index.php?topic=68578.0).
@@ -53,11 +53,11 @@ If you are a "community kind of guy/gal", you can also choose to register an acc
 
 ## How to contribute on GitHub
 - **Become a collaborator**
-<br>If you choose to contribute through GitHub, the first step is to mention your git name (for example @kitsunenosarat) so that we can add you to the collaborators of the repository.
+<br>If you choose to contribute through GitHub, the first step is introduce yourself in issue #20 so that we can add you to the collaborators of the repository.
 
 - **Check issues**
 <br>Then we suggest to take a look at the open [issues](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/issues).<br>
-Notice the labels: you can freely leave your feedback or questions under the issues tagged `for new volunteers` and `we need your opinion!` <br>Replying to the checked questions in issue #7 is actually a good starting point for introducing yourself and helping us to understand how to make use of your talents! (hence it’s labeled `good first bug`)
+Notice the labels: you can freely leave your feedback or questions under the issues tagged `for new volunteers` and `we need your opinion!` <br>Replying to the checked questions in issues #20 and #7 is actually a good starting point for introducing yourself and helping us to understand how to make use of your talents! (hence they are labeled `good first bug`)
 <br>Also check out the label `help wanted` and `translation test` if you’d like to be assigned a particular task.
 
 - **Read & comment**
