@@ -15,7 +15,7 @@ A Mozilla ogni traduzione, sia essa opera di nuovi volontari o localizzatori sen
 Questo significa che ogni processo di traduzione coinvolge due figure, il traduttore e il revisore, e tre fasi distinte: la traduzione, la revisione, la correzione.
 
 | Fase | Ruolo | Compito |
-|-----------
+|---|---|---|
 |1. Traduzione | traduttore | traduce la prima bozza e la segnala al revisore secondo le modalità stabilite|
 |2. Revisione | revisore | legge la bozza e segnala le opportune modifiche |
 |3. Correzione | traduttore | legge il testo revisionato  e valuta se accettare le modifiche proposte o proporre una versione alternativa^. |
