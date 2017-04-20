@@ -1,4 +1,4 @@
-# Norme redazionali di Mozilla Italia
+# Buone norme di traduzione tecnica
 
 ### Ortografia
 #### Punteggiatura
@@ -31,13 +31,18 @@ es.
 <br>No: La guida di localizzazione di Mozilla Italia*.*
 
 ##### Il punto esclamativo
-Nello stile Mozilla Italia è da dosare con parsimonia.
+Viene utilizzato spesso (a volte abusato) nello stile informatico anglofono, specialmente nei messaggi di sistema che notificano un errore.
 
-Per esempio gli avvisi di sistema inglesi ne sono pieni, ma in italiano li evitiamo.
+Nello stile di localizzazione italiano, e a Mozilla Italia in particolare, è da dosare con parsimonia.
 
 es.
 >EN: Error 404: page not found**!**
 <br>IT: Errore 404: pagina non trovata**.**
+
+In ogni caso, sono *sempre* da evitare le stringhe continue di punti esclamativi o interrogativi come
+>No: Collabora con noi!!!!!!!!!!!!!!
+
+In casi eccezionali, per denotare una particolare enfasi saranno sufficienti tre punti esclamativi di seguito `!!!`.
 
 ##### L’apostrofo
 L’apostrofo “diritto” `'` , detto anche dattilografico, è quello più comunemente accessibile sulle tastiere.
@@ -90,6 +95,7 @@ Il trattino corto va utilizzato esclusivamente come *trait d’union* in un comp
 Esempi sono le seguenti parole:
 
 >e-mai / email
+<br>on-line / online
 <br>multi-piattaforma / multipiattaforma.
 
 Il trattino lungo è usato per gli incisi, o comunque per separare due frasi, e va sempre preceduto e seguito da uno spazio.
@@ -111,8 +117,26 @@ oppure
 <br>IT: Firefox**,** il browser che mette la privacy al primo posto**,** è ora disponibile per Android.
 
 #### Maiuscole e minuscole
-Le regole della maiuscola sono diverse in italiano e in inglese.
-Ecco alcuni esempi di vocaboli scritti sempre con la maiuscola in inglese ma non in italiano:
+
+Le regole della maiuscola sono diverse in italiano e in inglese. In italiano vanno comunemente scritte con la maiuscola:
+- nomi propri
+- acronimi es.
+>HTML (**H**yper**T**ext **M**arkup **L**anguage)
+<br>URL (**U**niform **R**esource **L**ocators)
+
+- abbreviazioni
+>es. Web (World Wide **Web**)
+- la prima lettera di ciascun termine che indichi il nome di un tasto della tastiera
+- la prima lettera della prima parola di un periodo
+- la prima lettera della prima parola di un titolo es.
+>EN: **H**ow to **C**ontribute in the **I**talian **C**ommunity
+<br>IT: **C**ome collaborare nella comunità italiana
+
+ **N.B.** I titoli *non* terminano mai con `.`
+
+- la prima lettera della prima parola di una funzione o di un’opzione
+
+Ecco alcune categorie di vocaboli scritti sempre con la maiuscola in inglese ma non in italiano:
 
 | Vocaboli | Inglese | Italiano |
 | --- | --- |
@@ -120,8 +144,8 @@ Ecco alcuni esempi di vocaboli scritti sempre con la maiuscola in inglese ma non
 |Nomi dei mesi|January, February, March ecc.|gennaio, febbraio, marzo ecc.|
 |Aggettivi di nazionalità| English, Italian, Chinese|italiano, inglese, cinese ecc.|
 
-##### Regola della casa: Web/Internet
-A Mozilla Italia è stato adottata la seguente norma per i vocaboli “web” e “internet”.
+##### Eccezioni
+La seguente norma per i vocaboli “web” e “internet”.
 
 Quando intesi come sostantivi li mettiamo maiuscoli:
 
@@ -134,18 +158,6 @@ Quando intesi come attributi vanno invece minuscoli:
 es.
 >sito **web**
 <br>connessione **internet**
-
-
-##### Titoli
-In inglese nei titoli viene scritta in maiuscola ogni parola del titolo portatrice di un significato semantico (in pratica verbi, sostantivi, aggettivi, ma non preposizioni e congiunzioni).
-
-In italiano si scrive in maiuscolo solo la prima lettera del titolo (oltre, ovviamente, ai nomi propri e agli acronimi).
-
-es.
->**H**ow to **C**ontribute in the **I**talian **C**ommunity
-<br> **C**ome collaborare nella comunità italiana
-
-**N.B.** I titoli *non* terminano mai con `.`
 
 
 ### Libertà stilistiche e calchi linguistici
