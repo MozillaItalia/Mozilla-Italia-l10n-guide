@@ -6,15 +6,18 @@
 Durante una traduzione è importante essere consapevoli delle sottili differenze nell'uso della punteggiatura tra una lingua e l'altra. Questo è il caso della virgola.
 
 In inglese la virgola viene utilizzata anche dopo le congiunzioni.
+
 es.
 >EN: For safety, privacy**, and** freedom on the Web
 
 In italiano, al contrario, avendo entrambe lo stesso ruolo, la congiunzione esclude la virgola e viceversa.
+
+es.
 >IT: Per la sicurezza, la privacy **e** la libertà sul Web
 
 Eccezione va fatta naturalmente per il discorso degli incisi.
 
->es. Se Marco si lascerà scappare il nostro segreto**, e sono sicuro che prima o poi lo farà,** finiremo tutti nei guai fino al collo.
+>Se Marco si lascerà scappare il nostro segreto**, e sono sicuro che prima o poi lo farà,** finiremo tutti nei guai fino al collo.
 
 ##### Il punto
 Le sequenza `.”.`, `.).` e simili sono considerate graficamente sgradevoli e pertanto da evitare.
@@ -28,7 +31,7 @@ Il punto va anche evitato alla fine dei titoli.
 
 es.
 >Sì: La guida di localizzazione di Mozilla Italia
-<br>No: La guida di localizzazione di Mozilla Italia*.*
+<br>No: La guida di localizzazione di Mozilla Italia**.**
 
 ##### Il punto esclamativo
 Viene utilizzato spesso (a volte abusato) nello stile informatico anglofono, specialmente nei messaggi di sistema che notificano un errore.
@@ -46,7 +49,7 @@ In casi eccezionali, per denotare una particolare enfasi saranno sufficienti tre
 
 ##### L’apostrofo
 L’apostrofo “diritto” `'` , detto anche dattilografico, è quello più comunemente accessibile sulle tastiere.
-Tuttavia, esso viene utilizzato anche in vari tipi di codice, per questo può causare conflitti nei documenti misti di testo e codice.
+Tuttavia, esso viene utilizzato anche in vari tipi di codice, per questo può generare conflitti nei documenti misti di testo e codice.
 
 Meglio dunque utilizzare l’apostrofo curvo, detto anche tipografico `’`.
 
@@ -79,7 +82,7 @@ Per la stessa ragione dell’apostrofo, preferiamo alle virgolette dritte, quell
 ##### Ellissi
 Per digitare i puntini di sospensione, chiamati anche ellissi, molti premono semplicemente il tasto `.` tre volte in successione. In realtà il simbolo dell’ellissi ha la sua combinazione di tasti dedicata.
 
->Scorciatoie da tastiera per puntini:
+>Scorciatoie da tastiera per ellissi:
 <br>**Windows** `Alt + 0133`
 <br>**MacOS**  `Alt + ,`
 <br>**Linux** ????
@@ -96,7 +99,7 @@ Esempi sono le seguenti parole:
 
 >e-mai / email
 <br>on-line / online
-<br>multi-piattaforma / multipiattaforma.
+<br>multi-piattaforma / multipiattaforma
 
 Il trattino lungo è usato per gli incisi, o comunque per separare due frasi, e va sempre preceduto e seguito da uno spazio.
 
@@ -120,12 +123,14 @@ oppure
 
 Le regole della maiuscola sono diverse in italiano e in inglese. In italiano vanno comunemente scritte con la maiuscola:
 - nomi propri
-- acronimi es.
+- acronimi <br>es.
 >HTML (**H**yper**T**ext **M**arkup **L**anguage)
 <br>URL (**U**niform **R**esource **L**ocators)
 
 - abbreviazioni
->es. Web (World Wide **Web**)
+<br> es.
+>Web (World Wide **Web**)
+
 - la prima lettera di ciascun termine che indichi il nome di un tasto della tastiera
 - la prima lettera della prima parola di un periodo
 - la prima lettera della prima parola di un titolo es.
@@ -139,15 +144,15 @@ Le regole della maiuscola sono diverse in italiano e in inglese. In italiano van
 Ecco alcune categorie di vocaboli scritti sempre con la maiuscola in inglese ma non in italiano:
 
 | Vocaboli | Inglese | Italiano |
-| --- | --- |
+| --- | --- | --- |
 |Nomi dei giorni della settimana:|Monday, Tuesday, Wednesday ecc.|lunedì, martedì, mercoledì ecc.|
 |Nomi dei mesi|January, February, March ecc.|gennaio, febbraio, marzo ecc.|
 |Aggettivi di nazionalità| English, Italian, Chinese|italiano, inglese, cinese ecc.|
 
 ##### Eccezioni
-La seguente norma per i vocaboli “web” e “internet”.
+Si sta diffondendo sempre di più l'uso di scrivere sempre indifferentemente in minuscolo le parole “internet” e “web”, Mozilla si attiene alla seguente norma vigente.
 
-Quando intesi come sostantivi li mettiamo maiuscoli:
+Quando intesi come sostantivi, si usa il maiuscolo:
 
 es.
 >Salviamo il **Web**
@@ -164,20 +169,18 @@ es.
 Ogni lingua possiede il suo modo peculiare di strutturare una frase, per cui nelle traduzioni tecniche non bisogna esitare a rigirare una frase quando questa azione la renderebbe più comprensibile o scorrevole.
 Ecco alcune modifiche che possono evitare i calchi linguistici dall’inglese e rendere la traduzione italiana più chiara e scorrevole.
 
-#### Lunghezza delle frasi
+#### Lunghezza delle frasi
 L’inglese è notoriamente una lingua che preferisce periodi semplici e collegati paratatticamente.
-
-L’italiano è, al contrario, una lingua famosa per il periodare lungo e complesso, in cui prevale la subordinazione.
-
-Ne consegue che a volte traducendo dall’inglese all’italiano, il periodo che risulta appare fin troppo “elementare”, spezzettato.
+<br>L’italiano è, al contrario, una lingua famosa per il periodare lungo e complesso, in cui prevale la subordinazione.
+<br>Ne consegue che a volte traducendo dall’inglese all’italiano, il periodo che risulta appare fin troppo “elementare”, spezzettato.
 
 Per evitare questo effetto può essere utile unire due periodi brevi in uno più lungo, quando possibile evidenziandone il nesso logico con una proposizione subordinata. Questo darà al discorso un senso di continuità e renderà più facile seguirne il filo logico.
 
 #### Lessico
-##### Verbi
-Altra caratteristica dell’inglese è la preferenza per un lessico generico, un buon esempio del quale sono i *phrasal verbs* che uniscono a verbi comuni una preposizione per dargli un nuovo significato, anche quando per quello stesso significato esisterebbe un verbo più specifico.
+##### Verbi e sostantivi
+Altra caratteristica dell’inglese è la preferenza per un lessico generico, un buon esempio del quale sono i *phrasal verbs*, che uniscono a verbi comuni una preposizione per dargli un nuovo significato, anche quando per quello stesso significato esisterebbe un verbo più specifico.
 
-es.
+Fare particolarmente attenzione ai seguenti termini:
 >register / sign up
 <br>access / sign in
 
@@ -198,17 +201,18 @@ In italiano sono aggettivi molto generici e danno un'idea di povertà lessicale.
 Per esempio un programma “potente” potrebbe essere, a seconda del singolo caso, performante, o versatile, o completo, oppure stabile, o ancora flessibile ecc.
 
 ##### False friends
-In ultimo bisogna evitare le trappole dei *false friends* (parole straniere che somigliano a termini esistenti italiani, ma hanno un significato diverso). Alcuni di essi sono:
+In ultimo bisogna evitare le trappole dei *false friends* (parole straniere che somigliano a termini esistenti italiani, ma hanno un significato diverso). Alcuni dei principali sono:
 - submit:
-non sottomettere (assoggettare qualcuno al proprio volere) ma sottoporre (ad esame).<br> A seconda dei casi, per esempio in presenza di un modulo per inoltrare file, si possono utilizzare anche inviare o caricare.
+non sottomettere (assoggettare qualcuno al proprio volere), ma sottoporre (ad esame).<br> A seconda dei casi, per esempio in presenza di un modulo per inoltrare file, si possono utilizzare anche inviare o caricare.
 es.
 >EN: Submit your add-on for review.
-<br>IT: Carica il componente aggiuntivo per il processo di revisione
+<br>IT: Carica il componente aggiuntivo per il processo di revisione.
 
 - application:
-attenzione al contesto! Il software è un’applicazione, quando si fa domanda per partecipare a un progetto si dice candidatura.
->es.
-<EN: Send your application at the following email address
+attenzione al contesto! Il software è un’“applicazione”, quando si fa domanda per partecipare a un progetto si dice candidatura, proposta o simili.
+
+es.
+>EN: Submit your application at the following email address
 <br>IT: Invia la candidatura al seguente indirizzo email.
 
 - excited: non “eccitato”, termine dalle connotazioni sessuali o comunque esagerate, ma “entusiasta” (es. siamo entusiasti della nuova versione), o a seconda dei casi “impaziente” (sono impaziente che esca la nuova versione), “orgoglioso” (siamo orgogliosi di presentare la nuova versione) ecc.
@@ -219,15 +223,14 @@ es.
 
 #### Diatesi
 Certi usi inglesi del passivo risultano in una traduzione italiana inutilmente macchinosa, specialmente quando si stanno scrivendo istruzioni complesse.
-
-In questi casi è preferibile capovolgere la diatesi trasformando la forma passiva in attiva per maggiore chiarezza.
+<br>In questi casi è preferibile capovolgere la diatesi trasformando la forma passiva in attiva per maggiore chiarezza.
 
 es.
->La struttura base può essere modificata.
+>Le impostazioni possono essere modificate in un secondo momento.
 
 diventa
 
->È possibile modificare la struttura base.
+>È possibile modificare le impostazioni in un secondo momento.
 
 #### Tema della frase
 Un altro accorgimento che facilita il lettore è cercare di mettere l’informazione più importante (o tema) all’inizio della frase.
@@ -243,11 +246,11 @@ piuttosto che
  *Procedura* > *effetto*.
 
  es.
->Completa l'orientamento online per essere abilitato.
+>Accedi a Menu > Componenti aggiuntivi > Aspetto per attivare un nuovo tema.
 
 diventa
 
->Per essere abilitato completa l'orientamento online.
+>Per attivare un nuovo tema accedi a Menu > Componenti aggiuntivi > Aspetto.
 
 ### Quando tradurre e quando no
 #### Nomi comuni
@@ -262,7 +265,10 @@ Anche i neologismi usati colloquialmente sono da evitare il più possibile nella
 
 Es.
 > cliccare > fare clic (senza k)
-> <br>postare > pubblicare un articolo / un post
+<br>postare > pubblicare un articolo / un post
+<br>editare > modificare
+<br>loggarsi > accedere
+
 
 #### Nomi propri
 Caso a parte sono i nomi propri, di prodotti o eventi. Quando esiste un traducente italiano *ufficiale* di un prodotto, va usato quello, altrimenti si lascia la versione originale, senza inventarsi un nome italiano che potrebbe non essere riconosciuto dall’utente finale.
@@ -274,12 +280,22 @@ Caso a parte sono i nomi propri, di prodotti o eventi. Quando esiste un traducen
 
 es.
 >JavaScript e non Javascript o Java Script
-><br>PayPal e non Paypal o Pay Pal
+<br>PayPal e non Paypal o Pay Pal
+<br>iPhone e non iphone o i-Phone
 
-In caso di prodotti o eventi Mozilla, dato che l’associazione ha voce in capitolo sulla decisione, si valuterà insieme di caso in caso se tenere l’originale o localizzarlo.
+In caso di prodotti o eventi Mozilla, dato che l’associazione ha voce in capitolo sulla decisione, si valuterà insieme di caso in caso se mantenere l’originale o localizzarlo.
 
 #### Casi particolari:
-I nomi di cariche all’interno di un’organizzazione sono spesso titoli molto specifici e creati ad hoc, di cui è difficile o impossibile rendere un esatto corrispondente in italiano. Per cui, se all’interno di un discorso  “CEO” può essere tradotto presidente, in assenza di contesto (es. in caso di liste di nomi) le cariche vanno lasciate in inglese.
+I nomi di cariche all’interno di un’organizzazione sono spesso titoli molto specifici e creati ad hoc, di cui non esiste esatto corrispondente in italiano.
 
+In questi casi improvvisare una traduzione arbitraria corre il rischio di causare malintesi sull’effettivo organigramma di un’organizzazione.
+Pertanto è consigliabile gestirli alla stregua dei nomi propri e mantenerli in inglese.
 
-Può essere utile lasciare in lingua inglese la documentazione per sviluppatori contenente nomi di tecnologie nuove o sconosciute per cui non si è ancora affermato un traducente in lingua italiana. Inoltre gli sviluppatori in genere si muovono in un ambito internazionale, quindi va a loro vantaggio conoscere più il termine internazionale che quello italiano.
+Esempi da lasciare invariati:
+>Mitchell Baker, Executive Chairwoman
+<br>Chris Beard, Chief Executive Officer
+<br>Mark Surman, President and Executive Director
+
+Può essere utile, per motivi di diffusione internazionale, mantenere in lingua inglese la documentazione per sviluppatori contenente nomi di tecnologie nuove o sconosciute per cui non si è ancora affermato un traducente in lingua italiana.
+
+Va considerato che tale documentazione è ad uso e consumo degli sviluppatori, che si muovono in un ambito internazionale e pertanto trovano di maggiore utilità conoscere il termine inglese.
