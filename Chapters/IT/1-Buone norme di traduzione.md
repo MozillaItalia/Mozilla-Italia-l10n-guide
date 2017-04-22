@@ -14,18 +14,20 @@ Si tratta di un capitolo corposo e dettagliato, in continua espansione. È conce
    - [Ellissi](#ellissi)
    - [Trattini](#trattini)
   - [Maiuscole e miniscole](#maiuscole-e-minuscole)
+  - [Plurale dei vocaboli stranieri](#plurale-dei-vocaboli-stranieri)
+  - [Genere dei vocaboli stranieri](#genere-dei-vocaboli-stranieri)
 * [Libertà stilistiche e calchi linguistici](#libertà-stilistiche-e-calchi-linguistici)
- - [Lunghezza delle frasi
+  - [Lunghezza delle frasi
 ](#lunghezza-delle-frasi)
- - [Lessico](lessico)
-  - [Verbi e sostantivi](#verbi e sostantivi)
+  - [Lessico](lessico)
+  - [Verbi e sostantivi](#verbi-e-sostantivi)
   - [Aggettivi](#aggettivi)
   - [False friend](#false-friend)
- - [Diatesi](diatesi)
+  - [Diatesi](diatesi)
 * [Quando tradurre e quando no](#quando-tradurre-e-quando-no)
- - [Nomi comuni](#nomi-comuni)
- - [Nomi propri](#nomi-propri)
- - [Casi particolari](#casi-particolari)
+  - [Nomi comuni](#nomi-comuni)
+  - [Nomi propri](#nomi-propri)
+  - [Casi particolari](#casi-particolari)
 
 ### Ortografia
 #### Punteggiatura
@@ -190,6 +192,44 @@ Quando intesi come attributi vanno invece minuscoli:
 es.
 >sito **web**
 <br>connessione **internet**
+
+#### Plurale dei vocaboli stranieri
+I vocaboli stranieri sono da considerare *invariabili*, ovvero compaiono sempre nella stessa forma indipendentemente che siano al singolare o al plurale. L’articolo (singolare o plurale) sarà sufficiente a indicare il numero del vocabolo.
+
+Es.
+> “I CD” e non “i CD**s**”
+<br>“I file” e non “I file**s**”
+<br>“le password” e non “le pasword**s**”
+
+I motivi di questa regola sono facilmente intuibili: se ogni parola di ogni lingua straniera che entra nella lingua italiana si trascinasse dietro le  proprie regole grammaticali, sarebbe il caos più totale. Si pensi per esempio a lingue come il tedesco, dove una parola non ha solo la forma singolare o plurale, ma va anche declinata a seconda del suo ruolo all’interno della frase.
+
+#### Genere dei vocaboli stranieri
+Per l’invariabilità dei vocaboli vale quanto detto per il plurale.
+Tuttavia quando un vocabolo straniero entra nella lingua italiana, occorre assegnargli un genere, maschile o femminile.
+
+Di solito è l’uso comune a determinare il genere di un vocabolo straniero. Questa assegnazione avviene secondo un rapporto di tipo associativo con il più vicino corrispondente italiano.
+
+es.
+>“la posta / la lettera” diventa “l(a)’email”
+<br>“la parola chiave” diventa “la password”
+
+Tuttavia esistono anche note eccezioni, come:
+>“la Rete” diventa “il Web”
+
+Per giunta possono esserci diverse interpretazioni a seconda del corrispondente italiano che ciascun individuo ha in mente.
+es.
+>“canvas” può essere inteso per alcuni al maschile come “canovaccio” e per altri al femminile come “tela”.
+
+>“CPU”, può essere inteso al maschile come “processore centrale” eppure contenendo il termine “unità” può essere anche inteso al femminile come “la CPU”.
+
+Un metodo per ovviare a questa intrinseca soggettività è seguire la convenzione di *considerare di genere maschile tutte le nuove parole straniere*. Naturalmente è un metodo che va temperato dalle eccezioni dell’uso, in quanto è impensabile pretendere di modificare usanze consolidate, per esempio iniziando a scrivere “lo email”.
+
+Non esiste un metodo intrinsecamente più giusto dell’altro, ma è opportuno che ogni organizzazione stabilisca delle convenzioni allo scopo di mantenere la coerenza terminologica interna.
+
+Una soluzione valida è indicare nel glossario dell’associazione, accanto al traducente, il genere da attribuire al termine.
+
+es.
+>EN: email > IT: email (f.)
 
 
 ### Libertà stilistiche e calchi linguistici
