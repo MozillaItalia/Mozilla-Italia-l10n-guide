@@ -1,8 +1,8 @@
 # Linee guida di Mozilla Italia
 ## Indice
 * [Terminologia: se e quando tradurre](#terminologia-se-e-quando-tradurre)
-* [Non tradurre: i pro e i contro](#non-tradurre-i-pro-e-i-contro)
-* [Tradurre: i pro e i contro](#tradurre-i-pro-e-i-contro)
+ * [Non tradurre: i pro e i contro](#non-tradurre-i-pro-e-i-contro)
+ * [Tradurre: i pro e i contro](#tradurre-i-pro-e-i-contro)
 * [Un caso particolare: la documentazione tecnica](#un-caso-particolare-la-documentazione-tecnica)
 * [Identità e missione di Mozilla](#identità-e-missione-di-mozilla)
 * [Consigli pratici](#consigli-pratici)
