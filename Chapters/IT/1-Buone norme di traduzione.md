@@ -1,8 +1,35 @@
 # Buone norme di traduzione tecnica
+Questo capitolo raccoglie le cosiddette “buone pratiche”, ovvero un insieme di regole condivise (non solo da Mozilla Italia, ma in tutto il panorama italiano) che contraddistinguono una traduzione tecnica di buona qualità.
+
+Si tratta di un capitolo corposo e dettagliato, in continua espansione. È concepito per essere tenuto a portata di mano durante la traduzione e consultato all’occasione mediante l’[Indice dei contenuti](#indice-dei-contenuti).
+
+## Indice dei contenuti
+* [Ortografia](#ortografia)
+  - [Punteggiatura](#punteggiatura)
+   - [Virgola](#virgola)
+   - [Punto](#punto)
+   - [Punto esclamativo](#punto-esclamativo)
+   - [Apostrofo](#apostrofo)
+   - [Virgolette](#virgolette)
+   - [Ellissi](#ellissi)
+   - [Trattini](#trattini)
+  - [Maiuscole e miniscole](#maiuscole-e-minuscole)
+* [Libertà stilistiche e calchi linguistici](#libertà-stilistiche-e-calchi-linguistici)
+ - [Lunghezza delle frasi
+](#lunghezza-delle-frasi)
+ - [Lessico](lessico)
+  - [Verbi e sostantivi](#verbi e sostantivi)
+  - [Aggettivi](#aggettivi)
+  - [False friend](#false-friend)
+ - [Diatesi](diatesi)
+* [Quando tradurre e quando no](#quando-tradurre-e-quando-no)
+ - [Nomi comuni](#nomi-comuni)
+ - [Nomi propri](#nomi-propri)
+ - [Casi particolari](#casi-particolari)
 
 ### Ortografia
 #### Punteggiatura
-##### La virgola
+##### Virgola
 Durante una traduzione è importante essere consapevoli delle sottili differenze nell'uso della punteggiatura tra una lingua e l'altra. Questo è il caso della virgola.
 
 In inglese la virgola viene utilizzata anche dopo le congiunzioni.
@@ -19,7 +46,7 @@ Eccezione va fatta naturalmente per il discorso degli incisi.
 
 >Se Marco si lascerà scappare il nostro segreto**, e sono sicuro che prima o poi lo farà,** finiremo tutti nei guai fino al collo.
 
-##### Il punto
+##### Punto
 Le sequenza `.”.`, `.).` e simili sono considerate graficamente sgradevoli e pertanto da evitare.
 
 Dunque, qualora si verificassero, si omette il punto all’interno delle virgolette o parentesi lasciando solo quello esterno.
@@ -33,7 +60,7 @@ es.
 >Sì: La guida di localizzazione di Mozilla Italia
 <br>No: La guida di localizzazione di Mozilla Italia**.**
 
-##### Il punto esclamativo
+##### Punto esclamativo
 Viene utilizzato spesso (a volte abusato) nello stile informatico anglofono, specialmente nei messaggi di sistema che notificano un errore.
 
 Nello stile di localizzazione italiano, e a Mozilla Italia in particolare, è da dosare con parsimonia.
@@ -47,7 +74,7 @@ In ogni caso, sono *sempre* da evitare le stringhe continue di punti esclamativi
 
 In casi eccezionali, per denotare una particolare enfasi saranno sufficienti tre punti esclamativi di seguito `!!!`.
 
-##### L’apostrofo
+##### Apostrofo
 L’apostrofo “diritto” `'` , detto anche dattilografico, è quello più comunemente accessibile sulle tastiere.
 Tuttavia, esso viene utilizzato anche in vari tipi di codice, per questo può generare conflitti nei documenti misti di testo e codice.
 
@@ -69,7 +96,7 @@ e simili casi di articolo indeterminativo + maschile.
 
 In realtà il dibattito tra i linguisti italiani è ancora aperto, ma per uniformità stilistica scegliamo di adottare la versione priva di apostrofo.
 
-##### Le virgolette
+##### Virgolette
 Per la stessa ragione dell’apostrofo, preferiamo alle virgolette dritte, quelle curve.
 
 **N.B.** Le virgolette dritte sono intercambiabili, ma quelle curve sono due distinte, una per l'apertura `“` orientata verso sinistra, e una di chiusura, orientata verso destra `”`.
@@ -89,7 +116,7 @@ Per digitare i puntini di sospensione, chiamati anche ellissi, molti premono sem
 
 Questo accorgimento diventa particolarmente utile in caso di limitazione dei caratteri, per esempio nei *tweet* di Twitter: infatti `…` viene conteggiato come un solo carattere.
 
-##### I trattini
+##### Trattini
 Occorre fare una distinzione tra il trattino corto `-` e il trattino lungo `–`.
 
 Il trattino corto va utilizzato esclusivamente come *trait d’union* in un composto formato da due parole, senza spazi in mezzo.
@@ -200,8 +227,8 @@ In italiano sono aggettivi molto generici e danno un'idea di povertà lessicale.
 
 Per esempio un programma “potente” potrebbe essere, a seconda del singolo caso, performante, o versatile, o completo, oppure stabile, o ancora flessibile ecc.
 
-##### False friends
-In ultimo bisogna evitare le trappole dei *false friends* (parole straniere che somigliano a termini esistenti italiani, ma hanno un significato diverso). Alcuni dei principali sono:
+##### False friend
+In ultimo bisogna evitare le trappole dei *false friend* (parole straniere che somigliano a termini esistenti italiani, ma hanno un significato diverso). Alcuni dei principali sono:
 - submit:
 non sottomettere (assoggettare qualcuno al proprio volere), ma sottoporre (ad esame).<br> A seconda dei casi, per esempio in presenza di un modulo per inoltrare file, si possono utilizzare anche inviare o caricare.
 es.
@@ -256,7 +283,9 @@ diventa
 #### Nomi comuni
 In presenza di un traducente accettabile, Mozilla Italia preferisce sempre fare uso dei termini italiani e promuoverli in rete sfruttando la sua posizione rilevante per abituare l’utente a un linguaggio più consapevole del significato dei termini e non impoverito dall’uso di anglicismi.
 
-Alcuni esempi:
+Per verificare se è come tradurre un termine, è buona norma attenersi al traducente dato nel glossario ufficiale dell’organizzazione per cui si traduce (nel caso di Mozilla Italia, [Transvision](https://transvision.mozfr.org/)).
+
+Alcuni esempi di scelte terminologiche di Mozilla Italia:
 > community > comunità
 > <br>network > rete di contatti
 > <br>report > resoconto ecc.
@@ -285,7 +314,7 @@ es.
 
 In caso di prodotti o eventi Mozilla, dato che l’associazione ha voce in capitolo sulla decisione, si valuterà insieme di caso in caso se mantenere l’originale o localizzarlo.
 
-#### Casi particolari:
+#### Casi particolari
 I nomi di cariche all’interno di un’organizzazione sono spesso titoli molto specifici e creati ad hoc, di cui non esiste esatto corrispondente in italiano.
 
 In questi casi improvvisare una traduzione arbitraria corre il rischio di causare malintesi sull’effettivo organigramma di un’organizzazione.
