@@ -50,13 +50,18 @@ Mozilla Italia is a Mozilla’s community made by volunteers. As a community of 
 
 1. Follow you project
 
-If you start to contribute in a project, remember that the project is a work in progress and that, like software, project and translation are often updated. 
-The big part of the work is to translate the project the first time, but the important part is to follow future updates of the project. Updates are usually small, but they require to check weekly if there are new or updated strings.
+If you start to contribute in a project, remember that the project is a work in progress and that, like software, projects are often updated and translation must be maintained up to date.
+The big part of the work is to translate the project the first time, but the important part is to follow future updates of the project. Updates are usually small, but they require to check weekly if there are new or modified strings. 
+If translation is not updated, the new strings are shown in english and this broke the accessibility of the site for not english speakers. 
+For this reason, it is very important that you follow updates to the project still after its translations.
 
 2. Respect the style used in the existing translation of project
 
 It is important to be coherent with the language used in previous localization of the same project (or of similar project) and there are different styles used, for example a formal registry in guides or documentation, a more friendly language in web pages.
-When you translate new stuff, you must always check previous translation and using the same terminology and style.
+When you translate new stuff, you must always check previous translation and using the same terminology and style. 
+The terminology used in other product must be respected, for example, if you are translating a guide where is explained how to use the `Private browsing` in Firefox you have to use `Navigazione anonima` even if there are other choices to translate it. 
+The use of a coherent terminology across projects is very important to realize a solid experience for users of other languages. 
+The work of reviewers is to give translators the list of tools and terminology resources, the work of translator is to read them and using it for translations.
 
 
 3. Interaction with other people
@@ -69,6 +74,7 @@ Please don't use *k*instead of *ch* in italian words, it is an aberrant.
 4. Follow suggestions
 
 If reviewers have suggestions or suggest you to change translation, try to follow advices. If you don't agree, try to be propositive and suggest other changes in a respectful discussion.
+Sometime suggestions are made according with previous translations and maintaining a coherent terminology accross projects is very important.
 We know that sometimes there are documentation to learn, if a reviewer or an user suggest you to read some documents, please read before asking for other help, it is important not to waste the time of other people with silly questions that are already answered.
 
 5. Be available in some way
@@ -76,7 +82,8 @@ We know that sometimes there are documentation to learn, if a reviewer or an use
 If you are engaged in a project it is very important to be available in some way (email, forum, or other method of communication).
 We know that all people have sometime, very little time to dedicate to projects, it is useful to know the availability of a person, if you are very busy in a certain period, please comunicate if you can't be reachable.
 We don't demand to be always reachable, but we wish to know if we can count on you for a project in a specific range of time.
-Pages on Mozilla sites have certain deadline and it is important to know  how to divide the work to respect deadlines.
+Pages on Mozilla sites have certain deadlines and it is important to know how to divide the work to respect deadlines.
+We know that people have their real life and that they are very busy, the only thing we ask is to communicate (using forum, mail or other channels) your availability.
 
 
 
