@@ -71,7 +71,9 @@ The job of reviewers is to give translators the list of tools and terminology re
 When participating to a collaborative project, you interact with other volunteers such as yourself.
 Be respectful of their time and don’t use inappropriate language or trash talking in messages.
 Proper language is important, we don’t demand that you write like Alessandro Manzoni in messages, but, please, try avoiding “[SMS language](https://en.wikipedia.org/wiki/SMS_language)” or abusing acronyms.
-Also, please don’t replace *ch* with *k* or similar abbreviations in Italian, it is > an aberrant behaviour and makes messages difficult and annoying to read.
+Also, please don’t replace *ch* with *k* or similar abbreviations in Italian, it is  an aberrant behaviour and makes messages difficult and annoying to read.
+
+
 
 ### Follow suggestions
 
