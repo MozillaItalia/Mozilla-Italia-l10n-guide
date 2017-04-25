@@ -71,24 +71,25 @@ The job of reviewers is to give translators the list of tools and terminology re
 When participating to a collaborative project, you interact with other volunteers such as yourself.
 Be respectful of their time and don’t use inappropriate language or trash talking in messages.
 Proper language is important, we don’t demand that you write like Alessandro Manzoni in messages, but, please, try avoiding “[SMS language](https://en.wikipedia.org/wiki/SMS_language)” or abusing acronyms.
-Also, please don't replace *ch* with *k* or similar abbreviations in Italian, it is > an aberrant behaviour and makes messages difficult and annoying to read.
+Also, please don’t replace *ch* with *k* or similar abbreviations in Italian, it is > an aberrant behaviour and makes messages difficult and annoying to read.
 
 ### Follow suggestions
 
 If reviewers share tips or suggest to change translation, try to follow advices. If you don’t agree, try to be propositive and offer alternative changes in a respectful discussion.
 Sometime suggestions are made according to previous translations and maintaining a coherent terminology across projects is very important.
 We realize reading pages over pages of documentation can be time consuming. However if a reviewer encourages you to read guidelines or instructions, please make the effort and go through it carefully before asking for help.
-Not wasting other people's time over questions that have already been answered is a sign of consideration toward your fellow community members.
+Not wasting other people’s time over questions that have already been answered is a sign of consideration toward your fellow community members.
 
 ### Provide your availability
 
 When you are engaged in a translation project, it is very important to provide a means of contact (email, forum account etc.) for us to get in touch with you.
-We realize that community members have sometimes very little time to spare for volunteer activities. It is important for our organization to know general availability of our team. Because of that we ask you to communicate if you’re going to be busy for an extended period of time and don’t wish to be contacted during that time.
-We don't demand you to be always reachable, but we wish to know if we can count on you for a project for an extended period of time.
+We realize that community members have sometimes very little time to spare for volunteer activities. It is important for our organization to know general availability of our team. Because of that we ask you to communicate if you’re going to be busy for an extended period and don’t wish to be contacted during that time.
+We don’t demand you to be always reachable, but we wish to know if we can count on you for a project in a specific range of time.
 Pages on Mozilla sites are assigned certain deadlines, and in order to meet them it is important to divide work among available members.
 
 
 
 We think these are simply and logical rules to follow when collaborating in a project and we hope you agree with them.
+
 
 
