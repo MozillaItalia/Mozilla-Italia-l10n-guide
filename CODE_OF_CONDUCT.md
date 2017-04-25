@@ -46,45 +46,49 @@ Furthermore, regarding interaction between volunteer localizers, we adopt the fo
 # Mozilla Italia l10n Team Participation Guidelines
 
 
-Mozilla Italia is a Mozilla’s community made by volunteers. As a community of volunteers we don't ask anybody a professional commitment with our project, but, if you wish to join, we expect a certain conduct interacting with other people and with the project itself.
+Mozilla Italia is a community made by Mozilla’s volunteers. As such, we don’t ask you a professional commitment in our projects. Still, if you wish to join, we expect you to uphold a certain conduct while interacting with other people and with the project itself.
 
-1. Follow you project
+1. Keep your project up to date
 
-If you start to contribute in a project, remember that the project is a work in progress and that, like software, projects are often updated and translation must be maintained up to date.
-The big part of the work is to translate the project the first time, but the important part is to follow future updates of the project. Updates are usually small, but they require to check weekly if there are new or modified strings. 
-If translation is not updated, the new strings are shown in english and this broke the accessibility of the site for not english speakers. 
-For this reason, it is very important that you follow updates to the project still after its translations.
+When you start contributing in a project, remember that, just like software, web pages and contents are a work in progress: they are often updated and their translation must also be maintained up to date.
+The big part of the work is to translate the project the first time, but the important part is to follow future updates of the project. Updates are usually small, but they require weekly checks for new or edited content.
+When a content lacks its translation, it is shown in English instead, thus compromising accessibility for non-English users.
+For this reason, it is very important that you keep following the updates of a project after the initial translation.
 
-2. Respect the style used in the existing translation of project
+2. Conform to the style established in previous translations
 
 It is important to be coherent with the language used in previous localization of the same project (or of similar project) and there are different styles used, for example a formal registry in guides or documentation, a more friendly language in web pages.
-When you translate new stuff, you must always check previous translation and using the same terminology and style. 
-The terminology used in other product must be respected, for example, if you are translating a guide where is explained how to use the `Private browsing` in Firefox you have to use `Navigazione anonima` even if there are other choices to translate it. 
-The use of a coherent terminology across projects is very important to realize a solid experience for users of other languages. 
-The work of reviewers is to give translators the list of tools and terminology resources, the work of translator is to read them and using it for translations.
+When you translate new stuff, you must always check previous translations and make use of the same terminology and style. 
+The terminology used in other product must be respected.
+For example, if you are translating a guide on how to use the `Private browsing` in Firefox, you have to use the standard term `Navigazione anonima` even if other translation choices are possible.
+
+The use of a coherent terminology across projects is very important to achieve a solid experience for users of other languages.
+The job of reviewers is to give translators the list of tools and terminology resources, the job of translators is to read and make use of it during the translation process.
 
 
-3. Interaction with other people
+3. Interaction with other contributors
 
-When you partecipate to a collaborative work, you interact with other people that, like you, are volunteers.
-Be respectful of their time and don't use an inappropriate language or trash talking in messages.
-language is important, we don't demand that you write as Alessandro Manzoni in messages, but, try to avoid to write like in SMS messages or with many acronims that make messages difficult and annoying to read.
-Please don't use *k*instead of *ch* in italian words, it is an aberrant.
+When participating to a collaborative project, you interact with other volunteers such as yourself.
+Be respectful of their time and don’t use an inappropriate language or trash talking in messages.
+Proper language is important, we don’t demand that you write as Alessandro Manzoni in messages, but, please, try avoiding “[SMS language](https://en.wikipedia.org/wiki/SMS_language)” or abusing acronyms.
+Also, please don't replace *ch* with *k* or similar abbreviations in Italian, it is an aberrant and makes messages difficult and annoying to read.
 
 4. Follow suggestions
 
-If reviewers have suggestions or suggest you to change translation, try to follow advices. If you don't agree, try to be propositive and suggest other changes in a respectful discussion.
-Sometime suggestions are made according with previous translations and maintaining a coherent terminology accross projects is very important.
-We know that sometimes there are documentation to learn, if a reviewer or an user suggest you to read some documents, please read before asking for other help, it is important not to waste the time of other people with silly questions that are already answered.
+If reviewers share tips or suggest to change translation, try to follow advices. If you don’t agree, try to be propositive and offer alternative changes in a respectful discussion.
+Sometime suggestions are made according to previous translations and maintaining a coherent terminology across projects is very important.
+We realize reading pages over pages of documentation can be time consuming. However if a reviewer encourages you to read guidelines or instructions, please make the effort and go through it carefully before asking for help.
+Not wasting other people's time over questions that have already been answered is a sign of consideration toward your fellow community members.
 
-5. Be available in some way
+5. Provide your availability
 
-If you are engaged in a project it is very important to be available in some way (email, forum, or other method of communication).
-We know that all people have sometime, very little time to dedicate to projects, it is useful to know the availability of a person, if you are very busy in a certain period, please comunicate if you can't be reachable.
+When you are engaged in a translation project, it is very important to provide a means of contact (email, forum account etc.) for us to get in touch with you.
+We realize that community members have sometimes very little time to spare for volunteer activities. It is important for our organization to know general availability of our team. Because of that we ask you to communicate if you’re going to be busy for an extended period of time and don’t wish to be contacted during that time.
 We don't demand to be always reachable, but we wish to know if we can count on you for a project in a specific range of time.
-Pages on Mozilla sites have certain deadlines and it is important to know how to divide the work to respect deadlines.
-We know that people have their real life and that they are very busy, the only thing we ask is to communicate (using forum, mail or other channels) your availability.
+Pages on Mozilla sites are assigned certain deadlines, and in order to meet them it is important to divide work among available members.
 
 
 
 We think these are simply and logical rules to follow when collaborating in a project and we hope you agree with them.
+
+
