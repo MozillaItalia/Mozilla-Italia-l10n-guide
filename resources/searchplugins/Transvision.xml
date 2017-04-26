@@ -1,0 +1,12 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Mozilla l10n (IT)</os:ShortName>
+<os:Description>Mozilla l10n (IT)</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAQAAAAAABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAMAABILAAASCwAAAAAAAAAAAADm7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u5SUFIABAAIDAhqaWrm7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u4YHBgAAAAAAAAAAAAAAACDhYPm7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7e2t4AAAAYGBgxMDEAAAAAAAApLCnm7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7FxsUAAACcnZysqqwAAAAAAAAxMDHm7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7m7u7Nzs0AAADNzs3m7u6UkZSkoaTm7u7m7u7m7u60srRiYWJaXVre3t7m7u7m7u7m7u7Nys0AAADm7u7m7u7m7u7m7u7m7u5BREEIDAgABCkADGoACDEICAikpaTm7u7m7u6UkZQxMDHm7u7m7u7m7u7m7u7m7u4ABCAAFKQAIN4AIN4AHNUAABAICAgxNDEgJCBaWVrV0tXm7u7m7u7m7u7m7u7m7u4AHM0AIN4AHL0AEHMABCAQFBBqbWpqbWoAAADFxsXm7u7m7u7m7u7m7u7m7u7m7u4AEHsABCAIDAg5PDlqbWpzdXMgJCAgICAAAABzdXPm7u7m7u7m7u7m7u7m7u7m7u4ICAhaWVpSUFJKSEoABAgACDkAEHMAFJQADGJBQEHm7u7m7u7m7u7m7u7m7u7m7u5iZWIgICAABAgADGIAHMUAIN4AIN4AIN4AGKwpKCnm7u7m7u7m7u7m7u7m7u7m7u4AAAAACEEAHMUAIN4AIN4AIN4AIN4AHMUAFJwgICDm7u7m7u7m7u7m7u7m7u7m7u4AEHsAIN4AIN4AIN4AIN4AIN4AIN4ACEEACEEpLCnm7u7m7u7m7u7m7u7m7u7m7u4AIN4AIN4AIN4AIN4AIN4AIN4AIN4AEGoAAABBREHm7u7m7u7m7u7m7u7m7u7m7u4AIN4AIN4AIN4AIN4AIN4AIN4AIN4AGKwAAABqbWrm7u7m7u7m7u7m7u7m7u7m7u7/4f///8D///+A////gP///4n//8Of//8Bn///AB///wA///8AP///AD///wA///8AP///AD///wA///8AP///</os:Image>
+<SearchForm>http://transvision.mozfr.org</SearchForm>
+<os:Url type="text/html" method="GET" template="http://transvision.mozfr.org">
+<os:Param name="recherche" value="{searchTerms}"/>
+<os:Param name="locale" value="it"/>
+<os:Param name="repo" value="trunk"/>
+</os:Url>
+</SearchPlugin>

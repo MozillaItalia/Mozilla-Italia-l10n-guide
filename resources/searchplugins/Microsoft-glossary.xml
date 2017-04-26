@@ -1,0 +1,9 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Glossario Microsoft</os:ShortName>
+<os:Description>Cerca nel glossario Microsoft utilizzando il database della lingua italiana.</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAiFJREFUeNpcUktrU0EUPjN38jCP28SaEGnShrSItEjVLAQXrgR3ggj9AS5cuXIluBHEvQu34tY/oaUr0SqkGLSkIRVbk6K5iXmY5Jp7Z/xmbmyh58Jl5jy+75zvDFNK3X/+7tAZccYIH2MWY4qIENA/wocQgoX52IsH16xW+tbPngsX54wjn07MIJAO4aSoP55WGx1x0B6HhIkAEH5JqNPZxAwHeVJFwywZDXu+rB8NRcgyoCYbdqWUenh3zfN9IfjeYf/p66qS6vHG2vKCLSXYSMyw/9esLtpzibCUknOeSkTgLK+kr17IHPcpTK/MjKdrSudtqQCqG7K4bnXjxpIKPKQG4ykHEZoz7ZOwWCEbN5oAgk09uV5MrS6lzUiKmdF5wAAMXIvZ+LwdAZxxYlZ+53resrgvlclim5WWLuDMICgqZGIhYeHSbP8ZTbyFTOLyyrne0D3CljgI/S/fe2Zdhgt2sWCDyvfVTqMDNS29F/Zhtz2Z+og6vcn7WsfsRAUyUSmXBPlfz69++w1WjNcduB/3nHwmDv8PZ0Ra1iCZUXYuUswloYwzcJ2+m4yF4N3aadkxEQ1rMevNgRYGpZzrvcYj4vN+F2usNLq15nB79xcaevVm/+Z6rlJvY+7tmqMHv/3k7cnrCfat6JRpGfUj1FGeP3tGn9Qs/1Q2Mw9wNiSj8nJab+DRy09fD/omoK+BygHAMTYqLi3az+6V/wkwAGHq++9CqPfDAAAAAElFTkSuQmCC</os:Image>
+<SearchForm>http://www.microsoft.com/Language/en-US/Search.aspx</SearchForm>
+<os:Url type="text/html" method="GET" template="http://www.microsoft.com/Language/en-US/Search.aspx?sString={searchTerms}&amp;langID=it-IT">
+</os:Url>
+</SearchPlugin>
