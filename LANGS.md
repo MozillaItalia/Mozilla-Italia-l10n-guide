@@ -1,3 +1,3 @@
  # Languages
 
-* [Italian](Chapters/IT/)
+* [Italian](it/)
