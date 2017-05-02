@@ -3,7 +3,7 @@
 In questo capitolo vedremo brevemente le basi della sintassi HTML e di alcuni formati di file utilizzati nella localizzazione dei prodotti Mozilla.
 Nella prima sezione verranno discusse alcune nozioni di base di HTML, che sono necessarie per formattare il testo delle pagine web.
 Nella sezione successiva vedremo alcuni caratteri e codici di formattazione che possono essere utilizzati nelle stringhe e daremo delle semplici regole per evitare di generare errori.
-La terza sezione del capitolo discuterà la sintassi di alcuni file utilizzati nella localizzazione e può essere ignorata se si utilizza [Pontoon](3-Flusso di lavoro.md#pontoon ) come strumento di localizzazione.
+La terza sezione del capitolo discuterà la sintassi di alcuni file utilizzati nella localizzazione e può essere ignorata se si utilizza [Pontoon](3-Flusso%20di%20lavoro.md#pontoon ) come strumento di localizzazione.
 Nelle ultime due sezioni infine, vedremo un elenco di software utili per gestire i vari tipi di file e alcuni editor di testo che si possono utilizzare.
 
 
