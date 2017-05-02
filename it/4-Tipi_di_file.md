@@ -3,7 +3,7 @@
 In questo capitolo vedremo brevemente le basi della sintassi HTML e di alcuni formati di file utilizzati nella localizzazione dei prodotti Mozilla.
 Nella prima sezione verranno discusse alcune nozioni di base di HTML, che sono necessarie per formattare il testo delle pagine web.
 Nella sezione successiva vedremo alcuni caratteri e codici di formattazione che possono essere utilizzati nelle stringhe e daremo delle semplici regole per evitare di generare errori.
-La terza sezione del capitolo discuterà la sintassi di alcuni file utilizzati nella localizzazione e può essere ignorata se si utilizza [Pontoon](3-Flusso%20di%20lavoro.md#pontoon) come strumento di localizzazione.
+La terza sezione del capitolo discuterà la sintassi di alcuni file utilizzati nella localizzazione e può essere ignorata se si utilizza [Pontoon](/it/3-Flusso%20di%20lavoro.md#pontoon) come strumento di localizzazione.
 Nelle ultime due sezioni infine, vedremo un elenco di software utili per gestire i vari tipi di file e alcuni editor di testo che si possono utilizzare.
 
 
@@ -162,7 +162,7 @@ Se si utilizza Pontoon come strumento di localizzazione, verrà visualizzato un 
 
 Per salvare le stringhe delle varie lingue dei siti Mozilla vengono utilizzati tre diversi formati: file `.lang`, file `.properties` e file `.po`.
 Vediamo la struttura e la sintassi di questi file che altro non sono se non semplici file di testo con alcune regole di sintassi che servono per essere correttamente interpretati dal codice che si occupa di mostrare il contenuto dei siti nella lingua scelta dal visitatore.
-Conoscere la sintassi di questi file non è necessario se si utilizza uno strumento ad hoc come [Pontoon](3-Flusso di lavoro.md#pontoon), la trattazione viene fatta nel caso fosse necessario modificare manualmente i singoli file con un semplice editor di testo.
+Conoscere la sintassi di questi file non è necessario se si utilizza uno strumento ad hoc come [Pontoon](3-Flusso%20di%20lavoro.md#pontoon), la trattazione viene fatta nel caso fosse necessario modificare manualmente i singoli file con un semplice editor di testo.
 
 La prima operazione da fare è quella di munirsi di un editor di testo (vedi ultima sezione per un elenco di applicazioni per i vari sistemi) per aprire e modificare questi file, ricordandosi **sempre** di utilizzare la codifica caratteri [**UTF-8**][utf8].
 La codifica è molto importante perché un’errata codifica porterà alla visualizzazione di strani caratteri al posto dei caratteri non ASCII (si pensi ad esempio ai punti di domanda o a strani caratteri che a volte vengono visualizzati al posto delle lettere accentate in alcune pagine).
