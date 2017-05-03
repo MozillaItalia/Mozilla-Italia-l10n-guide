@@ -1,18 +1,16 @@
 # Sintassi HTML, tipi di file e strumenti di localizzazione
 
-In questo capitolo vedremo brevemente le basi della sintassi HTML e di alcuni formati di file utilizzati nella localizzazione dei prodotti Mozilla.
+In questo capitolo vedremo brevemente le basi della sintassi HTML e di alcuni formati di file utilizzati per archiviare le localizzazioni dei siti web Mozilla.
 Nella prima sezione verranno discusse alcune nozioni di base di HTML, che sono necessarie per formattare il testo delle pagine web.
-Nella sezione successiva vedremo alcuni caratteri e codici di formattazione che possono essere utilizzati nelle stringhe e daremo delle semplici regole per evitare di generare errori.
-La terza sezione del capitolo discuterà la sintassi di alcuni file utilizzati nella localizzazione e può essere ignorata se si utilizza [Pontoon](3-
-Flusso_di_lavoro.md#pontoon) come strumento di localizzazione.
-Nelle ultime due sezioni infine, vedremo un elenco di software utili per gestire i vari tipi di file e alcuni editor di testo che si possono utilizzare.
-
+Nella sezione successiva vedremo alcuni codici di formattazione che possono essere utilizzati nelle stringhe e daremo delle semplici regole per evitare di commettere errori.
+Le ultime due sezioni possono essere ignorate se si utilizza [Pontoon](3-Flusso_di_lavoro.md#pontoon) come strumento di localizzazione.
+In esse tratteremo i formati dei file utilizzati per memorizzare le stringhe della localizzazione e e gli strumenti da utilizzare per gestire questi file in locale.
 
 ## Codice HTML: le basi{#c4s1}
 
 Il codice HTML (Hypertext Markup Language) è un linguaggio ipertestuale utilizzato per la formattazione del testo e l’inserimento di contenuti multimediali nelle pagine, anche se non è compito di un localizzatore creare pagine web, la conoscenza di alcuni fondamenti può tornare utile per localizzare correttamente alcune stringhe o personalizzare la formattazione del testo (ad esempio per rendere in grassetto o in corsivo alcuni termini).
-Il codice HTML è, come detto, un linguaggio di formattazione del testo utilizzato dalle pagine web.
-In HTML il testo va racchiuso tra alcuni marcatori (tag) che descrivono il tipo di oggetto (paragrafo di testo, immagine, link,, ecc.).
+Il codice HTML è, come detto, un linguaggio di formattazione del testo utilizzato nelle pagine web.
+In HTML il testo va racchiuso tra alcuni marcatori (tag) che definiscono il tipo di oggetto (paragrafo di testo, immagine, link,, ecc.).
 Un tag è delimitato dai simboli di minore e maggiore e rappresenta un’istruzione per il browser, mentre tutto ciò che viene inserito tra il tag di apertura e chiusura è del testo che verrà, sostanzialmente, mostrato a schermo, con diversa formattazione a seconda del tag utilizzato.
 Ad esempio:
 
@@ -41,8 +39,10 @@ In particolare:
 Ne esistono in realtà moltissime altre, però queste sono quelle che devono essere sempre utilizzate per i tre caratteri sopra indicati.
 È vero che i browser moderni sono in grado di interpretare correttamente anche del codice HTML non perfettamente formattato, però da amanti del Web riteniamo che le cose vadano fatte seguendo tutte le regole del caso.
 
-Un’altra *entity* utile è lo spazio unificatore, `&nbsp;`, che visualizza semplicemente uno spazio, con l’importante differenza che forza la visualizzazione della stringa come se fosse un’unica parola.
-Questo può essere utile quando si vuole che due parole non vengano mandate a capo e mostrate su righe diverse e di solito si capisce dal contesto e guardando il risultato finale se sia da utilizzare o meno.
+Un’altra *entity* utile è lo *spazio unificatore*, `&nbsp;`, che visualizza semplicemente uno spazio, con l’importante differenza che forza il browser a considerare le due parole come una sola.
+Questo comporterà che i due termini separati da uno *spazio unificatore* non potranno mai venire mostrati su righe diverse.
+Questo può essere utile quando si vuole che due parole non vengano mandate a capo e mostrate su righe diverse, per capire quando utilizzarlo o meno bisognerà guardare l’anteprima della pagina localizzata.
+
 Per un elenco completo delle *entity* HTML consultare [questa pagina][c4l4].
 
 ### Paragrafi di testo{#c4s1-1}
@@ -58,7 +58,7 @@ Vediamo un esempio pratico:
 Il valore `red` associato alla proprietà `class` indicherà al browser di visualizzare il testo in colore rosso (o per essere precisi rispettando le regole della classe `red` definita nel foglio di stile), e come detto non va assolutamente tradotta.
 Ci sono solo due casi in cui un traduttore può tradurre il valore di una proprietà HTML e sono quelli associati alle proprietà `title` e `alt` che discuteremo più avanti parlando delle abbreviazioni, dei link e delle immagini.
 
-Come detto il testo dei paragrafi non va mai a capo, per forzare il testo ad andare a capo è necessario usare il tag `<br>` o, per rispettare le specifiche HTML il tag *selfclosed* `br/>`.
+Come detto il testo dei paragrafi non va mai a capo, per forzare il testo ad andare a capo è necessario usare il tag `<br>` o, per rispettare le specifiche HTML il tag *self-closed* `br/>`.
 Ad esempio:
 
 	Prima riga<br/>Seconda riga<br/>
@@ -75,7 +75,7 @@ Ad esempio supponiamo di avere la seguente stringa:
 	<abbr title="Hypertext Markup Language">HTML</abbr> (linguaggio a marcatore per ipertesto) è il linguaggio standard per la creazione di pagine e applicazioni web.
 	
 Il valore della proprietà `title` viene visualizzato al passaggio del mouse sulla parola *HTML* e serve per indicare il significato esatto dell’acronimo HTML.
-In questo caso il valore va lasciato in inglese perché l’acronimo non ha significato in italiano, può sempre essere utile aggiungere, anche se non presente nell’originale, qualche tag `abbr` che serva a far luce sul significato di vari acronimi che sono abusati da americani e informatici in generale, lasciando magari fra parentesi la traduzione letterale in italiano.
+In questo caso il valore va lasciato in inglese perché l’acronimo non ha senso in italiano, può sempre essere utile aggiungere, anche se non presente nell’originale, qualche tag `abbr` che serva a far luce sul significato di vari acronimi che sono abusati da americani e informatici in generale, lasciando magari fra parentesi la traduzione letterale in italiano.
 
 Per ulteriori informazioni sull’elemento `<abbr>` consultare [questo articolo][c4l6].
 
@@ -178,7 +178,7 @@ Per salvare le stringhe delle varie lingue dei siti Mozilla vengono utilizzati t
 Vediamo la struttura e la sintassi di questi file che altro non sono se non semplici file di testo con alcune regole di sintassi che servono per essere correttamente interpretati dal codice che si occupa di mostrare il contenuto dei siti nella lingua scelta dal visitatore.
 Conoscere la sintassi di questi file non è necessario se si utilizza uno strumento ad hoc come [Pontoon](3-Flusso_di_lavoro.md#pontoon), la trattazione viene fatta nel caso fosse necessario modificare manualmente i singoli file con un semplice editor di testo.
 
-La prima operazione da fare è quella di munirsi di un editor di testo (vedi ultima sezione per un elenco di applicazioni per i vari sistemi) per aprire e modificare questi file, ricordandosi **sempre** di utilizzare la codifica caratteri [**UTF-8**][utf8].
+La prima operazione da fare è quella di munirsi di un editor di testo (vedi ultima sezione per un elenco di applicazioni per i vari sistemi) per aprire e modificare questi file, ricordandosi **sempre** di utilizzare la codifica caratteri [**UTF-8 senza BOM**][utf8].
 La codifica è molto importante perché un’errata codifica porterà alla visualizzazione di strani caratteri al posto dei caratteri non ASCII (si pensi ad esempio ai punti di domanda o a strani caratteri che a volte vengono visualizzati al posto delle lettere accentate in alcune pagine).
 
 ## File `.properties`{#c4s3-1}
@@ -261,7 +261,7 @@ Il compito del traduttore è quello di modificare il file traducendo le stringhe
 Nello specifico caso di Mozilla, questo tipo di formato è utilizzato per tradurre la maggior parte dei siti e delle applicazioni web (Firefox Input, addons mozilla, firefox Account, ecc…) e non è necessario generare il file .mo compilato in quanto il lavoro viene eseguito automaticamente da un apposito script presente sui server Mozilla.
 Quindi l’unica cosa che rimane da fare è quella di modificare il file `.po` traducendo tutte le occorenze e caricare il file sui server Mozilla.
 
-Anche se è possibile utilizzare un editor di testo per tradurre questo tipo di file, si consiglia di utilizzare degli strumenti appositi come [Pontoon](https://pontoon.mozilla.org), trattato nel [precedente capitolo](), o [Poedit](https://www.poedit.net/download.php), che tratteremo brevemente in questa sezione.
+Anche se è possibile utilizzare un editor di testo per tradurre questo tipo di file, si consiglia di utilizzare degli strumenti appositi come [Pontoon](https://pontoon.mozilla.org), trattato nel [precedente capitolo](3-Flusso_di_lavoro.md#pontoon), o [Poedit](https://www.poedit.net/download.php), che tratteremo brevemente in questa sezione.
 
 L’utilizzo di software appositi permette di dimenticarsi della sintassi di questi file che è molto più complessa dei file `.lang` e `.properties` visti in precedenza.
 
@@ -323,89 +323,92 @@ Alla prossima apertura del file po con poedit, facendo clic con il tasto destro 
 ## Editor di testo e applicazioni per gestire i cataloghi `.po`e le memorie di traduzione{#c4s4}
 
 Come già detto in precedenza più volte, lo strumento più semplice per localizzare i vari progetti Mozilla è Pontoon, nel caso il progetto non sia disponibile per la localizzazione su questa piattaforma o se si preferisce non utilizzarlo, in questa sezione verranno presentati alcuni *editor di testo* e applicazioni per, alternative a Poedit, per gestire i cataloghi `.po` sulle varie piattaforme, Windows, Mac e Linux.
-Ovviamente se si utilizza già un proprio editor di testo si può tranquillamente continuare a farlo, l’importante è assicurarsi che consenta di salvare i file con codifica [**UTF-8**][utf8] (senza BOM) (praticamente si può utilizzare qualsiasi editor di testo che non sia il *Notepad* presente sulle vecchie versioni di windows).
+Ovviamente se si utilizza già un proprio editor di testo si può tranquillamente continuare a farlo, l’importante è assicurarsi che consenta di salvare i file con codifica [**UTF-8**][utf8] (senza BOM) (praticamente si può utilizzare qualsiasi editor di testo che non sia il *Notepad* presente sulle vecchie versioni di Windows).
 Con editor di testo si intende un vero editor di testo, non un editor che salva i documenti con testo formattato (*Rich Text*), evitare quindi applicazioni come Word, Abiword, Writer di OpenOffice/LibreOffice e Wordpad.
 Inoltre avere l’evidenziazione della sintassi e un correttore ortografico aiuta molto nel processo di localizzazione.
 
 Di seguito un elenco di editor di testo disponibili sulle varie piattaforme che possono essere utilizzati per l’editing dei file.
 Tutti i editor presentati supportano l’evidenziazione della sintassi e, magari previa configurazione, il controllo ortografico.
 Alcuni, come Sublime Text e Atom, dispongono inoltre di un discreto numero di moduli aggiuntivi per aggiungere nuove funzioni.
+
 -   [Pspad](https://www.pspad.com/it/download.php) - ottimo editor di testo per la piattaforma Windows.
 -   [Notepad++](https://notepad-plus-plus.org/download/) - altro editor molto diffuso per sistemi Windows che estende il Notepad di sistema.
--   [Sublime Text](https://www.sublimetext.com/) - editor di testo mmultipiattaforma (Windows, OS X e Linux).  Per attivare il controllo ortografico leggere [questa guida](https://www.sublimetext.com/docs/2/spell_checking.html). Il software rende facoltativo l’acquisto di una licenza, in ogni caso tutte le funzioni sono disponibili anche senza acquistarne una. Il programma ha inoltre un gran numero di moduli (*package*) che possono essere utilizzati per aggiungere funzionalità aggiuntive. Per ulteriori informazioni sui *package* per sublime text consultare [questa pagina](https://packagecontrol.io/).
--   [Emerald Editor](http://www.crimsoneditor.com/) - altro editor per ambiente Windows, un po’ datato ma funzionante e funziona anche con le vecchie versioni del sistema operativo di casa Microsoft.
--   [Bbedit](https://www.barebones.com/products/bbedit/) - editor di testo per sistemi OS X, la versione senza licenza è perfettamente funzionale, anche se non dispone di alcune funzioni avanzate.
+-   [Sublime Text](https://www.sublimetext.com/) - editor di testo mmultipiattaforma (Windows, OS X e Linux).  Per attivare il controllo ortografico leggere [questa guida](https://www.sublimetext.com/docs/2/spell_checking.html). L’acquisto di una licenza è facoltativo, in ogni caso tutte le funzioni sono disponibili anche senza acquistarne una. Il programma ha inoltre un gran numero di moduli (*package*) che possono essere utilizzati per aggiungere funzionalità aggiuntive. Per ulteriori informazioni sui *package* per sublime text consultare [questa pagina](https://packagecontrol.io/).
+-   [Emerald Editor](http://www.crimsoneditor.com/) - altro editor per ambiente Windows, un po’ datato ma funzionante e compatibile anche con le vecchie versioni del sistema operativo di casa Microsoft.
+-   [Bedit](https://www.barebones.com/products/bbedit/) - editor di testo per sistemi OS X, la versione senza licenza è perfettamente funzionale, anche se non dispone di alcune caratteristiche avanzate presenti nella versione a pagamento.
 -   [TextMate](https://macromates.com/) - editor di testo a pagamento avanzato per OS X.
-
--   [Scintilla](http://www.scintilla.org/scitedownload.html) - editor di testo per piattaforma Linux e Windows.
+-   [Scintilla](http://www.scintilla.org/scitedownload.html) - editor di testo open source per piattaforma Linux e Windows.
 -   [Atom](https://atom.io/) - ottimo editor di testo multi-piattaforma che utilizza tecnologie web (non disponibile per XP e Vista).
 
-Alternativamente, [OmegaT](http://omegat.org/), che verrà discusso più approfonditamente nella prossima sezione,  offre un filtro apposito per i file `.lang` che permette di tradurre in un’interfaccia facilitata senza preoccuparsi delle precedenti regole di sintassi.
+In aggiunta ci sono vim e emacs disponibili per tutte le piattaforme e sicuramente con *plugin* appositi per l’editing dei vari tipi di file, però si sconsiglia, a meno che non si abbia già familiarità con questi strumenti avanzati di editing, l’utilizzo di questi editor che sono un po più complicati e meno intuitivi a un primo approccio.
 
-in aggiunta ci sono vim e emacs disponibili per tutte le piattaforme e sicuramente con *plugin* appositi per l’editing dei file `.po`, però si sconsiglia, a meno che non si abbia già familiarità con questi strumenti avanzati di editing, l’utilizzo di questi editor che sono un po più complicati e meno intuitivi a un primo approccio.
+In aggiunta, [OmegaT](http://omegat.org/), che verrà discusso più approfonditamente [più avanti](#c4s4-1) in questa sezione,  offre un filtro apposito per i file `.lang` che permette di tradurre in un’interfaccia facilitata senza preoccuparsi delle precedenti regole di sintassi.
+
+Probabilmente, se non si è mai usato prima un editor di testo, le due migliori scelte sono Atom, open source e basato su tecnologie web e Sublime Text.
+
+Di seguito alcune applicazioni che possono essere utilizzate, in alternativa a Pontoon, per gestire i cataloghi `.po`.
+
+-   [Poedit](http://www.Poedit.net/download.php) - l’applicazione desktop più utilizzata per la gestione dei cataloghi `.po` il cui funzionamento è stato discusso nella precedente sezione.
+-   [Better Poeditor](http://sourceforge.net/projects/betterPoeditor/?source=dlp) - un *fork* di Poedit con qualche funzione aggiuntiva.
+-   [Pootle](http://pootle.translatehouse.org/) - uno strumento online di traduzione partecipativa, prima dell’avvento di Pontoon, Mozilla ne utilizzava una versione personalizzata chiamata Verbatim.
+-   [virtaal](https://sourceforge.net/projects/translate/files/virtaal/) - altro software open source per tradurre i file .po (non stabile su os x).
+-   [Get Text per Windows](http://gnuwin32.sourceforge.net/packages/gettext.htm) (strumento da riga di comando avanzato e non consigliato) È ovviamente un port del software disponibile per sistemi Linux.
 
 
-Di seguito alcune applicazioni che possono essere utilizzate, in alternativa a Pontoon, per tradurre i file `.po`.
-
-- [pootle](http://pootle.translatehouse.org/) - uno strumento online di traduzione partecipativa, prima dell’avvento di pontoon, mozilla ne utilizzava una versione personalizzata chiamata verbatim.
-
-- [virtaal](https://sourceforge.net/projects/translate/files/virtaal/) - altro software open source per tradurre i file .po (non stabile su os x).
-
-- [Get Text per windows](http://gnuwin32.sourceforge.net/packages/gettext.htm) (strumento avanzato e non consigliato) È ovviamente un port del software disponibile per sistemi Linux.
-
-**n.b.** per la lingua italiana controllare che nelle proprietà del file la codifica sia **utf-8**, che il locale sia **it** e che la forma plurale sia **2**.
 
 
-### Omega T
+### OmegaT{#c4s4-1}
 
-[Omega T](http://www.omegat.org/) è uno strumento di traduzione assistita (<abbr title="Computer Aided Translation">CAT</abbr>) multipiattaforma e gratuito che permette di utilizzare la memoria di traduzione utilizzando le traduzioni già effettuate nonché un glossario durante il processo di localizzazione.
+[OmegaT](http://www.omegat.org/) è uno strumento di traduzione assistita (<abbr title="Computer Aided Translation">CAT</abbr>) multipiattaforma e gratuito che permette di utilizzare la memoria di traduzione sfruttando le traduzioni già effettuate in aggiunta a un glossario durante il processo di localizzazione.
 
 OmegaT traduce file nei formati di testo semplice, formattato (anche con le estensioni di Open e Libre Office, Microsoft Office),  HTML, `.po` e molti altri (per una lista completa fare riferimento al *Manuale dell'utente* nel menu *Aiuto*).
 
-Per tradurre gli articoli di SUMO o di una wiki con Omega T è quindi possibile salvare il testo inglese nel proprio editor di testo preferito, tradurre il file in OmegaT e incollare la traduzione ottenuta nel browser.
+Per tradurre gli articoli di SUMO o di una wiki con OmegaT è quindi possibile salvare il testo inglese nel proprio editor di testo preferito, tradurre il file in OmegaT e incollare la traduzione ottenuta nel browser.
 
 È importante notare che i testi formattati appariranno come testo semplice, e i loro attributi (grassetto, corsivo, tag HTML, XML ecc.) appariranno sotto forma di tag delimitati da `<` e ">". È importante riportare accuratamente tutti i tag nella traduzione, una mancata corrispondenza può impedire la creazione del file di arrivo.
 
-###### Attivare la funzione di correzione ortografica in Omega T
+###### Attivare la funzione di correzione ortografica in OmegaT
 
-Per attivare il controllo ortografico in Omega T procedere come segue:
+Per attivare il controllo ortografico in OmegaT procedere come segue:
 
--   dalla barra del menu selezionare *Opzioni* &rarr; *Correzione ortografica*;
--   selezionare un percorso in cui installare il file del dizionario con il pulsante *Scegli*;
--   premere il pulsante *Installa nuovo dizionario…*;
--   selezionare dalla lista il file it-IT e premere *Installa*.
+-   Dalla barra del menu selezionare *Opzioni* &rarr; *Correzione ortografica*.
+-   Selezionare un percorso in cui installare il file del dizionario con il pulsante *Scegli*.
+-   Premere il pulsante *Installa nuovo dizionario…*.
+-   Selezionare dalla lista il file `it-IT` e premere *Installa*.
 
 ###### Impostare una traduzione
 
-All'apertura di OmegaT la schermata iniziale fornisce un mini-tutorial iniziale per impostare una traduzione.
+All'apertura di OmegaT la schermata iniziale fornisce un mini-tutorial per impostare una traduzione.
 
 Per impostare una traduzione procedere come segue:
 
--   selezionare dalla barra del menu *Progetto* &rarr; *Nuovo*;
--   nella finestra che appare scegliere un nome per il progetto e un percorso dove salvarlo;
--   selezionare le lingue di partenza (EN) e arrivo (IT-IT) e premere *OK*;
--   nella finestra *File del progetto* premere *Copia i file nella cartella di partenza…* e selezionare il percorso del file da tradurre.
+-   Selezionare dalla barra del menu *Progetto* &rarr; *Nuovo*.
+-   Nella finestra che appare scegliere un nome per il progetto e un percorso dove salvarlo.
+-   Selezionare le lingue di partenza (`EN`) e arrivo (`IT-IT`) e premere *OK*.
+-   Nella finestra *File del progetto* premere *Copia i file nella cartella di partenza…* e selezionare il percorso del file da tradurre.
 
 Le stringhe da tradurre compariranno nel pannello più grande della traduzione.
 
 
 ###### Caricare la memoria di traduzione e il glossario
 
-Per aggiungere la memoria di traduzione e il glossario aprire la cartella dove il progetto è stato salvato.
+Per aggiungere la memoria di traduzione e il glossario aprire la cartella dove il progetto è stato salvato e procedere come segue:
 
-Copiare il glossario di Mozilla in formato .txt all'interno della sottocartella *glossary* e la memoria di traduzione in formato .tmx nella sottocartella *tm*. Chiudere e riaprire il progetto su OmegaT.
+-   Copiare il glossario di Mozilla in formato .`txt` all'interno della sottocartella *glossary* e la memoria di traduzione in formato .`tmx` nella sottocartella *tm*.
+-   Chiudere e riaprire il progetto su OmegaT.
 
 Le parole presenti nel glossario appariranno ora sottolineate, e la loro definizione verrà visualizzata nel pannello in basso a destra.
 
-Per inserire il traducente dal glossario nel campo della traduzione premere `ctrl`+`spazio` in Windows o `esc` in Mac.
+Per inserire il traducente dal glossario nel campo della traduzione premere `ctrl`+`spazio` in Windows o `Esc` in Mac.
 
 Le concordanze con la stringa selezionata verranno visualizzate nel pannello in alto a destra della schermata di OmegaT.
-Per inserire una concordanza premere `ctrl`+`r` (`cmd`+`r` su Mac).
+Per inserire una concordanza premere `Ctrl`+`R` (`Cmd`+`R` su Mac).
+
 Prima di convalidare la traduzione con `Invio` assicurarsi che la traduzione corrisponda completamente al testo di partenza (tag inclusi) e apportare le eventuali modifiche.
 
 #### Ottenere il file tradotto:
 
-Una volta terminata la traduzione selezionare *Progetto* &rarr; *Crea i documenti di arrivo* (o premere `ctrl` +`d` per Windows, `cmd`+`d` per Mac), e il file tradotto verrà salvato nella sottocartella *target* del progetto.
+Una volta terminata la traduzione selezionare *Progetto* &rarr; *Crea i documenti di arrivo* (o premere `Ctrl` +`D` per Windows, `Cmd`+`D` per Mac), e il file tradotto verrà salvato nella sottocartella *target* del progetto.
 
 
 
