@@ -6,6 +6,26 @@ Nella sezione successiva vedremo alcuni codici di formattazione che possono esse
 Le ultime due sezioni possono essere ignorate se si utilizza [Pontoon](3-Flusso_di_lavoro.md#pontoon) come strumento di localizzazione.
 In esse tratteremo i formati dei file utilizzati per memorizzare le stringhe della localizzazione e e gli strumenti da utilizzare per gestire questi file in locale.
 
+
+###### Indice dei contenuti
+
+
+-   [Codice HTML: le basi](#codice-html-le-basi)
+	-   [Paragrafi di testo](#paragrafi-di-testo)
+	-   [Abbreviazioni](#abbreviazioni)
+	-   [Link ipertestuali](#link-ipertestuali)
+	-   [Immagini](#immagini)
+	-   [Codici di formattazione Python e stringhe JavaScript](#codici-di-formattazione-python-e-stringhe-javascript)
+	-   [Formattazione delle stringhe lato server](#formattazione-delle-stringhe-lato-server)
+-   [Formati degli archivi di localizzazione](#formati-degli-archivi-di-localizzazione)
+	-   [File `.properties`](#file-.properties)
+	-   [File `.lang`](#file-.lang)
+	-   [File `.po`](#file-.po)
+-   [Editor di testo e applicazioni per gestire i cataloghi `.po` e le memorie di traduzione](#editor-di-testo-e-applicazioni-per-gestire-i-cataloghi-.poe-le-memorie-di-traduzione)
+	-   [OmegaT](#omegat)
+
+
+
 ## Codice HTML: le basi
 
 Il codice HTML (Hypertext Markup Language) è un linguaggio ipertestuale utilizzato per la formattazione del testo e l’inserimento di contenuti multimediali nelle pagine, anche se non è compito di un localizzatore creare pagine web, la conoscenza di alcuni fondamenti può tornare utile per localizzare correttamente alcune stringhe o personalizzare la formattazione del testo (ad esempio per rendere in grassetto o in corsivo alcuni termini).
@@ -320,7 +340,7 @@ Poedit esaminerà i file per creare la memoria di traduzione (TM).
 Alla prossima apertura del file po con poedit, facendo clic con il tasto destro del mouse (clic + Alt per Mac) su una stringa verranno visualizzate in un menu a comparsa tutte le stringhe che le assomigliano.
 
 
-## Editor di testo e applicazioni per gestire i cataloghi `.po`e le memorie di traduzione
+## Editor di testo e applicazioni per gestire i cataloghi `.po` e le memorie di traduzione
 
 Come già detto in precedenza più volte, lo strumento più semplice per localizzare i vari progetti Mozilla è Pontoon, nel caso il progetto non sia disponibile per la localizzazione su questa piattaforma o se si preferisce non utilizzarlo, in questa sezione verranno presentati alcuni *editor di testo* e applicazioni per, alternative a Poedit, per gestire i cataloghi `.po` sulle varie piattaforme, Windows, Mac e Linux.
 Ovviamente se si utilizza già un proprio editor di testo si può tranquillamente continuare a farlo, l’importante è assicurarsi che consenta di salvare i file con codifica [**UTF-8**][utf8] (senza BOM) (praticamente si può utilizzare qualsiasi editor di testo che non sia il *Notepad* presente sulle vecchie versioni di Windows).
