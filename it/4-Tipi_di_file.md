@@ -6,7 +6,7 @@ Nella sezione successiva vedremo alcuni codici di formattazione che possono esse
 Le ultime due sezioni possono essere ignorate se si utilizza [Pontoon](3-Flusso_di_lavoro.md#pontoon) come strumento di localizzazione.
 In esse tratteremo i formati dei file utilizzati per memorizzare le stringhe della localizzazione e e gli strumenti da utilizzare per gestire questi file in locale.
 
-## Codice HTML: le basi{#c4s1}
+## Codice HTML: le basi {#c4s1}
 
 Il codice HTML (Hypertext Markup Language) è un linguaggio ipertestuale utilizzato per la formattazione del testo e l’inserimento di contenuti multimediali nelle pagine, anche se non è compito di un localizzatore creare pagine web, la conoscenza di alcuni fondamenti può tornare utile per localizzare correttamente alcune stringhe o personalizzare la formattazione del testo (ad esempio per rendere in grassetto o in corsivo alcuni termini).
 Il codice HTML è, come detto, un linguaggio di formattazione del testo utilizzato nelle pagine web.
@@ -45,7 +45,7 @@ Questo può essere utile quando si vuole che due parole non vengano mandate a ca
 
 Per un elenco completo delle *entity* HTML consultare [questa pagina][c4l4].
 
-### Paragrafi di testo{#c4s1-1}
+### Paragrafi di testo {#c4s1-1}
 
 In HTMl di solito i paragrafi di testo vengono racchiusi tra i tag `<p>` e `</p>`, un paragrafo di testo altro non è se non del testo che viene mostrato in un unico blocco, sarà il browser a decidere quando andare a capo a seconda delle dimensioni dello schermo.
 Ai vari paragrafi, e in generale a qualunque altro tag HTML, possono anche essere associate delle proprietà che serviranno allo sviluppatore per definire alcune specifiche di visualizzazione (colore, spaziatura, interlinea, ecc.), ovviamente un traduttore dovrà concentrarsi solo nella traduzione del testo e non delle proprietà associate all’elemento HTML.
@@ -66,7 +66,7 @@ Ad esempio:
 Per ulteriori informazioni sul tag `<p>` leggere [questo articolo][c4l4] e [quest’altro][c4l5] per il tag `<br/>`.
 
 
-### Abbreviazioni{#c4s1-2}
+### Abbreviazioni {#c4s1-2}
 
 Non è un tag molto utilizzato, però a volte si incontra e può essere utile in fase di localizzazione per indicare il significato originale dell’acronimo inglese.
 Ad esempio supponiamo di avere la seguente stringa:
@@ -80,7 +80,7 @@ In questo caso il valore va lasciato in inglese perché l’acronimo non ha sens
 Per ulteriori informazioni sull’elemento `<abbr>` consultare [questo articolo][c4l6].
 
 
-### Link ipertestuali{#c4s1-3}
+### Link ipertestuali {#c4s1-3}
 
 I link (collegamenti) sono probabilmente l’oggetto più importante in HTML, essi servono per inserire il collegamento a una pagina web, cliccando su tale testo si verrà reindirizzati alla pagina indicata.
 Il più delle volte, come detto in precedenza, quello che è compreso all’interno del tag non va mai tradotto, in alcuni casi però questo potrebbe essere utile, ad esempio per rimandare a una versione italiana dello stesso documento.
@@ -107,7 +107,7 @@ Nella stragrande maggioranza dei casi il link non va mai modificato, farlo solo 
 Per approfondire l’argomento consultare [questo articolo][c4l7].
 
 
-### Immagini{#c4s1-4}
+### Immagini {#c4s1-4}
 
 A volte oltre al semplice testo vengono incluse anche delle immagini.
 Ovviamente un’immagine, a meno che non sia di una schermata del computer, non si può tradurre, quello che va tradotto è il valore della proprietà *alt*, il testo ad essa associato infatti viene riprodotto dagli *screen reader* o visualizzato al posto dell’immagine nel caso l’immagine non sia disponibile e serve per descrivere il contenuto dellimmagine e rendere accessibile la pagina HTML a tutti.
@@ -124,7 +124,7 @@ Ovviamente ne esistono moltissimi altri e rimandiamo alla documentazione molto b
 Essendo **MDN** un sito Mozilla, inoltre consigliamo di tradurre qualche pagina nel caso non fosse ancora disponibile in lingua italiana.
 
 
-## Codici di formattazione Python e stringhe JavaScript{#c4s2}
+## Codici di formattazione Python e stringhe JavaScript {#c4s2}
 
 Le applicazioni web solitamente sono composte da una parte lato server (che nel caso di Mozilla è scritta in Python) e di una parte lato client (che utilizza codice HTML e JavaScript).
 Mentre il codice HTML viene utilizzato per formattare contenuti statici, JavaScrip e Python vengono utilizzati per inserire dei contenuti dinamici, nel primo caso generati dall’interazione dell’utente con la pagina (ad esempio cliccando un link) e nel secondo caso direttamente dal server.
@@ -135,7 +135,7 @@ Per essere sicuri di non causare errori al codice, questi caratteri andrebbero p
 
 Un altro carattere speciale che si può utilizzare è `\n` e serve per mandare a capo il testo.
 
-### Formattazione delle stringhe lato server{#c4s2-1}
+### Formattazione delle stringhe lato server {#c4s2-1}
 
 Come detto le applicazioni hanno del codice lato server che a volte viene utilizzato per inserire del codice dinamico nelle pagine, ad esempio per indicare l’autore e la data di un commento in un articolo.
 Le applicazioni Mozilla girano su dei server Django e utilizzano Python come linguaggio lato server, vediamo quindi alcuni caratteri speciali che si possono incontrare nelle stringhe e che sono in realtà delle istruzioni per inserire del testo in maniera dinamica.
@@ -171,7 +171,7 @@ Se si utilizza Pontoon come strumento di localizzazione, verrà visualizzato un 
 
 
 
-## Formati degli archivi di localizzazione{#c4s3}
+## Formati degli archivi di localizzazione {#c4s3}
 
 
 Per salvare le stringhe delle varie lingue dei siti Mozilla vengono utilizzati tre diversi formati: file `.lang`, file `.properties` e file `.po`.
@@ -181,7 +181,7 @@ Conoscere la sintassi di questi file non è necessario se si utilizza uno strume
 La prima operazione da fare è quella di munirsi di un editor di testo (vedi ultima sezione per un elenco di applicazioni per i vari sistemi) per aprire e modificare questi file, ricordandosi **sempre** di utilizzare la codifica caratteri [**UTF-8 senza BOM**][utf8].
 La codifica è molto importante perché un’errata codifica porterà alla visualizzazione di strani caratteri al posto dei caratteri non ASCII (si pensi ad esempio ai punti di domanda o a strani caratteri che a volte vengono visualizzati al posto delle lettere accentate in alcune pagine).
 
-## File `.properties`{#c4s3-1}
+## File `.properties` {#c4s3-1}
 
 Questo particolare formato viene utilizzato soprattutto per i siti di Mozilla Foundation e ha come svantaggio quello di non poter visualizzare nello stesso file la stringa originale e la stringa tradotta, nonché il fatto di essere un po’ complicato da aggiornare manualmente.
 Questi file vanno semplicemente modificati inserendo la traduzione al posto del testo inglese e posizionati in una sottocartella che ha come nome il codice internazionale della lingua della traduzione (per l’italiano è `it`).
@@ -206,7 +206,7 @@ Le cose a cui prestare attenzione sono:
 
 Consigliamo comunque di utilizzare Pontoon quando disponibile per questo tipo di file, anche perché con i siti che utilizzano i file `.properties` è possibile avere un’anteprima in tempo reale mentre si sta traducendo.
 
-### File `.lang`{#c4s3-2}
+### File `.lang` {#c4s3-2}
 
 Il formato `.lang` viene utilizzato per molti siti mozilla (ad esempio per il sito `mozilla.org`) o per i messaggi promozionali che appaiono nella pagina `about:home` di Firefox, ed è molto semplice da gestire anche con un semplice editor di testo, in quanto la sintassi è poco complessa e consente, contrariamente ai file `.properties` trattati in precedenza, di avere a portata di mano sia la stringa originale che la sua versione tradotta.
 Questo oltre a facilitare il compito del localizzatore aiuterà anche i revisori che dovranno effettuare il controllo qualità (o come si usa dire il QA, cioé il *quality assurance*) della traduzione.
@@ -254,7 +254,7 @@ Riepilogando, nella traduzione di un file `.lang` bisogna fare attenzione a:
 5.  salvare sempre il file con codifica **UTF-8 senza BOM**.
 
 
-### File `.po`{#c4s3-3}
+### File `.po` {#c4s3-3}
 
 Il formato `.po` (o per essere più precisi il suo template che ha estensione `.pot`) viene generato dai programmatori del software e raccoglie tutte le stringhe da localizzare.
 Il compito del traduttore è quello di modificare il file traducendo le stringhe e generare il file `.mo` che verrà utilizzato per la localizzazione del software.
@@ -265,7 +265,7 @@ Anche se è possibile utilizzare un editor di testo per tradurre questo tipo di 
 
 L’utilizzo di software appositi permette di dimenticarsi della sintassi di questi file che è molto più complessa dei file `.lang` e `.properties` visti in precedenza.
 
-#### Poedit{#c4s3-3-1}
+#### Poedit {#c4s3-3-1}
 
 Poedit è disponibile per Windows, Mac OS X e Linux e può essere scaricato da [questa pagina](https://www.poedit.net/download.php).
 Altri software per gestire i file `.po` sono riportati nella prossima sezione.
@@ -320,7 +320,7 @@ Poedit esaminerà i file per creare la memoria di traduzione (TM).
 Alla prossima apertura del file po con poedit, facendo clic con il tasto destro del mouse (clic + Alt per Mac) su una stringa verranno visualizzate in un menu a comparsa tutte le stringhe che le assomigliano.
 
 
-## Editor di testo e applicazioni per gestire i cataloghi `.po`e le memorie di traduzione{#c4s4}
+## Editor di testo e applicazioni per gestire i cataloghi `.po`e le memorie di traduzione {#c4s4}
 
 Come già detto in precedenza più volte, lo strumento più semplice per localizzare i vari progetti Mozilla è Pontoon, nel caso il progetto non sia disponibile per la localizzazione su questa piattaforma o se si preferisce non utilizzarlo, in questa sezione verranno presentati alcuni *editor di testo* e applicazioni per, alternative a Poedit, per gestire i cataloghi `.po` sulle varie piattaforme, Windows, Mac e Linux.
 Ovviamente se si utilizza già un proprio editor di testo si può tranquillamente continuare a farlo, l’importante è assicurarsi che consenta di salvare i file con codifica [**UTF-8**][utf8] (senza BOM) (praticamente si può utilizzare qualsiasi editor di testo che non sia il *Notepad* presente sulle vecchie versioni di Windows).
@@ -357,7 +357,7 @@ Di seguito alcune applicazioni che possono essere utilizzate, in alternativa a P
 
 
 
-### OmegaT{#c4s4-1}
+### OmegaT {#c4s4-1}
 
 [OmegaT](http://www.omegat.org/) è uno strumento di traduzione assistita (<abbr title="Computer Aided Translation">CAT</abbr>) multipiattaforma e gratuito che permette di utilizzare la memoria di traduzione sfruttando le traduzioni già effettuate in aggiunta a un glossario durante il processo di localizzazione.
 
