@@ -2,106 +2,92 @@
 
 Ti ringraziamo per aver aperto la guida redatta dal team di localizzazione di Mozilla Italia.
 
-Siamo un gruppo di volontari, appassionati del mondo della traduzione e dell’*open software*, che si dedicano a rendere accessibili i prodotti, gli eventi e i valori fondanti di [Mozilla](https://www.mozilla.org) per gli utenti italiani.
+Siamo un gruppo di volontari, appassionati del mondo della traduzione e dell’*open source*, che dedicano il proprio tempo libero a rendere accessibili i prodotti, gli eventi e i valori fondanti di [Mozilla](https://www.mozilla.org) per gli utenti italiani.
 
-#### Qual è lo scopo di questo documento?<br>
-La guida è nata come un manuale per raccogliere tutte le nozioni necessarie ai nuovi membri che entrano nel team di localizzazione di [Mozilla Italia](https://www.mozillaitalia.org/) (un gruppo di volontari dediti a tradurre prodotti e attività di [Mozilla](https://www.mozilla.org) per gli utenti italiani).
+#### La guida
+Si tratta di un’opera collaborativa frutto del dialogo aperto tra localizzatori senior e nuovi volontari che si affacciano al mondo della traduzione, esperti linguistici, tecnici informatici e “semplici” utenti. Abbiamo scelto questo approccio apposta per includere più punti di vista ed esigenze possibili.
 
-Tuttavia, da veri [Mozilliani](https://mozillians.org)ci rifacciamo alla filosofia “open”, secondo cui le conoscenze e le risorse sono un bene comune, di cui tutti possono usufruire e a cui tuti possono apportare miglioramenti.
+La guida è nata come un manuale per raccogliere tutte le nozioni necessarie ai nuovi membri che entrano nel team di localizzazione di [Mozilla Italia](https://www.mozillaitalia.org) (un gruppo di volontari dediti a tradurre prodotti e attività di Mozilla per gli utenti italiani).
 
-Per questo invitiamo i colleghi localizzatori di altre lingue e comunità a fare uso di questa guida, integrandola ed adattandola alle proprie esigenze.
+Tuttavia, da veri [Mozilliani](https://mozillians.org) ci rifacciamo alla filosofia “open”, secondo cui le conoscenze e le risorse sono un bene comune, di cui tutti possono usufruire e a cui ciascuno può apportare miglioramenti.
 
-Inoltre 
-However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.
+Per questo invitiamo i colleghi localizzatori di altre lingue e comunità a fare uso di questa guida, integrandola ed adattandola alle proprie esigenze per creare un metodo di lavoro personalizzato.
 
-Does it sounds like fun? Would you like be a part of our team? Then read further to know the details.
-
-Table of contents
-=================
-
-  * [What are we doing?](#what-are-we-doing)
-  * [The problem](#the-problem)
-  * [The solution](#the-solution)  
-  * [What does it take to become a contributor?](#what-does-it-take-to-become-a-contributor)
-  * [Contributing](#contributing)
-  * [License](#license)
-  * [Authors](#authors)
-  * [Communication Channels](#communication-channels)  
-  * [Acknowledgments](#acknowledgments)
-  * [Glossary](#glossary)
-
-### What are we doing?
-
-Mozilla Italia has a renowned tradition of providing high quality and comprehensive localization just by resorting to the good will of volunteer translators.
-
-We always need the talent and passion of new volunteers to keep this project alive, however it’s not easy to get a truly continuative collaboration. Lately we started to wonder why…
-
-#### The problem
-* translation resources and instructions all over the place
-
-* time-consuming, impractical  workflow
-
-* not enough coordination and general keeping in touch with volunteers
-
-* probably, a lot more things that we failed to take in account
-
-#### The solution
-* open a dialogue between senior localizers and new volunteers on the localization workflow, resources and instruments
-
-* use feedback obtained by volunteers to write a comprehensive and localizer-friendly manual
-
-* have the volunteers apply this guide on real localization projects for Mozilla Italia
-
-**Hence, it starts the collaborative writing of the Mozilla Italian l10n Guide.**<br>
-We hope that our work will be read, reused and re-mixed by other l10n communities in the world to develop their very own localization workflow.
-
-### What does it take to become a contributor?
-* good command of the English language, *very* good command of the Italian language^
-
-* an interest in the world of Open Software (you don’t necessarily have to be a technologist or some kind of engineer, many of our finest translators started as simple satisfied users of Firefox and other Mozilla products!)
-
-* commitment to follow the translation project assigned to you through time, to make an effort and comply with Mozilla Italia localization guidelines
-
-^ Alternatively, if you belong to a country different from Italy, you still can (and are very welcome to!) join the discussions in English and adapt the guide to your native language.
-
-#### Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) to know what roles and duties are required in this project. Don’t forget to go through our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to learn about a few golden rules that will make coexistence in the team easier.
-
-#### License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-See the file [LICENSE.md](LICENSE.md) for details.
-
-#### Authors
-Don’t hesitate to get in touch with us for any question!
-
-* **Sara Todaro** - *Senior volunteer translator*  <br>[GitHub](https://github.com/kitsunenosaraT), [Mozillians](https://mozillians.org/u/sara_t/)
-* **Sandro Della Giustina** - *Senior volunteer translator*  <br>[GitHub](https://github.com/gialloporpora), [Mozillians](https://mozillians.org/u/gialloporpora/)
-* **Elio Giugliano** - *Volunteer translator*  <br>[GitHub](https://github.com/eliogi), [Mozillians](https://mozillians.org/it/u/coldair/)
-
-See also the list of [contributors](https://github.com/kitsunenosaraT/mozilla-italia-l10n-guide/contributors) who participated in this project.
-
-#### Communication Channels
-* [GitHub repository](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide) (please contact @kitsunenosarat to be added as a collaborator)
-* [Mozilla Italia Forum](https://forum.mozillaitalia.org/)
-* [Mozilla Contribute page](http://www.mozilla.org/it/contribute/)
-* [Email the project leader](https://mozillians.org/u/sara_t/)
+Allo stesso modo, chiunque lo desideri, può contribuire a rendere questo documento sempre più completo e inclusivo, partecipando alle future stesure su [GitHub](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/).
 
 
-### Acknowledgments
-* Most of the material used in this guide comes from the years-long efforts and steady commitment of the [Mozilla Italia community volunteers](https://forum.mozillaitalia.org/) (see guide credits for details). Thank you, guys! :heart:
-* README template inspired by [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), [STEMMRoleModels](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/README.md)
+#### Mozilla Italia
 
-### Glossary
+[Mozilla Italia](https://www.mozillaitalia.org) è una comunità di sostenitori italiani di Mozilla.
+Le sue principali attività sono il supporto agli utenti di Firefox e degli altri prodotti Mozilla e la localizzazione di programmi, siti web e documentazione.
+
+La localizzazione è un’attività di cui andiamo particolarmente fieri: siamo una delle comunità più attive, con una traduzione qualitativamente alta e coerente, grazie al talento e alla passione dei nostri volontari, e siamo sempre in cerca di nuovi membri a cui passare la torcia.
+
+#### I volontari del team di localizzazione
+Quali sono i requisiti per entrare a far parte del team di localizzazione di Mozilla Italia?
+
+* buona padronanza della lingua inglese, *ottima* padronanza della lingua italiana^
+
+* interesse per il mondo dell’*open source* (non serve una laurea in scienze informatiche o un curriculum da sviluppatore, molti dei nostri migliori traduttori sono partiti come semplici utenti soddisfatti di Firefox!)
+
+* impegno a seguire nel tempo il progetto di traduzione che ti è stato affidato, e ad aderire alle linee guida di localizzazione di Mozilla Italia.
+
+Mozilla Italia è una comunità composta da volontari, per cui non pretendiamo un impegno professionale. Tuttavia ci aspettiamo che i membri del team seguano una certa condotta
+
+#### Aggiornamento dei progetti
+
+Proprio come i software, le pagine web e i loro contenuti sono in continuo aggiornamento. Così anche le loro traduzioni devono essere aggiornate.
+
+Quando la traduzione di un nuovo contenuto non è disponibile, esso appare in lingua inglese, compromettendo l’esperienza dell’utente.
+
+Per questo, una volta che ci si offre volontari per un progetto, è fondamentale controllare settimanalmente gli aggiornamenti.
+
+#### Coerenza di stile
+
+Nella traduzione tecnica, come nella traduzione per un’associazione con un’identità ben definita, un principio fondamentale da osservare è la coerenza stilistica e terminologica.
+
+Contenuti diversi devono osservare registri stilistici diversi (uno stile impersonale per la documentazione tecnica, uno più *user friendly*  e accattivante per i siti web).
+Per giunta  nome dello stesso prodotto o funzione deve essere sempre lo stesso in tutti i progetti collegati. Per questo di fronte a un termine, non basta scegliere una traduzione “giusta”, ma occorre controllare la terminologia precedente.
+
+#### Revisione
+
+If reviewers share tips or suggest to change translation, try to follow advices. If you don’t agree, try to be propositive and offer alternative changes in a respectful discussion.
+Sometime suggestions are made according to previous translations and maintaining a coherent terminology across projects is very important.
+We realize reading pages over pages of documentation can be time consuming. However if a reviewer encourages you to read guidelines or instructions, please make the effort and go through it carefully before asking for help.
+Not wasting other people’s time over questions that have already been answered is a sign of consideration toward your fellow community members.
+
+#### Disponibilità
+
+When you are engaged in a translation project, it is very important to provide a means of contact (email, forum account etc.) for us to get in touch with you.
+We realize that community members have sometimes very little time to spare for volunteer activities. It is important for our organization to know general availability of our team. Because of that we ask you to communicate if you’re going to be busy for an extended period and don’t wish to be contacted during that time.
+We don’t demand you to be always reachable, but we wish to know if we can count on you for a project in a specific range of time.
+Pages on Mozilla sites are assigned certain deadlines, and in order to meet them it is important to divide work among available members.
+
+We think these are simply and logical rules to follow when collaborating in a project and we hope you agree with them.
+
+#### Ringraziamenti
+La maggior parte dei contenuti di questa guida proviene dalla documentazione raccolta durante gli anni grazie alla passione e alla dedizione dei membri della [comunità di volontari di Mozilla Italia](https://forum.mozillaitalia.org/)
+
+
+
+#### Glossario
+
 **Open Software** definition of software with source code that can be inspected, modified and upgraded by anyone. Open Source Software is a more detailed definition.
 
 **l10n** abbr. of localization (L-(ocalizatio=10 letters)-N, in case you were wondering).
 
-**localization** a translation process with emphasis on making the context familiar for the readers of a given country/area.
+**linee guida di localizzazione** a set of linguistic and stylistic rules that help making documentation of the same project/community look more uniform and coherent.  
 
-**localization guidelines** a set of linguistic and stylistic rules that help making documentation of the same project/community look more uniform and coherent.  
+**localizzazione** a translation process with emphasis on making the context familiar for the readers of a given country/area.
+
+**QA**
 
 **senior translator** veteran member of a localization community (such as [Mozilla Italia](https://www.mozillaitalia.org/)), with experience of coordinating with others in a long-term project.
 
+**stringa**
+
 **volunteer translator** a person, proficient in at least two languages, offering their free time and commitment to help non-profit organizations (such as [Mozilla](https://www.mozilla.org)) make their contents available for users of different languages.
+
+#### Licenza
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
