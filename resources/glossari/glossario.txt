@@ -1,0 +1,888 @@
+&hellip;	in corso…	è l'entità HTML per i tre puntini di sospensione. Quando un'operazione è in esecuzione usare la forma Operazione in corso… seguita, anche se non ci sono nell'originale dai tre puntini di sospensione. Esempio "purchasing…" "Acquisto in corso…" Si può sia mettere il simbolo sia usare &hellip; 
+501(c)(3)	501(c)(3)	è un'espressione che fa riferimento all'articolo e alle sezioni in cui si definisce la ragione di Mozilla, in pratica un'organizzazione 501(c)(3) è un ente benefico esentata dalle imposte e che può ricevere donazioni.
+API	API	Acronimo di Application Programming Interface, Interfaccia per la programmazione di un'applicazione. Se si riferisce a un'API specifica lasciare in inglese, se si riferisce alle API di un software o sito web usare API di (software/servizio). I nomi delle API li lasciamo in inglese.
+API key	API key	chiave che permette di accedere e utilizzare le API, lasciare in inglese
+Account Summary	riepilogo account	
+Application Key	Chiave dell'applicazione	
+Application Secret	Application Secret	
+Applications directory	cartella applicazioni	
+B2G	B2G	Acronimo di Boot To Gecko, nome in codice di Firefox OS
+Be careful	fai attenzione	
+Breakdown	analisi	di solito riferito al codice sorgente
+Browse listing…	Ordina per	
+BrowserID	Mozilla Persona	
+CEO	CEO	Acronimo di Chief Executive Officer - amministratore delegato
+CSS	CSS	Acronimo di Cascading Style Sheet (Foglio di stile a cascata), si può anche rendere foglio/i di stile se il contesto lo permette
+CTO	CTO	Acronimo per Chief technical officer (stratega e consulente tecnologico)
+Certificate Authority	Autorità di Certificazione (CA)	
+Chairperson	presidente	
+Clear	cancella	non usare pulisci che mi sembra sia meno usato come traducente (almeno in ambito software)
+Comic Mischief	Comicità grossolana o allusiva	#descrittore
+Component Object model	modello a oggetti per componenti 	
+Content Delivery Network	Rete per la consegna di contenuti	viene usato anche l'acronimo CDN per indicarla
+Contribute	fai una donazione, contribuisci	
+Conversion Selector	Selettore per la conversione (di valuta)
+Crash Reporter	Segnalazione arresti anomali	anche strumento Segnalazione arresti anomali
+Crude Humor	comicità volgare	#descrittore
+DEJUS	DEJUS	Acronimo di Department of Justice, Rating, Titles and Qualification (Dipartimento di giustizia, visti censura, titoli e classificazioni) del Brasile che valuta app e giochi in quel paese
+DOM	DOM	Acronimo di Document Object Model (Modello a oggetti del documento) è la rappresentazione ad albero del documento nel browser
+Daily users	utenti giornalieri
+Data Retention Policy	Informativa sulla conservazione dei dati	
+Detail page	Pagina dell'estensione / del tema.	Viene usato anche scheda completa (nella vecchia traduzione)
+Developer Hub	Centro di sviluppo	
+Developer Preview Phone	prototipo per sviluppatori	
+Developer Tools dashboard	Dashboard Strumenti di sviluppo	
+Directory Tiles	Riquadri catalogo	
+Doc	Documentazione	
+EU	Comunità europea	se è chiaro nel contesto si può usare Europa quando ci sono limiti di spazio.
+Editor	editore	revisore	
+End user	utente finale	
+Enhanced Tiles	Riquadri dinamici	
+Except where otherwise	Eccetto dove diversamente (altrimenti) indicato	
+FAQ	FAQ	Acronimo di Frequently Asked Questions (Domande più frequenti)
+Firefox Accounts	Account Firefox	quando è da solo usare Account Firefox (A maiuscola), quando ci si riferisce proprio all'account Firefox usare la a minuscola.
+Firefox Health Report	Analisi integrità di Firefox	
+Firefox Marketplace	Firefox Marketplace	non usare articoli, es. di Firefox Marketplace, su Firefox Marketplace
+Firefox OS 	Firefox OS
+Firefox OS Simulator	Firefox OS Simulator
+Firefox healt report	valutazione integrità di Firefox
+For more information	Per ulteriori informazioni	
+General Counsel	rappresentante /consulente legale	
+Get Involved	collabora con (noi)	
+Guest browsing navigazione in modalità ospite	è una caratteristica di Firefox per Android che consente di condividere il browser con amici senza condividere i dati di navigazione.
+HTML	HTML	Acronimo di Hypertext Markup Language, anche nella versione HTML5
+Health	salute	ma anche benessere
+History	Cronologia	
+ICYMI	In Case You Missed It	acronimo. In caso non ti fosse giunta la voce, nel caso in cui il contesto consenta frasi lunghe a piacere. Per i tweet #sapevatelo.
+IRC	IRC	L' Internal Revenue Code (IRC) è il testo legislativo che dal 1954 raggruppa tutti i tax acts (le leggi fiscali) approvati dal Congresso dopo essere state esaminate prima dalla Camera dei Rappresentanti, ed eventualmente emendate dal Senato, e poi promulgate dal Presidente (l'ultima versione profonda dell' IRC risale al 27 settembre 1986 con il Tax Reform Act redatto sotto il governo dell'allora Presidente Ronald Reagan).
+IRS	Internal Revenue Service	l'Ufficio delle entrate degli Stati Uniti
+Identity system	sistema di identificazione	
+Implement	implementare	
+Inbox	 In arrivo	
+Instant refund	rimborso immediato	
+Internet Keywords	Parole chiave
+JSON	JSON	Acronimo di Javascript Object Notation. È un formato/tipo di file
+JWT	token JWT	Acronimo di JSON Web Token, vedere: http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
+JavaScript	JavaScript	
+JavaScript Debugger	Debugger JavaScript	
+JavaScript type	tipo di dato JavaScript	
+Join	collaborare, unirsi	esempio: unirsi alla comunità, collabora con noi. Join a conversation -> partecipare alla discussione
+Junk Mail	posta indesiderata	
+Keyboard Shortcut	scorciatoia da tastiera	
+Last x days	ultimi x giorni	Analogamente per ore, settimane, ecc.
+License Agreement	Licenza	
+Log out	disconnetti, esci	
+Lookup Tool	strumento di ricerca	
+Manager	strumento di validazione	nel contesto di Firefox OS Simulator
+Manifest	manifesto	
+Manual Reviewer Points	Manuale per attribuire i punti ai revisori	
+Marketplace	Marketplace	letteralmente "piazza del mercato". Se si riferisce a Firefox Marketplace, maiuscolo e preceduto dall'articolo maschile.
+Mozilla Corporation	Mozilla Corporation	è la società commerciale controllata da Mozilla Foundation che si occupa, tra le altre cose, di sviluppare Firefox.
+Mozilla Foundation	Mozilla Foundation	è la fondazione Mozilla, meglio tenere in inglese perché rappresenta il nome proprio della fondazione.
+N/A	N.D.	non disponibile
+New tab page	pagina Nuova scheda	quando ci si riferisce alla pagina Nuova scheda di Firefox utilizzare la N maiuscola
+No Restart	riavvio non richiesto	
+Non-Disclosure Agreement	accordo di non divulgazione	
+Not recommended	sconsigliato	
+OEM	OEM	Acronimo di Original equipment manufacturer - "produttore di apparecchiature originali" 
+Object model	modello a oggetti	
+Other and new regions	Altre/nuove regioni	
+PIN	codice PIN
+Partnership	partnership, collaborazione	dipende dal contesto
+Performance	prestazione/i
+Permalink	Permalink
+Permission	permesso, autorizzazione
+Postback URL	URL per il postback	È un indirizzo (indirizzo web) al quale notificare i riaccrediti
+Proprietary software	software proprietario	software privato
+Publish	pubblicare	quando riferito a un'app o addon usare caricare, inviare.
+Purchase	comprare, acquistare.	Purchase for, acquista a.
+Push	Push	intesa come la funzione interna di Firefox per le notifiche dei siti. Per i messaggi, servizi push utilizzare la minuscola.
+Q&A	domande e risposte	
+QA	controllo qualità	
+Quarter	trimestre	un quarto di un anno
+Rating	voto, valutazione
+Re-Reviews	riesame
+Refund granted	rimborso concesso	
+Rejected	respinto	
+Report	segnala	
+Routing code	codice di avviamento
+Send Format 	Formato di invio	
+Sent	Inviati	cartella
+Server Error	errore del server	
+Set up 	configurazione	impostazione, pianificazione, organizzazione, , anche preparazione se riferito a un pagamento. 
+Simulator	Simulatore	Simulatore se ci si riferisce allo strumento di emulazione, per evitare ripetizioni o per tradurre simulator (iniziale minuscola) usare emulatore, strumento di emulazione
+Something seems to have gone wrong	Qualcosa non ha funzionato correttamente
+Stand out from the crowd	Distinguiti dalla folla	
+State	provincia	geografico
+Status bar	barra di stato	
+Stay connected	rimani connesso	
+Strong Language	linguaggio volgare	
+Stub	Stub	è un abbozzo di un'app
+Subscribers	Iscritti	
+TED talk	TED talk	conferenza TED (Technology Entertainment Design). Vedere: http://it.wikipedia.org/wiki/TED_%28conferenza%29
+TOS	Termini di servizio	Acronimo di Term of service
+Terms of Agreement	condizioni di contratto	
+Top Rated	Più votati	
+UI	interfaccia utente	Acronimo di User Interface (Interfaccia utente), si può anche utilizzare Interfaccia se il contesto lo permette
+UI	interfaccia utente	si può anche lasciare UI o usare interfaccia nel caso di problemi di lunghezza
+Unfortunately	purtroppo	
+Unsent Messages	Da inviare	
+Up & Coming	In evidenza	
+Up & Coming	emergenti	
+Users Signups	Utenti registrati	
+VAT Number	partita IVA	
+Version Notes	note di versione	
+Website	sito web	
+Worldwide	tutto il mondo	
+XxY	XxY pixel	Dimensioni delle immagini/video XxY pixel (non XpxxYpx, esempio: Le dimensioni degli screenshot e dei video devono essere di almeno 320x480 pixel. Le dimensioni ottimali sono quelle proporzionali a 320x480 pixel. I video devono essere in formato WebM
+ZIP/postal code	CAP	
+about	su, riguardante, a riguardo (about this), informazioni, circa	informazioni viene usato se si riferisce a una sezione del sito, circa per somme di denaro.
+account	account, conto	lasciato in inglese se riferito a un servizio web (es: account YouTube, account Persona), conto se riferito alla banca o al payment account (conto pagamenti) del Marketplace.
+accountability	responsabilità	
+activity	attività	
+activity log	registro attività	
+adaptive che si sa adattare	versatile	eclettico poliedrico
+adaptive search ricerca adattiva	intesa come funzione di Firefox OS http://forum.mozillaitalia.org/index.php?topic=59554.0
+addon	componente aggiuntivo	se è chiaro che si tratta di un'estensione si può usare estensione per evitare ripetizioni
+admin	amministratore	
+advance	avanzamento	
+advanced	avanzate	
+advertiser	inserzionista pubblicitario	
+advocacy	patrocinio legale	di solito nel caso di Mozilla si può rendere anche con difesa dei diritti online (vedere contesto) Per il sito Mozilla Advocacy lasciare in inglese.
+advocate	attivista	sostenitore, difensore (dei diritti) (dipende dal contesto)
+agitator	agitatorie	demagogo, sovversivo, sobillatore
+agreement	accordo	
+alert	avviso	
+alert popup	pop-up di avviso	
+all time	di sempre	
+allow	permettere	consentire
+allowed	consentito	
+also	anche	anche inoltre
+amount	somma, importo, ammontare, cifra, totalizzato	dipende dal contesto. Amount earned = guadagno totalizzato
+amount earned	guadagno totalizzato	
+any	qualunque, qualsiasi	
+anyway	comunque, in ogni caso	
+apologize	dispiacersi	
+app	app	
+app detail	scheda (completa) app	
+application picker	application picker	riguarda Mac, deve essere il corrispondente del menu Start	
+apply	applicare	Se in pulsante Applica, usato anche associare
+approval	approvazione	
+approved	approvato,	anche auto approved approvato automaticamente, preapproved con approvazione preliminare
+as soon as	non appena	
+ask	chiedere, domandare, porre una domanda	
+asset	asset	risorsa, bene
+at least	almeno	
+attach	allegare	nel contesto di Firefox OS Simulator è usato per indicare il collegamento di uno strumento di sviluppo all'app in esecuzione nel Simulatore. In questo caso usare collegare.
+attachment	allegato	
+audience	pubblico	
+autocomplete	completamento automatico	
+available	disponibile, pronto	
+average	media	
+away	assente	stato di utente IRC
+back to	ritorna a	
+backend	backend	è un'operazione, che viene fatta dall'applicazione dal server, se non si riesce a girare la frase e spiegare il concetto lasciarlo in inglese
+background theme	tema di sfondo	Ex tema Personas
+bad request	richiesta non valida	
+banned	espulsa	di solito riferito a un'app che non è stata accettata o vietata perché non ha rispettato i termini del Marketplace. Mentre un'app rifiutata (rejected) può essere ricaricata, per le app espulse ciò non è più possibile.
+bar	barra	v. toolbar
+basic	elementare	basilare
+behavioral advertising	annunci pubblicitari mirati	o avvisi
+believe	credere	anche pensare
+below	seguente	di seguito, qui sotto, sottostante
+billing	fatturazione	
+billing address	indirizzo per la fatturazione	
+billion	miliardo	Diversamente dall'italiano che usa la scala lunga, l'inglese (americano) utilizza la scala corta, questo significa che a partire dal miliardo le parole usate in inglese diventano dei falsi amici. (billion = miliardo, trillion = bilione = mille miliardi = 10^12). In italiano il prefisso -ardo viene usato per indicare mille volte la cifra con il medesimo prefisso terminante in -one. Ad esempio 1 miliardo = 1000 milioni, 1 biliardo = 1000 bilioni = 10^15, 1 triliardo = 1000 trilioni = 10^21. Quadrillion = 10^15 = 1000 bilioni o 1 biliardo.  https://it.wikipedia.org/wiki/Scala_lunga_e_scala_corta
+binary component	componente compilato	Binary, letteralmente binario, ma se riferito a un software è compilato.
+blank	vuoto	
+blocklisted	aggiunto alla lista di (cosa) bloccato, bloccato	aggiunta alla lista delle app/addon bloccati, meglio usare una forma diretta, app/addon bloccato.
+bold	grassetto	Se è usato come aggettivo audace, temerario e sinonimi.
+boot	boot	se viene usato come verbo avviare
+bottom menu	menu inferiore	o menu posizionato nella parte inferiore, se ci sono problemi di spazio va bene menu inferiore
+box	campo	
+branch	filiale, ramo	filiale se riferito a una banca, ramo (di sviluppo) se riferito a software
+brand	marchio	
+brand new	completamente nuovo	(da non confondere con il brand che è il marchio)
+breakpoint	breakpoint	o punto di interruzione, però io lascerei in inglese (magari nella prima stringa in cui appare mettendo punto di interruzione fra parentesi)
+brief summary	breve riassunto	
+bring	trasferire	
+browse	esplora	
+browse	navigare	browse pages => pagine di navigazione
+browse page	pagina di navigazione	
+browser	browser	
+bug	bug	anche baco se si vuole mantenere l'analogia con l'insetto usata in alcuni contesti (vedi debug)
+bug tracking	bug tracking	sistema di gestione dei bug (dei problemi)
+build	creare	realizzare. Nel caso indichi la build di un software (esempio Firefox) usare versione. Se si riferisce al prodotto di una compilazione (da sorgente si ottiene qualcosa di eseguibile) si lascia in inglese. Nel caso si riferisca a al processo di pacchettizzazione di un'app pacchetto o se usato come verbo pacchettizzare o assemblare se con pacchettizzare si rischia una ripetizione
+building blocks	blocchi preconfezionati
+busy	impegnato, sovraccarico, complesso
+button	pulsante
+buyer	acquirente
+callback	callback	è una funzione che viene passata come argomento a un'altra funzione (richiamo, riferimento), ma meglio non tradurre viene usato il termine inglese fra i programmatori.
+cancel	annulla
+canvas	canvas	elemento canvas in HTML5 è un oggetto in cui si può disegnare, una lavagnetta, letteralmente tela
+caption	didascalia	legenda (solo di tabella)
+career	carriera, opportunità di lavoro	Letteralmente carriera, nei siti diventa, spesso, opportunità di lavoro
+carrier	operatore/gestore telefonico	
+carrier billing	fatturazione dell'operatore (telefonico)	Letteralmente fatturazione dell'operatore (telefonico). Indica la possibilità di effettuare pagamenti con il credito della scheda telefonica.
+carrier billing	pagamento tramite credito telefonico
+catch	rilevare	catturare, afferrare
+category	categoria	
+caution	attenzione	
+certified app	app certificata	
+champion	paladino	il senso prevalente in inglese è quello di campione inteso come difensore di qualcosa o qualcuno (il campione che nei duelli rappresentava un signore).
+change	modifica	anche passare a (change to)
+changelog	changelog	se c'è spazio usare elenco delle modifiche apportate (changelog)
+changes	modifiche	
+channel	canale	
+character encoding	codifica caratteri	
+character set	set di caratteri	
+chargeback	riaccredito
+charged	addebitato	forma intransitiva (you are been charged) ti è stato addebitato
+check	verifica	controllo. Se è chiaro dal contesto ci si può riferire anche a un assegno (scritto anche cheque). Per l'operazione di riscossione di un assegno usare incassare.
+choose	scegliere	
+cipher	algoritmo crittografico	in un contesto analogico si può usare cifrario. encipher = cifrare, decipher = decifrare.
+clear	elimina	
+clear	pulisci	svuota
+click	fare clic	o (come sostantivo) clic
+clicking	facendo clic	
+client code	codice client	
+client-side	lato client	
+code editor	editor di codice	
+collection	raccolta
+color code	codice colore
+comes with	equipaggiato
+coming soon	arriveranno presto	arrivo imminente. Ma è meglio sostituire arrivare con un verbo più specifico relativamente al contesto.
+command line	riga dei comandi	
+commit	dedicarsi	in modo intransitivo, dedicarsi, es: Mozilla is committed. Anche impegnarsi. Se si intende l'operazione mediante la quale si rendono effettive le modifiche effettuate in locale (o su uno strumento online terzo, come Pontoon) usare “effettuare il commit”, confermare o inviare a seconda del contesto.
+common task	operazioni comuni	anche operazioni di ogni giorno
+company	società	
+compare	confronta	
+complete theme	tema completo	i vecchi temi
+concern	dubbio	problema
+consistent	coerente	solido
+consumer	consumatore	anche utente	
+contacting	connessione	se inteso come tentativo di contattare un server
+content rating	classificazione del contenuto	era stato tradotto con valutazione del contenuto, forse la terminologia usata da Microsoft è più indicata
+context list	menu a tendina
+context menu	menu contestuale
+continue	continua, prosegui, vai	dipende dal contesto
+contributing	contribuire, donare	
+cookie	cookie	
+copyright	copyright	
+could not be	non è possibile	
+council	consiglio	
+country	stato	geografico. Se tradotto con Paese usare la maiuscola
+crash	arresto anomalo	o si può anche usare crash in inglese
+credentials	credenziali	
+cross-platform	multipiattaforma	
+cruncher	macina dati per il monitoraggio civico
+curator	curatore	
+currently	al momento, momentaneamente	
+custom	personalizzato	
+custom element	elemento personalizzato	
+custom keywords	parole chiave	
+customize	personalizzare
+cut	taglia	
+daily	per giorno giornalieri, giornalmente.
+dashboard	Pannello, Dashboard	pannello (anche se in alcuni casi è lasciato in inglese). Pannello statistiche (viene tradotto), Dashboard Strumenti di sviluppo e Dashboard localizzatori no.
+debug	debug	è il processo mediante il quale si trovano e si risolvono (patching) gli errori di programmazione. Chiamato così perché uno dei primi debug fu fatto per rimettere in funzione il computer Harvard Mark II andato in avaria (crash) a causa di una falena entrata nei circuiti.
+decode	decodificare	Vedi encode.
+decode/-ing	decifrare	
+decrypt	decriptare	analogamente a encrypt si può usare decifrare per contesti dove ci si riferisca a cifrari analogici o per evitare ripetizioni
+default	predefinito
+delete	elimina	
+delete	eliminare	rimuovere, cancellare. Di preferenza usare eliminare e rimuovere
+deploying	distribuzione	anche caricamento
+design	progettare	anche lasciato in inglese se come sostantivo. Is designed -> sviluppata, progettata
+desktop	desktop	
+detail	dettaglio	scheda completa (app details)
+detailed	dettagliata, completa	se riferito alla detail page si usa scheda completa
+developer	sviluppatore	
+developer agreement	Contratto per lo sviluppatore	"Contratto" maiuscolo	
+developer profile	profilo sviluppatore	
+development version	versione di sviluppo	
+device	dispositivo	
+device integrator	addetto all'integrazione software nei dispositivi	
+different	differente	diverso
+directory	cartella	se è usata nel contesto di un'azione da riga di comando lasciare directory. 
+disable	disattivare
+disabled	disattivato	mai disabilitato
+dissociate	rimuovi l'associazione	
+dive	immergersi	
+domain	dominio	
+download	download	oppure: scaricamento
+download	scarica, download	Dipende dal contesto, se usato come verbo diventa scarica, se usato come sostantivo (es. numero di download) rimane invariato.
+draft	bozza	
+drag & drop	trascina selezione	
+drill out	scavare a fondo	esamnare con accuratezza, indagare.
+drop-down	menu	menu a tendina	
+dropdown menu/list	menu a tendina	
+duplicate	duplica o duplicato	
+e-mail	email	sempre senza trattino
+early adopter	pioniere	
+early bird	mattiniero	 della prima ora
+easy	facile	anche semplice
+editor	editor, revisore	può essere riferito a un revisore. text editor invece si riferisce a un programma per gestire file di puro testo, editor di testo
+editorial review	revisione stilistica (su MDN)
+education	didattica	educazione, insegnamento. Usare quello che si accorda meglio al contesto.
+elevator's pitch	illustra i punti di forza	breve discorso (il tempo si una salita in ascensore) per promuovere un proprio progetto
+email	email	
+emoji	emoji	sono simboli pittografici che fanno parte della codifica unicode dei caratteri. Accordare al femminile anche se a volte si usa al maschile. La parola ha origine giapponese e significa scrittura + immagini + caratteri. Diversamente dalle emoticon che sono combinazioni di caratteri (a volte sostituite da un'immagine) le emoji sono caratteri veri e propri.
+emoticon(s)	emoticon	
+enable	attivare	
+enable/disable	attivare/disattivare	
+enabled	attivato	mai abilitato
+encode	codificare	Non è usato nel senso di rendere inacessibili i dati (crittografia) ma solo per metterli in un altro formato. 
+encoding	codifica	Se riferito a caratteri codifica caratteri. 
+encoding	codifica/cifrare	a seconda del contesto
+encrypt	criptare	da preferire a crittare. Cifrare può essere usata come alternativa per evitare ripetizioni ma è più legato a cifrari analogici. Vedi discussione sul forum http://forum.mozillaitalia.org/index.php?board=8.0
+encryption	crittografia	
+engage	entrare in contatto	
+enjoy	apprezzi, ti piace. Anche sfruttare.
+enter	 inserire, immettere, invio	di solito riferito a un campo da compilare. Se riferito al tasto sulla tastiera usare Invio
+errno	numero errore	
+error	errore	di solito Si è verificato un errore (an error has occurred)
+error console	Console degli errori	
+escalation	escalation	lasciare in inglese. Un revisore manda in escalation un addon o un'app, cioé la fa salire nella coda perché sia revisionata prima delle altre.
+eula	EULA (maiuscolo)	è un acronimo di End User License Agreement (Licenza per l'utente finale)
+event listeners	listener degli eventi	
+event loop	event loop	è il codice che intercetta le azioni utente (esempio il tocco col dito su una porzione di schermo)
+exchange rate	tasso di cambio	
+excited	lieto	di solito siamo lieti, entusiasti	
+expandable menu	menu espandibile	
+expected	aspettavo	
+expected	previsto	
+explanation	spiegazione	descrizione
+exposing	esporre	se porre al'attenzione, sensibilizzare su un argomento
+extended version	versione estesa	
+extension	estensione	
+failed	fallita	non riuscito. Si può rendere anche con "something has failed" = "non è stato possibile effettuare qcs.".
+fair	chiaro	ma anche equo riferito a un criterio di valutazione.
+fair dealing	fair dealing	equo trattamento, analogo al fair use, è un istituto giuridico diffuso nei paesi anglosassoni ed è un po' più restrittivo rispetto al fair dealing americano.
+fair use	fair use	equo utilizzo, è un istituto legislativo diffuso negli USa che consente un uso meno restrittivo dei contenuti soggetti a diritto d'autore
+fan base	zoccolo duro	
+favorite	preferito	
+feature	caratteristica, funzionalità, funzione
+feature phone	non smartphone	un telefonino che non è uno smartphone.
+featured	consigliato	disponibile
+featured	in evidenza, consigliato	Su AMO tradurre con consigliato, is featured -> ne fa parte (fa parte della categoria consigliati)
+feed RSS	feed RSS	
+feedback	commenti	suggerimenti, impressioni reazioni, opinioni a seconda del contesto. Anche commenti e suggerimenti.
+fellow	persona generica	di solito membro di un gruppo (usare membro nella maggior parte dei casi ma può indicare una persona generica, un tale)
+fellowship	fellowship	nel caso di Mozilla sono delle simil borse di studio che permettono a degli studenti o persone interessate di essere retribuiti per esperienze in vari ambiti lavorativi che riguardano il mondo informatico.
+filesystem	filesystem	
+fill	compilare	di solito un modulo o le informazioni su un'app o un addon
+find	scopri, trova	
+find out	scoprire	
+findbar	barra di ricerca nel testo	Se è ovvio dal contesto che ci si riferisce alla ricerca nel testo si può omettere la specificazione “nel testo”
+fingerprint	impronta digitale	di certificato
+finished	completato, terminato	anche usato nella forma al termine
+first	prima	anche primo posto
+fitness	forma fisica	salute
+fix	risolvere	
+flag	segnala	
+flag	segnalazione	
+flagged	segnalato	anche segnalato per moderazione nel caso di un commento
+flash	flash	se riferito al plugin lasciare in inglese. Ha molti altri significati tra i quali aggiornare un dispositivo (a livello hardware) o per installare un nuovo OS su un telefono
+follower	follower, iscritto	Se indica i follower Twitter lasciarlo in inglese, altrimenti iscritto/i,
+follower	iscritto	
+followup	segue a	
+footer	piè di pagina	
+footer image	immagine di pié di pagina	Nei temi di sfondo è l'immagine utilizzata per lo sfondo della parte inferiore della finestra (barra componenti aggiuntivi e barra di stato)
+for the time being	nel frattempo	
+forget	dimenticare	
+form	modulo	
+fragile	delicato	fragile
+frame	riquadro	
+framework	framework	
+free	libero, gratuito, gratis	di solito nel contesto di AMO è gratis, gratuito. Anche reso come indipendente, dipende dal contesto.
+free browser	browser libero e gratuito	
+freeze	blocco	blocco del processo. È quando il programma in esecuzione si pianta e bisogna chiuderlo forzatamente.
+frontend	frontend	lato utente, se non si riesce a girare la frase e spiegare il concetto altrimenti lasciare in inglese
+full control	pieno controllo	
+gain	acquisire	acquistare popolarità reso con diventare popolare, acquistare focus, in generale può anche significare ottenere, guadagnare
+gallery	galleria	
+gambling	Gioco d'azzardo	
+game app	app gioco	
+generate	generare	
+geolocation	georilevazione	
+get	ottenere	La traduzione di get dipende dal contesto, esempio: un software si scarica o si installa.
+get foot	affermarsi	letteralmente trovare un appliglio. 
+get help	ottieni supporto	
+get involved	collabora, con qualcuno, di solito con noi	
+get it	Scarica(lo)	inteso come ottieni un qualcosa, nel caso di software scaricalo, installalo
+get started	per iniziare	
+getting started	per iniziare	
+git	git	come per volo in minuscolo
+glitch	problema tecnico	bug. Il termine glitch è usato in elettrotecnica per indicare un picco breve ed improvviso (non periodico) in una forma d'onda, causato da un errore non prevedibile. Per estensione è usato per indicare un breve difetto del sistema in vari campi di applicazione dell'elettronica.
+global	globale, mondiale	
+goal statement	dichiarazione d'intento	
+googol	googol	È un numero di 101 cifre (uno come prima cifra e 100 zeri). 
+gore	violenza	blood and gore -> sangue e mutilazione
+grant	consenti	
+granted	concesso	
+grants	sovvenzioni	sovvenzioni pubbliche o da fondazioni no profit
+graphics	elementi grafici	
+grassroots	movimento popolare	opinione pubblica, movimento di persone che nasce in modo spontaneo. Base, società civile. Gente comune. Lavorare sul campo. (nel senso di operare con la base)
+great	grande	Anche perfettamente (works great offline, funziona perfettamente anche in modalità non in linea)
+grid	griglia	
+grid view	vista griglia	
+guidelines	linee guida	
+hack	hack	modificare (il codice), trovare una soluzione creativa, magari in modo non proprio consono. Quando è inteso in senso negativo anche violare. Comunque nelle traduzioni di Mozilla ha quasi sempre un significato positivo. Non esiste un verbo diretto, vedere il contesto per Il verbo inglese hack può avere parecchie accezioni, ma quella primaria è fare a pezzi, da cui derivano vari significati figurati come ad es. mutilare, distruggere, manomettere, modificare rozzamente (senza riguardi e/o facendo danni o abusivamente) ecc. Vedi anche http://blog.terminologiaetc.it/2013/01/28/dante-database-lessicale-lingua-inglese/
+ham	non è spam	
+hands-on	partecipativo	usato come aggettivo, significa partecipativo, effettivo.
+hard disk	disco fisso	anche harddrive disco locale
+harm	danneggiare	
+header	intestazione	
+header	testata	intestazione, header. Se riferito al layout di pagina utilizzare testata, se riferito agli http-header lasciare in inglese o usare intestazione
+header image	immagine di testata	Nei temi di sfondo è l'immagine utilizzata nella parte superiore della finestra
+healty	sano, vitale, prospero, florido, salubre	
+helper application	applicazione esterna	
+hidden menu	menu nascosto	
+history	cronologia		
+home screen	schermata iniziale	
+home[page]	pagina iniziale	
+homepage	o si lascia home, pagina principale	dipende dallo spazio a disposizione. Se riferito alla homepage di Firefox pagina iniziale
+horizontal ruler (line)	separatore orizzontale	o semplicemente separatore
+host	ospitare	caricare
+hosted	ospitato	anche presente (sul server)
+however	comunque	
+idle	inattività	è lo stato di inattività di un'applicazione, cioé quando è aperta ma non usata, in pratica quando è ridotta a icona o non in primo piano
+illegal	non valido	
+image asset	asset immagine	
+improve	migliorare	
+in-app	in-app	
+in-app payment	pagamenti in-app	è la possibilità che hanno le app di poter vendere direttamente beni agli utenti, tipo vendere un MP3 ascoltato con un'app musicale.
+in-app product	prodotto in-app	
+inline scripting	script inline	o anche incorporato
+inspector	strumento di analisi	(del codice)
+into the hand	distribuire	letteralmente mettere nelle mani, distribuire (cosa) a (chi)
+invalid	non valido	
+invent	inventare	ma se si tratta di un concetto immateriale (esempio un software) meglio ideare o concepire.
+invisible	non visibile	
+issue	problema, malfunzionamento	Known Issues, Problemi noti.
+item	elemento	oggetto
+keep safe	Naviga in sicurezza	
+key-value	associazione chiave valore	
+keyword	parola chiave	
+known issues	problemi noti	
+labeled	etichettato	se indica il testo di un pulsante si può omettere nella traduzione in italiano, ad esempio “button labeled Push", diventa (il pulsante "Push")
+landing page	pagina dedicata a	
+language	lingua	
+language pack	language pack	
+lap counter	contagiri	
+laptop	portatile	
+later	in seguito, più avanti	
+launch	avvia	
+launch	avviare, eseguire	ma anche apertura (launch of Marketplace)
+layout	aspetto	
+leaderboard	classifica	
+leak	perdita	
+learn more	ulteriori informazioni, maggiori informazioni, scopri	ulteriori informazioni come traducente principale, ma si può adeguare alla particolare stringa
+legacy	utilizza tecnologia obsoleta	la traduzione dipende dal contesto, con il termine legacy vengono indicate dei software/applicazioni che sfruttano una tecnologia non più supportata o deprecata (esempio con WebExtension le estensioni basate su XUL vengono deprecate).
+legal alien	immigrato regolare	
+less	meno	
+library	libreria	di solito riferito ai framework JS come jQuery e simili
+licensed under * license	concesso con licenza *	
+lightweight	leggero	anche prestante
+like these	ti sembrano interessanti	
+limit to team member	riservata, stato di visibilità dell'ap nel Marketplace. Solo chi è loggato come membro del team di sviluppo dell'app può visualizzarla.
+link	collegamento	collegare (un qualcosa)
+listed	visualizzato	indicato
+listen	ascoltare	anche rimanere in attesa di un evento
+listing	elenco, informazioni, dettagli, pagina	dipende dal contesto, è la parola che ha più significati di tutte le altre. 
+listing page	pagina informativa, scheda completa	è la pagina dove vengono indicate tutte le informazioni sul tema, di solito una cosa del tipo: http://addons.mozilla.org/slug_ome_addon
+load more	carica altro	
+lobbying	mettere pressione	
+local storage	local storage	
+location	indirizzo	o percorso, se riferito a file locali
+location bar	barra degli indirizzi	
+log	log, registro	di solito registro di un qualcosa, log file si può lasciare in inglese
+logged	identificato come	
+login	accesso	effettuare l'accesso
+login	login, effettuare il login, identificazione, eseguire il login, accedi	
+look	guardare, scoprire	
+look back	ripensare	guardare	letteralmente guardare indietro
+lookup	ricerca	lookup results, risultati della ricerca	
+mailbox	casella di posta	
+mailing list	mailing list	
+maintain	mantenere	anche gestire, dipende da come viene usato
+mainteanance	manutenzione	
+make	rendere	
+malformed	non valido	non corretto
+man-in-the-middle attack	attacco man-in-the-middle	
+manager	gestione	es: profile manager gestione profili
+mandatory	obbligatorio	
+manifest	manifesto	Di solito riferito al file manifesto, anzi è meglio sempre indicare "file manifesto" anche se nell'en-US usa solo manifesto
+manipulation	manipolazione	di solito riferita alla manipolazione (gestione) del DOM
+manual review	revisione manuale	
+mardked	contrassegnato	
+mark	contrassegnare	marcare
+marketplace	market, marketplace	
+master password	password principale	
+matter	importante	adattarsi
+media	media	
+media outlet	organi di stampa	
+meet your needs	adattarlo alle proprie esigenze	
+member	membro	
+meme	meme	usare meme anche al plurale
+memory leak	perdite di memoria	
+menu	menu
+metadate	metadato
+mild	moderato	attenuato, dipende molto a cosa viene accompagnato. mild language -> linguaggio moderatamente forte, 
+minimal	minimale	minimo
+miscellaneous	varie	
+mobile	mobile, dispositivo portatile, piattaforma mobile	
+module	modulo	
+monthly	per mese (al mese), mensili, cadenza mensile	con cadenza mensile se indica una scadenza temporale, anche
+more	altro	se da solo di solito tradotto con altro
+more or less	superiore o inferiore	
+most importantly	soprattutto	innanzitutto, prima di ogni altra cosa, specialmente
+mouse wheel	rotellina del mouse	
+mozillian	mozilliano/a	
+multi platform	multipiattaforma	in italiano i sostantivi con prefisso, come multi, vengono riportati in forma univerbata, multipiattaforma, multilingue, multicolore, ecc.(citato). Usato anche "più piattaforme"
+multi-line	multilinea	
+must be	deve, è necessario	ingenerale io preferisco usare una forma impersonale: “È necessario anche se ci sono vecchie stringhe in cui è usata una forma diretta come deve
+narrative	racconto	storia, narrazione (non narrativa che è un genere letterario). narrative nella sua accezione più recente indica una modalità di comunicazione con un’esposizione argomentata che riflette coerentemente una visione, dei valori e degli obiettivi. Maggiori info qui http://blog.terminologiaetc.it/2016/11/07/significato-differenza-narrazione-storytelling/
+new	nuovo	esordiente
+news	novità, notizie, news	
+newsgroup	newsgroup	o gruppi di discussione
+next	successivo, accanto, di seguito, poi, ora	(in senso temporale) prossimo, anche prospettive (what's next). Se come pulsante di una procedura duidata Avanti.
+non-profit	non-profit	usato col trattino nelle pagine di mozilla.com. Anche senza fini di lucro in altre pagine.
+nonce	nonce	è la contrazione di number used once, un numero casuale utilizzato per l'autenticazione di richieste client-server.
+not allowed	operazione non consentita	
+not yet rated	nessun voto	
+note	nota	inizio di capoverso
+notice	nota	
+notify	avvisare, notificare	
+now	ora	ma dipende dal contesto, anche attualmente, al momento
+nudity	Scene di nudo	#descrittore
+off the grid	autonomo	
+offline	non in linea	works offline funziona anche non in linea, si usa anche modalità non in linea a seconda del contesto
+offline caching	cache non in linea	bisogna però sistemare mettendo il verbo opportuno, di solito utilizzando la cache non in linea 
+often	spesso, di frequente	
+on the go	in movimento	
+one time payment	pagamento una tantum	
+one-time	una tantum, unica	
+online	in linea, della rete	in linea se riferito allo stato di connessione, della rete se riferito agli utenti che si connettono a Internet
+open	aperto	anche aprire quando riferito a file, per file specifici usare il verbo più consono, esempio aprire un'immagine = visualizzare un'immagine. 
+open web app	app web aperta	
+option	opzione, scelta, possibilità	dipende dal contesto
+optional	facoltativo	
+origin	origine	usato per indicare il dato di protocollo + dominio + porta.
+override	forzare	letteralmente scavalcare, bypassare forzare (un'impostazione)
+overview	panoramica	
+package	pacchetto	
+packaged	pacchettizzato	
+packaged app	app pacchettizzata	
+packaging	impacchettare	
+paid	a pagamento	
+panel	pannello	Usato anche per dibattito/conferenza
+part of	parte di, presente in	
+partner	partner	diventare (nostro) partner se usato come verbo
+paste	incolla	
+patch	patch	pezza, rattoppo, aggiornamento.
+pattern	modello	lasciare in inglese se si riferisce a un'espressione regolare.
+payload	payload	carico utile, cioé l'informazione rilevante che viene trasmessa durante uno scambio di informazioni senza tener conto dei dati necessari al trasferimento dell'informazione.
+payment account	conto pagamenti
+payment key	chiave pagamenti
+pending	sospeso
+pending app	app in sospeso
+permissions tokens	token per l'autorizzazione
+pet project	attività prediletta	attività preferita
+pick	scegliere
+picture	immagine
+pinpoint	individuare	determinare con precisione
+pitch	promuovi
+plain text	testo semplice
+plan	organizza	pianifica, programma
+platform	piattaforma, sistema operativo	se si parla di desktop platform anche sistema operativo, se è generico e intende sia mobile che desktop usare il generico piattaforma.
+play favorites	favorire [qualcosa]	
+pledge	patto	
+plugin	plugin
+podcast	podcast	usare abbonarsi al podcast
+policy	norma, politica, informativa, regola
+popular	popolare	ma anche diffuso
+popup list	menu a tendina
+popup menu	menu contestuale
+post	articolo	se riferito a una pubblicazione su un blog, se in un forum lasciarlo in inglese. Come verbo inviare
+pre-approved payment	pagamento preapprovato
+pre-release	versione preliminare (anche pre-release build)
+preapproval	preapprovazione	(dei pagamenti)
+preliminarily reviewed	sottoposto a revisione preliminare
+press center	sala stampa
+preview	anteprima
+price point	price point	prezzo di vendita
+price point n (cost of sth at retail ) prezzo di vendita	punto di vendita	Word Reference dice: "price point n (cost of sth at retail ) prezzo di vendita", io direi punto di vendita
+price tier	fascia di prezzo
+pricing matrix	schema dei prezzi
+primitive	di base
+privacy policy	informativa sulla privacy	
+private tab	scheda anonima	
+privileged app	app con privilegi	
+process	elaborare	
+processed	elaborato	usare anche la forma "elaborazione di (cosa)". Se riferito a programma in esecuzione, processo.
+progress	in corso	
+progress bar	barra di stato	anche indicatore di stato
+properly	correttamente	
+protect	proteggere	difendere o salvaguardare, dipende dal contesto: si salvaguardia o si difende il Web, protezione è più indicato per gli strumenti anti malware o anti tracking.
+provide	garantire, fornire, offrire	
+provider	fornitore, provider	ad esempio di connessione Internet, di un servizio, ad esempio di posta elettronica (lasciare "provider email" in questo caso). Per i provider di ricerca, vedi anche search provider (motori di ricerca o provider di ricerca)
+pseudo selector	pseudoselettore	
+public key pinning	pinning delle chiavi pubbliche	viene indicato anche dall'acronimo HPKP (HTTP Public Key Pinning). È un meccanismo di controllo (recente) mediante cui è possibile, da parte di un sito all'atto del first connect, indicare un insieme di hash delle autorità che hanno rilasciato il certificato pubblico. È così possibile evitare che una CA supportata dal browser ma non dal sito rilasci un certificato valido per il sito (il caso classico è una CA poco sicura o affiliata a stati canaglia che rilasciano un certificato fasulo, vedi DigiNotar o CA tunisina).
+public page	pagina pubblica	
+publicly traded stock	azioni quotate in borsa	
+published	pubblica. Stato di visibilità dell'app. Tutti possono visualizzarla e appare nelle ricerche e nelle pagine di presentazione (categorie, consigliate, ecc.)
+pull out all the stops	concentrare tutti gli sforzi	lavorare duramente a qualcosa
+purchase receipt	ricevuta di pagamento	
+purchase receipts	ricevuta di acquisto	
+push	trasmettere	nel contesto di Firefox OS Simulator usiamo trasmettere
+put	mettere	far giungere
+quadrillion	mille bilioni	oppure 1 biliardo, oppure 1 milione di miliardi. Vedi la voce billion per la spiegazione.
+qualification rating	visto censura
+queue	coda	di solito quella di revisione, uno carica un addon e viene aggiunto alla coda di revisione dove potrà essere revisionato/esaminato/verificato dai revisori di AMO.
+quick start	guida introduttiva	ma può essere anche inteso come avvio rapido, se riferito a documentazione o tutorial "guida introduttiva"
+quickly	immediatamente	anche velocemente
+radio button	pulsante di opzioni	
+range	intervallo	di solito temporale custom range = intervallo personalizzato
+rating body	ente di classificazione
+reach	raggiungere	usato anche bacino d'influenza (Mozilla's global reach extends, il bacino di influenza di Mozilla si estende)
+reason	motivo, ragione, motivazione	
+receipt verification	controllo ricevute	
+recently	di recente, recentemente	di solito viene più usato di recente
+recipient	destinatario	
+recurring	periodico	azione continuata nel tempo, ad esempio recurring donation = donazione periodica. Anche ricorrente.
+redirect	reindirizzamento	
+reference	riferimento	informazioni di riferimento su (cosa)
+refine	restringere	rifinire
+refresh	ricaricare	di solito riferito alla pagina
+refund	rimborso	rimborso effettuato, richiesta di rimborso, rimborso di un pagamento, elaborare un rimborso, approvare un rimborso, rimborso approvato
+regular app	app regolare	o normale come è stato tradotto ora, in realtà vorrei chiedere
+rejection	rifiuto	
+related	correlato	
+release	versione	versione stabile, versione ufficiale
+release notes	note di versione	
+released	distribuito, rilasciato	
+remember	memorizzare, ricordare	
+remix	remix	collage, quando è riferito esplicitamente alle immagini.
+remove	rimuovi/cancella	
+reply to	rispondi a	
+repo	repository	su Wikipedia viene suggerito di usare deposito o repositorio, però io non l'ho mai sentito, mettiamo repository al posto di repo
+report	segnalazione, rapporto	come verbo segnalare
+reported	segnalato	
+request	richiesta	Se riferita a un'operazione del server anche trasmissione, comunicazione
+request body	testo della richiesta	
+request signature	firma della richiesta	
+require	è obbligatorio	è necessario
+required	richiesto, obbligatorio, è necessario	di solito si riferisce a un campo in un modulo, se è un requisito (is required) è necessario o è richiesto
+requires	necessita, ha bisogno, richiede	
+rereview	nuova revisione	viene richiesta una nuova revisione quando le estensioni ricevono segnalazioni di abuso.
+reset	reimpostare	ripristinare
+resource	risorsa	
+responsive design	design reattivo	
+responsive mode	modalità flessibile	è la traduzione data in Firefox
+restore	ripristinare	
+restricted	avere limitazioni	
+restricted user	utente limitato	
+resubmission	nuovo invio	reinvio
+result	risultato	come verbo di solito comporta (cosa)
+retail	commercio al dettaglio	
+retail price	prezzo al pubblico
+retrieve	recuperare	
+return payment	resi di pagamento	
+return receipt	ricevuta di ritorno	
+revenue stream	flusso di entrate	
+revert	annulla modifiche	ripristinare. Indica l'operazione con cui si annullano le modifiche fatte in una versione di un documento.
+review	revisione, recensione	Nel sito dipende, ahimé, dal contesto. Usato anche processo di revisione.
+reviewed	revisionato, verificato, recensito	Nei commenti diventa recensito, se invece si riferisce al processo di revisione dei revisori diventa esaminato o verificato
+reviewer	revisore	se ci si sta riferendo a un commento anche moderatore
+revoke	revocare	
+right click	[fare] clic con il tasto destro	
+rights holder	detentori di diritti d'autore	società o persone
+role	incarico	Ruoli in un team: proprietario, sviluppatore, osservatore, supporto
+roll over	al passaggio del mouse	
+root directory	directory principale	si può usare anche cartella, però di solito, visto che sono strumenti che si usano da shell dei comandi si usa directory (cartella è la directory nell'ambiente desktop), però non è fondamentale essere precisi, usare quello che suona meglio.
+run	eseguire
+runtime	runtime	se non si riesce a girare la frase e raggirare l'uso esplicito di runtime (quando un programma è in esecuzione) lasciare in inglese.
+sale	vendita	
+same	stesso	
+sandbox	sandbox	
+save on	risparmiare	
+score	punteggio	
+screenshot	screenshot	anteprima
+script chooser	Selettore script	
+scrollbar	barra di scorrimento	
+seamless	facile, semplice, senza alcuna difficoltà	perfettamente integrato (lett. senza cuciture)
+search provider	motore di ricerca	provider di ricerca
+secret	secret	
+see	scoprire, visualizzare, mostrare, consultare	letteralmente vedere. Se si riferisce a una galleria o a una pagina sare? scoprire, visualizzare, mostrare, se si riferisce a un documento usare consultare, leggere
+see all	vedi tutto	
+select	selezionare	
+self Hosted	 Ospitato autonomamente, self hosted	su AMO è stato tradotto, ma è anche possibile lasciarlo in inglese se il contesto è rivolto a geek
+serve	servire	es. to serve a file, anche distribuire, trasmettere (nel caso di header http)
+serve\	trasmettere	distribuire un file da un server.
+server code	codice server	
+setting 	impostazione	
+settings	impostazioni, account settings impostazioni account	
+shape	definire	dare forma, plasmare (se usato come verbo). Figura, forma se come sostantivo.
+share	condividere	
+shareholder	azionista	
+shield	scudo	
+ships with	fornito	intransitivo, viene rilasciato, equipaggiato, dispone
+show	mostrare, dimostrare, visualizzare	
+sign in	accedi	effettuare l'accesso
+sign up	registrati	effettuare la registrazione
+signed zip	zip firmato
+signing 	firmare	
+signon 	sottoscrizioni	
+simplest way	il modo più semplice	
+size 	dimensione	
+skeleton	struttura	ma anche più letteralmente scheletro
+skill	abilità	competenza
+slide box	riquadro a scorrimento	
+slider	dispositivo di scorrimento	
+slow down	rallentare	
+slug	slug	è il nome con cui viene indicata la pagina nel link, http://google.com/pagina+contatti pagina+contatti è lo slug
+smart	intelligente	
+snippet	esempio di codice	letteralmente è frammento/ritaglio di codice, io userei esempio
+solid	consistente	
+source	fonte	se riferito al codice, sorgente se in un comando (Visualizza sorgente), se in una frase complessa si può esplicitare con codice sorgente
+source code	codice sorgente
+spam	spam	
+spellchecker	correttore ortografico
+split	dividere	
+square	quadrato	
+stack	insieme	indica un insieme di oggetti, a seconda del soggetto a varie traduzioni, gruzzolo (riferito a soldi), pila, altro
+start up	avvio	
+status	stato	
+stay	rimani, stai	
+stem	nascere	scaturire, più poetico sbocciare/fiorire
+stop	interrompere	a volte fermare, arrestare
+storage	archiviazione	
+stretched	deformato	
+strict	rigoroso	
+strong encryption	crittografia sicura	anche avanzata
+subject 	oggetto	intestazione di messaggio
+subject to change without notice	soggetto a cambiamenti senza preavviso	
+submit	invia, carica.	Si invia un commento, una recensione, un feedback. Si carica un tema, un'app, un addon, ecc. Usato anche inserisci (submit app url). Se inteso nel senso di sottoporre per una revisione (review), usare sottoporre o presentare.
+success	operazione completata con successo	correttamente
+successfully	correttamente, con successo.	Su AMO viene preferita la prima, anche se talvolta si ricorre alla seconda
+suggested	consigliato	
+suggestive	allusivo	
+summary	riepilogo	
+summary	sommario, riassunto, riepilogo	dipende dal contesto
+support	supporto	supporto è da preferirsi, ma anche aiuto, assistenza, integrare, implementare	Se riferito a un software che integra una caratteristica, anche implementa, integra. 
+support site	Sito di supporto	
+survey	sondaggio	
+suspect	sospetti, ritieni	ritieni che (cosa) stia violando
+swipe	scorrere	scorimento (con le dita) su smartphone
+tab box	riquadro a schede	
+tag	etichetta, tag	ma si può anche lasciare tag, dipende dal contesto. Su Amo e nei software è stato tradotto con etichetta
+tap	tocco	usato anche come verbo, toccare
+target	destinazione	
+target	target	obiettivo. Ma anche di riferimento, pubblico, se usato come verbo rivolgere
+task	attività	
+technologist	esperto di tecnologia	di nuove tecnologie
+technology	tecnologia	in alcuni contesti però si può usare nuove tecnologie se il soggetto sono le tecnologie di nuova generazione.
+technology stack	tecnologia	
+template	modello	
+temporarily	momentaneamente, al momento	
+term	definizione	
+terms of service	termini di servizio	
+test	provare, testare, collaudare	
+test plan	piano di test	
+theme	tema	
+third part developer	sviluppatore di terze parti	
+third party	terze parti	
+thoroughly	a fondo	
+thread	discussione	se si riferisce a un sottoprocesso di un'applicazione lasciare in inglese
+tile	motivo di sfondo. Per i pannelli della pagina nuova scheda usare riquadro.
+tinker	aggiustare	smanettare, sistemare
+tip/tooltip 	suggerimento	
+to check	selezionare	per una casella di spunta
+to choose	scegliere	per indicare l’utilizzo di una particolare voce di menu, o su pulsanti, titoli di finestre di dialogo per l’individuazione di un file/cartella/elemento utilizzare "selezionare"
+to forward	inoltrare	un messaggio
+to mark	contrassegnare	o segnare
+to post [a message]	pubblicare	(su un newsgroup); inserire un messaggio (in un forum)
+to quote	citare	
+to select	selezionare	v. anche to choose
+to use 	utilizzare	da preferire a "usare"
+toast	toast	
+today widget	 schermata Oggi del centro notifiche, contenitore di widget nei sistemi iOS
+toggle menu	menu a comparsa	
+toggle switch	interruttore di stato	
+toolbar	barra degli strumenti	
+toolbar 	barra	degli strumenti, delle attività ecc.
+top	le migliori	
+top menu	menu superiore	
+top-notch	di alta qualità	
+total amount earned	valore guadagno totalizzato	
+tour	panoramica	
+track	tracciare	monitorare
+tracking protection	protezione antitracciamento	strumento di Firefox per difendere dal tracciamento online.
+training	formazione	anche addestramento, allenamento, però nel contesto Mozilla è quasi sempre formazione.
+transaction	transazione	
+transparent	trasparente	però in inglese viene quasi sempre usato in modo figurato, in italiano si rende meglio con chiaro, comprensibile o con un giro di parole.
+trash/trash can 	cestino	
+trillion	bilione	O anche mille miliardi. Vedi la voce billion per la spiegazione.
+truncated message	messaggio troncato	
+trust 	attendibilità	
+trusted	affidabile	
+tutorial	guida	
+tweet	tweet	messaggio sul microblog di Twitter, se viene usato per richiedere una condivisione su Twitter (Share on Twitter, tweet this) usare passaparola (su twitter)
+typically	normalmente	in genere, di solito, tipicamente
+unable	non in grado	non sei capace, non sei in grado
+unable to	impossibile	contattare il server, impossibile effettuare l'accesso, ecc.
+unavailable	non disponibile	
+undone	annullato	
+unexpected	inatteso	
+unit	unità	di app vendute
+unit testing	unit testing	
+unlisted	parzialmente pubblica, stato di visibilità dell'app. Non appare nelle ricerche e nelle pagine di presentazione. Può visualizzarla solo chi conosce il link alla pagina dell'app.
+unpanel	non conferenza	http://it.wikipedia.org/wiki/Non_conferenza
+unsubscribe	rimuovere iscrizione	girare sempre sostantivando (l'iscrizione è stata rimossa)
+untapped	inesplorato	
+until	finché	
+update	aggiornamento	
+upgrade	aggiornamento	rispetto a update indica anche un miglioramento e non solo una nuova versione, però in italiano non c'è un analogo.
+upload	caricare	
+upsell	promozione	
+usability	usabilità	
+use case	caso d'uso	
+used	utilizzato	usare utilizzare in preferenza a usare
+useful	utile	
+usually	solitamente	
+utility	utilità	
+validate	valida	
+validation 	convalida	
+vendor	fornitore	
+vibrant	energetico, vibrante, vivace	
+videochat	chat video	
+view	visualizza	anche reso con mostra. Se sostantivato, vista
+view source	visualizza sorgente	
+viewer	visualizzatore	se rappresenta il ruolo in un team di sviluppo osservatore
+volo	volo	in minuscolo
+wait	attendere	waiting (è in attesa…)
+warning	avviso	
+watch	guardare	
+way	metodo, modo, maniera,	dipende dal contesto
+web font	web font sono i font scaricati direttamente dal web, lasciare in inglese
+web literacy	alfabetizzazione web	
+web site 	sito web	
+web standards	standard web, tecnologie standardizzate del Web	
+webinar	webinar	seminario online
+weekly	per settimana, settimanali	
+welcome	benvenuto	quando usato come verbo accogliere	
+western 	occidentale	
+what	che cosa, qual è	usando che cosa ricordarsi del che, se reso come qual è non mettere l'apostrofo (si può anche scrivere qualè a discrezione, su AMO abbiamo sempre messo lo spazio)
+white paper	libro bianco	Con il termine libro bianco (dall'inglese "White Paper") si indica generalmente un documento ufficiale pubblicato da un governo o da un'organizzazione internazionale al fine di rendere ufficiale un rapporto Nel marketing la parola può indicare anche una pubblicazione scritta da un professionista esperto di una materia che offre informazioni di qualità e di interesse ad un pubblico selezionato di utenti.
+whiteboard	bacheca	su AMO è il pannello dove vengono visualizzate informazioni rilevanti per gli editor del Marketplace
+widget	widget	
+wire transfer	bonifico bancario	
+with	con	ma anche grazie a (cosa), assieme
+without	senza	senza bisogno
+wizard	procedura guidata di […]	
+world	mondo, mondiale, a livello mondiale	
+wrap	a capo	
+wrapping	formattazione	se inteso come impostazione generale
+zoom out	riduci zoom	
