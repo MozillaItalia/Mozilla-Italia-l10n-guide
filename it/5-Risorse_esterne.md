@@ -1,6 +1,6 @@
 # Altri strumenti per i localizzatori
 
-Altri strumenti che possono tornare molto utili per tradurre file sono un software di traduzione, un glossario e altri strumenti per memorizzare la propria fraseologia in modo da non fare lo stesso lavoro più volte.
+Altri strumenti che possono tornare molto utili per tradurre file sono un software di traduzione, un glossario e altri strumenti per memorizzare la propria fraseologia in modo da non ripetere lo stesso lavoro più volte.
 Nella prima sezione di questo capitolo vedremo i due glossari principali a cui fare riferimento per la traduzione dei termini tecnici e delle voci dell’interfaccia dei vari prodotti Mozilla e spiegheremo come utilizzarli in modo veloce.
 Nella seconda parte daremo alcuni consigli su traduttori automatici, dizionari online e altre risorse utili nel processo di traduzione.
 Nell’ultima parte daremo uno sguardo più da vicino agli strumenti online di casa Mozilla che consentono di rimanere aggiornati sullo stato della localizzazione dei vari prodotti.
@@ -12,13 +12,14 @@ Un glossario è uno strumento fondamentale per un traduttore, esso permette di a
 Questo è ancor più importante nel contesto informatico dove alcuni termini sono risemantizzazione di parole preesistenti che vanno ad assumere un significato completamente diverso da quello originale e in cui le scelte fatte inizialmente per rendere il concetto in altre lingue potrebbe discostarsi dalla mera traduzione letterale.
 È inoltre molto importante mantenere la terminologia utilizzata nei vari sistemi operativi, per rendere gli stessi concetti in modo che siano il più possibile comprensibili per l’utente.
 
-Un ottimo glossario per i vari termini tecnici è il dizionario Microsoft, nel quale è possibile trovare tutte le stringhe dei vari prodotti, da Windows a Office.
+Un ottimo glossario per i vari termini tecnici è il database terminologico Microsoft, nel quale è possibile trovare tutte le stringhe dei vari prodotti (sistemi Windows, Microsoft Office, Visual C++, ecc).
+Oltre alla localizzazione delle varie stringhe all’interno dei vari prodotti Microsoft, esso fornisce una definizione (in lingua inglese) di alcuni termini tecnici utilizzati.
 
 Un analogo del glossario Microsoft per i prodotti Mozilla è disponibile sul sito della comunità francofona `transvision.mozfr.org`.
 
 Il modo più facile per utilizzarli è aggiungerli come motori di ricerca o come *smart bookmark*, qui di seguito vedremo come fare.
 
-#### Integrazione delle ricerche in Firefox
+### Integrazione delle ricerche in Firefox
 
 Esistono sostanzialmente due metodi veloci per cercare all’interno di questi glossari:
 
@@ -29,11 +30,11 @@ Nel caso si scelga di utilizzare uno *smart bookmark*, aggiungere questi due URL
 
 	https://transvision.mozfr.org/?recherche=%s&locale=it&repo=trunk
 
-per ciò che riguarda le stringhe dei prodotti Mozilla e:
+per cercare all’interno delle stringhe già tradotte dei software Mozilla e:
 
 	https://www.microsoft.com/Language/en-US/Search.aspx?sString=%s&langID=it-IT
 
-per ciò che riguarda le stringhe dei prodotti Microsoft.
+per cercare all’interno delle stringhe dei prodotti di casa Microsoft.
 
 Una volta aggiunti, aprire la *Libreria*, cercare il segnalibro e aggiungere una parola chiave per ognuno di essi.
 A questo punto sarà sufficiente digitarla seguita dal termine che si vuole cercare nella barra degli indirizzi per essere rimandati alla relativa pagina.
@@ -48,6 +49,7 @@ In aggiunta a questi due glossari di riferimento, è possibile consultare [quest
 Il file viene aggiornato non appena vengono incontrati nuovi termini e la versione aggiornata sarà sempre disponibile alla pagina appena indicata.
 
 
+
 ## Traduzione automatica (MT)
 
 La traduzione automatica, o MT (Machine Translation) è utile per cercare frasi o termini già tradotti in precedenza (ad esempio una formula comune o singole parole).
@@ -59,21 +61,23 @@ Per questa ragione la traduzione automatica darà risultati migliori cercando co
 Se ci si affida a questo tipo di strumenti, il consiglio è quello di registrare un account e accedervi sempre con quel profilo perché sarà possibile memorizzare le traduzioni effettuate in precedenza e il software tenderà ad imparare e ad adeguarsi al contesto delle traduzioni effettuate.
 
 
-I migliori strumenti online per la traduzione automatica sono:
-
--   [Google Translate](https://translate.google.com/)
-- [Microsoft Translator](http://www.bing.com/translator/)
+I migliori strumenti online per la traduzione automatica sono [Google Translate](https://translate.google.com/) e [Microsoft Translator](http://www.bing.com/translator/).
 
 Esistono anche estensioni specifiche per integrarli direttamente in Firefox o in altri browser.
 per ciò che riguarda Firefox, fare riferimento alle estensioni nella categoria [Supporto lingue][estensioni] del sito `addons.mozilla.org`.
 
 ### Dizionari, sinonimi e contrari
 
-Esistono un sacco di dizionari veri e propri e di sinonimi e contrari online, se si sta già utilizzando uno di questi servizi e si ha una certa dimestichezza con lo strumento , il consiglio è quello di continuare a farlo.
-In Firefox, ad esempio, di default viene fornito il dizionario Oepli, ma altri possono essere aggiunti visitando il sito [Mycroft Project][http://mycroftproject.com/).
+Esistono un sacco di dizionari veri e propri e di sinonimi e contrari online, se si sta già utilizzando uno di questi servizi e si ha una certa dimestichezza con lo strumento, il consiglio è quello di continuare ad usare la risorsa che si sta già utilizzando.
+In Firefox, ad esempio, di default viene fornito il dizionario Oepli, ma altri possono essere aggiunti visitando il sito [Mycroft Project](http://mycroftproject.com/).
 Un ottimo dizionario di sinonimi e contrari che ci sentiamo di consigliare è quello Treccani, per aggiungerlo come *smart bookmark* (fare riferimento alla sezione precedente), aggiungere questo link ai segnalibri:
 
 	http://www.treccani.it/vocabolario/%s_(Sinonimi-e-Contrari)/
+
+	Ancor meglio sarebbe utilizzare un dizionario cartaceo o digitale professionale, che rispetto alla versione online è certamente più ricco e curato.
+	
+	In ogni caso, fare sempre molta attenzione al sinonimo eventualmente scelto, non sempre i sinonimi hanno, soprattutto nell’ambito tecnico-informatico, l’esatto significato della parola che si vuole sostituire.
+
 
 
 ### Dizionario per il correttore ortografico
@@ -87,16 +91,17 @@ L’ultima versione può essere scaricata da [questa pagina][dizionario].
 
 
 
-#### Le memorie di traduzione dei prodotti Mozilla
+### Le memorie di traduzione dei prodotti Mozilla
 
 Per chi utilizzasse software desktop, come Poedit o OmegaT, che supportino le memorie di traduzione, qui di seguito ci sono i riferimenti a dove trovare delle memorie di traduzione create utilizzando le stringhe di Firefox e altri progetti Mozilla.
-Se si vuole utilizzare come memoria di traduzione con poedit o omegat i file che comprendono l’insieme di vari progetti Mozilla, a [questo link][tmx] è possibile scaricare un file `.tmx` creato utilizzando tutte le traduzioni attive dei vari progetti.
+Se si vuole utilizzare come memoria di traduzione con Poedit o OmegaT i file che comprendono l’insieme di vari progetti Mozilla, a [questo link][tmx] è possibile scaricare un file `.tmx` creato utilizzando tutte le traduzioni attive dei vari progetti.
 È sufficiente selezionare la lingua e i progetti a cui si è interessati e scaricare il file.
 Per conoscere come utilizzare le memorie di traduzione in Poedit e OmegaT fare riferimento al capitolo precedente.
 
-A [quest’altro link§[oldtmx] sono inoltre disponibili i file `.tmx` del Progetto Firefox OS.
+A [quest’altro link][oldtmx] sono inoltre disponibili i file `.tmx` del Progetto Firefox OS.
 Nonostante il progetto non sia più attivamente sviluppato, la traduzione italiana può essere utilizzata come riferimento perché si trattava comunque di un’ottimo lavoro.
 La memoria di traduzione di Firefox OS è denominata `gaia1.2.tmx`, gli altri file non sono aggiornati e si consiglia di scaricare l’ultima versione disponibile dal sito `transvision.mozfr.org`.
+
 # Come rimanere aggiornati
 
 Il lavoro di un traduttore non termina quando ha completato la traduzione di un sito.
@@ -108,10 +113,11 @@ Ogni lingua ha la sua pagina dedicata in cui sono indicati i vari progetti, lo s
 Accanto ad alcuni progetti potrebbe inoltre apparire la scritta *Opt-in*.
 Ciò significa che questi progetti non sono ancora stati attivati per la lingua in questione e che sono considerati *facoltativi* e di minore importanza rispetto agli altri.
 Facendo clic sul link *Opt-in* si verrà rimandati a un modulo su Bugzilla per aprire la richiesta di attivazione.
-Per quanto riguarda la comunità italiana preferiamo sempre discutere sul forum l’aggiunta di nuovi progetti, quindi il consiglio è quello di aprire una discussione e lasciare che sia uno dei moderatori a occuparsi dell’apertura del bug.
+All’interno della comunità italiana è prassi consolidata discutere sul forum l’aggiunta di nuovi progetti, quindi il consiglio è quello di aprire una discussione e lasciare che sia uno dei moderatori a occuparsi dell’apertura del bug.
+
 Molto utile è la possibilità di sottoscrivere il [feed RSS](https://l10n.mozilla-community.org/webdashboard/?locale=it&rss=1) che consente di essere aggiornati in tempo reale quando ci sono nuove stringhe da tradurre.
 
-#### Il forum italiano
+### Il forum italiano
 
 Il forum italiano è da sempre il principale luogo dove chiedere aiuto e discutere dei vari progetti di localizzazione che riguarda l’ecosistema Mozilla.
 In particolare la sezione [Traduzioni][forum-traduzioni] è interamente dedicata a raccogliere tutte le discussioni inerenti la localizzazione: proposta di nuovi progetti, segnalazioni di errori nella localizzazione italiana, discussioni terminologiche e molto altro.
@@ -138,4 +144,4 @@ Mozilla tiene inoltre, in lingua inglese, [un blog][l10nblog] specificatamente d
 [dizionario-ext]: https://addons.mozilla.org/it/firefox/addon/dizionario-italiano/
 [dizionario]: https://sourceforge.net/project/showfiles.php?group_id=128318&package_id=141110
 [tmx]: https://transvision.mozfr.org/downloads/
-[oldtms]: https://www.dropbox.com/sh/odlh109rugbovnr/OA8NTEkZ0b
+[oldtmx]: https://www.dropbox.com/sh/odlh109rugbovnr/OA8NTEkZ0b
