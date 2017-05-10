@@ -8,7 +8,7 @@ Il *markdown* è uno pseudo-linguaggio creato da [John Gruber][jg] e [Aaron Swar
 
 Non avendo una vera standardizzazione come l’HTML, il *markdown* ha visto nel tempo la nascita di diverse estensioni in specifiche piattaforme, senza che però queste estensioni siano adottati da tutti.
 
-Il *markdown che si usa su *GitHub*, denominato *GitHub Flavored Markdown (GFM, è abbastanza minimale, ad esempio non consente le note a piè pagina, l’inserimento di codice LaTeX, inserimento di testo apice o pedice e molte altre estensioni che sono supportate in altre piattaforme.
+Il *markdown* che si usa su  GitHub, denominato **GitHub Flavored Markdown* (GFM, è abbastanza minimale, ad esempio non consente le note a piè pagina, l’inserimento di codice LaTeX, inserimento di testo apice o pedice e molte altre estensioni che sono supportate in altre piattaforme.
 
 
 
@@ -31,7 +31,7 @@ produce lo stesso risultato di:
 
 	Era una luminosa e fredda giornata d'aprile, e gli orologi battevano tredici colpi. *Winston Smith*, tentando di evitare le terribili raffiche di vento col mento affondato nel petto, scivolò in fretta dietro le porte di vetro degli Appartamenti *Vittoria*: non così in fretta, tuttavia, da impedire che una folata di polvere sabbiosa entrasse con lui.
 
-	Risultato:
+Risultato:
 
 Era una luminosa e fredda giornata d'aprile, e gli orologi battevano tredici colpi.
 *Winston Smith*, tentando di evitare le terribili raffiche di vento col mento affondato nel petto, scivolò in fretta dietro le porte di vetro degli Appartamenti *Vittoria:* non così in fretta, tuttavia, da impedire che una folata di polvere sabbiosa entrasse con lui.
@@ -46,6 +46,7 @@ Il risultato è (anche con i due spazi al posto della \\:
 A una delle estremità era attaccato un manifesto a colori, troppo grande per poter essere messo all'interno.
 
 Per creare un nuovo paragrafo bisogna mettere una riga bianca:
+
 	Winston si diresse verso le scale.
 	
 	Tentare con l'ascensore, infatti, era inutile. Perfino nei giorni migliori funzionava raramente e al momento, in ossequio alla campagna economica in preparazione della Settimana dell'Odio, durante le ore diurne l'ero gazione della corrente elettrica veniva interrotta.
@@ -67,8 +68,8 @@ Si quota come nelle email in puro testo, col carattere maggiore:
 
 	>   Su ogni pianerottolo, di fronte al pozzo dell'ascensore, il manifesto con quel volto enorme guardava dalla parete.
 	>   Era uno di quei ritratti fatti in modo che, quando vi muovete, gli occhi vi seguono.
->   
-	>   **IL GRANDE FRATELLO VI GUARDA**, diceva la scritta in basso.
+	>   
+		>   **IL GRANDE FRATELLO VI GUARDA**, diceva la scritta in basso.
 
 	--George Orwell, da 1984.
 
@@ -95,7 +96,7 @@ Il carattere \* viene usato per dare enfasi, un solo asterisco per l'enfasi semp
 
 *Corsivo*,, **grassetto** e ***corsivo più grassetto.**
 
-Una brutta cosa del GFM è che non i considera i caratteri di formattazioni compresi fra caratteri alfanumerici.
+Una brutta cosa del GFM è che non considera i caratteri di formattazione compresi fra caratteri alfanumerici.
 In particolare, non si può evidenziare una parte della parola.
 
 ## Testo sbarato
@@ -263,22 +264,11 @@ Per inserire un'immagine usare:
 
 	![Logo di Firefox](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mozilla_Firefox_logo_2013.svg/100px-Mozilla_Firefox_logo_2013.svg.png![)
 
+![Logo di Firefox](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mozilla_Firefox_logo_2013.svg/100px-Mozilla_Firefox_logo_2013.svg.png![)
+
 Il testo racchiuso tra parentesi quadre è il testo alternativo per l'accessibilità.
 come per i link, anche con le immagini si può usare la notazione per riferimento per indicare il link.
 
-## Tabelle
-
-
-![Logo di Firefox](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mozilla_Firefox_logo_2013.svg/100px-Mozilla_Firefox_logo_2013.svg.png![)
-
-
-
-
-
-
-	Una guida a una versione estesa del *markdown* che supporta note a piè pagina, codice LaTeX e molto altro è consultabile sul sito di [Pandoc][pm], un'applicazione da riga di comando che consente la conversione tra diversi tipi di testo formattato, tra cui da *markdown a HTML.
-	
-	
 ## Tabelle
 
 Le tabelle si creano con il carattere pipe (|) e i trattini.
@@ -309,6 +299,13 @@ Risultato:
 | Massiccio Vinson | Antartide | 4897 |
 | Puncak Jaya | Oceania | 4884 |
 | Monte Bianco | Europa | 4810 |
+
+
+## Caratteri speciali
+
+Ci sono alcuni caratteri speciali che devono essere *escaped* perché siano visualizzati.
+Ovviamente sono tutti quelli inclusi nella sintassi del markdown: \\, \*, \~, \`, \+, \# e \-.
+Alcuni solo se sono a inizio riga.
 
 
 ## Emoji
