@@ -4,7 +4,7 @@ Altri strumenti che possono tornare molto utili per tradurre file sono un softwa
 Nella prima sezione di questo capitolo vedremo i due glossari principali a cui fare riferimento per la traduzione dei termini tecnici e delle voci dell’interfaccia dei vari prodotti Mozilla e spiegheremo come utilizzarli in modo veloce.
 Nella seconda parte daremo alcuni consigli su traduttori automatici, dizionari online e altre risorse utili nel processo di traduzione.
 Nell’ultima parte daremo uno sguardo più da vicino agli strumenti online di casa Mozilla che consentono di rimanere aggiornati sullo stato della localizzazione dei vari prodotti.
-
+Nell’appendice finale sono descritti alcune procedure e concetti utilizzati nelle precedenti sezioni nel caso il lettore non fosse pratico con essi.
 
 ## Glossari
 
@@ -17,17 +17,9 @@ Oltre alla localizzazione delle varie stringhe all’interno dei vari prodotti M
 
 Un analogo del glossario Microsoft per i prodotti Mozilla è disponibile sul sito della comunità francofona `transvision.mozfr.org`.
 
-Il modo più facile per utilizzarli è aggiungerli come motori di ricerca o come *smart bookmark*, qui di seguito vedremo come fare.
-
-### Integrazione delle ricerche in Firefox
-
-Esistono sostanzialmente due metodi veloci per cercare all’interno di questi glossari:
-
-1.  utilizzare uno *smart bookmark*.
-2.  installare il plugin di ricerca.
+Il modo più facile per utilizzarli è aggiungerli come motori di ricerca o come *smart bookmark*, per vedere come fare consultare la sezione [Ricerche rapide in Firefox](#ricerche-rapide-in-firefox).
 
 Nel caso si scelga di utilizzare uno *smart bookmark*, aggiungere questi due URL ai propri segnalibri:
-
 	https://transvision.mozfr.org/?recherche=%s&locale=it&repo=trunk
 
 per cercare all’interno delle stringhe già tradotte dei software Mozilla e:
@@ -35,19 +27,18 @@ per cercare all’interno delle stringhe già tradotte dei software Mozilla e:
 	https://www.microsoft.com/Language/en-US/Search.aspx?sString=%s&langID=it-IT
 
 per cercare all’interno delle stringhe dei prodotti di casa Microsoft.
-
-Una volta aggiunti, aprire la *Libreria*, cercare il segnalibro e aggiungere una parola chiave per ognuno di essi.
 A questo punto sarà sufficiente digitarla seguita dal termine che si vuole cercare nella barra degli indirizzi per essere rimandati alla relativa pagina.
-Supponendo di aver associato la parola chiave `msg` al glossario Microsoft, basterà digitare nella barra degli indirizzi `msg browse` per essere rimandati a [questa pagina](https://www.microsoft.com/Language/en-US/Search.aspx?sString=browse&langID=it-IT) e osservare i traducenti più utilizzati per rendere *Browse* (Sfoglia).
 
 Se invece si preferisce installarli come motori di ricerca [qui ci sono i relativi search plugin](http://www.gialloporpora.altervista.org/searchplugins/).
-Anche in questo caso è possibile (anzi è consigliabile) associare una parola chiave per una rapida consultazione dalla barra degli indirizzi.
+Anche in questo caso è possibile (anzi è consigliabile) associare una parola chiave per una rapida consultazione dalla barra degli indirizzi, come spiegato nella sezione [Ricerche rapide in Firefox](#ricerche-rapide-infirefox)
 
-Ulterriori informazioni su come associare parole chiave a *smart bookmark* e plugin di ricerca sono disponibili in [questo articolo][smartsearch].
+
+
 
 In aggiunta a questi due glossari di riferimento, è possibile consultare [questo](/resources/glossari/glossario.txt) piccolo file di testo che raccoglie i principali termini incontrati nella traduzione del sito `addons.mozilla.org` e altri siti correlati.
 Il file viene aggiornato non appena vengono incontrati nuovi termini e la versione aggiornata sarà sempre disponibile alla pagina appena indicata.
-
+Ogni riga del file è costituita da tre elementi separati tra di loro da un carattere di tabulazione.
+Il primo elemento è il termine inglese, il secondo il traducente più utilizzato (nell’ambito delle localizzazioni riguardanti Mozilla) e il terzo, se presente, contiene ulteriori spiegazioni del termine o traducenti alternativi.
 
 
 ## Traduzione automatica (MT)
@@ -69,20 +60,47 @@ per ciò che riguarda Firefox, fare riferimento alle estensioni nella categoria 
 ### Dizionari, sinonimi e contrari
 
 Esistono un sacco di dizionari veri e propri e di sinonimi e contrari online, se si sta già utilizzando uno di questi servizi e si ha una certa dimestichezza con lo strumento, il consiglio è quello di continuare ad usare la risorsa che si sta già utilizzando.
-In Firefox, ad esempio, di default viene fornito il dizionario Oepli, ma altri possono essere aggiunti visitando il sito [Mycroft Project](http://mycroftproject.com/).
-Un ottimo dizionario di sinonimi e contrari che ci sentiamo di consigliare è quello Treccani, per aggiungerlo come *smart bookmark* (fare riferimento alla sezione precedente), aggiungere questo link ai segnalibri:
+In Firefox, ad esempio, di default viene fornito il dizionario Hoepli, ma altri possono essere aggiunti visitando il sito del dizionario e aggiungendo il relativo motore di ricerca, se disponibile (come spiegato nella sezione [Ricerche rapide in Firefox](#ricerche-rapide-in-firefox) o cercandolo.
+
+Un ottimo dizionario che ci sentiamo di consigliare è quello Treccani, per aggiungerlo come *smart bookmark* (fare riferimento alla sezione precedente), aggiungere questo link ai segnalibri:
+
+	http://www.treccani.it/vocabolario/%s
+
+e il rispettivo dizionario di sinonimi e contrari:
 
 	http://www.treccani.it/vocabolario/%s_(Sinonimi-e-Contrari)/
+	
+Si faccia però attenzione quando si cercano le parole con lettere accentate, il motore di ricerca non riconosce le lettere acentate, quindi per cercare, ad esempio il significato o un sinonimo di *accessibilità* digitare `accessibilita` sostituendo la `a` finale con una `a` normale.
 
-	Ancor meglio sarebbe utilizzare un dizionario cartaceo o digitale professionale, che rispetto alla versione online è certamente più ricco e curato.
+
+Ancor meglio sarebbe utilizzare un dizionario cartaceo o digitale professionale, che rispetto alla versione online è certamente più ricco e curato.
 	
 	In ogni caso, fare sempre molta attenzione al sinonimo eventualmente scelto, non sempre i sinonimi hanno, soprattutto nell’ambito tecnico-informatico, l’esatto significato della parola che si vuole sostituire.
+
+Un altro ottimo dizionario è il [De Mauro][demauro], ospitato sul sito del quotidiano Internazionale.
+
+Altri due degni di citazioni sono il [Sabatini Coletti][sabatini] ospitato sul sito del Corriere della sera e il [Garzanti online][garzanti] (registrazione, gratuita, richiesta).
+
+## Coniugazione verbi
+
+In realtà, a un madrelingua, questo non dovrebbe servire, però, in caso di dubbi, il sito WordReference ha un [ottimo strumento][coniugatore] per i tempi e i modi verbali.
+Basterà ricercare il verbo all’infinito e si verrà rimandati a una pagina in cui sono indicate tutte le coniugazioni del verbo nei vari tempi e modi verbali (anche il congiuntivo :-P).
+
+### Dizionario madrelingua inglese
+
+Talvolta è utile controllare la definizione in lingua inglese di un termine per meglio scegliere il traducente in lingua italiana da utilizzare.
+A questo scopo, il miglior dizionario madrelingua inglese è il [Merriam-Webster][mw].
+
+Un altro modo, più veloce ma meno preciso, per controllare il significato di un termine senza installare ulteriori motori di ricerca è sfruttare i comandi avanzati di ricerca dei classici motori già presenti di default in Firefox, ad esempio DuckDuckGo e Google.
+È possibile infatti cercare utilizzando il comando `define:parola`, per visualizzare prima dei risultati una breve definizione del termine.
+Ad esempio, cercando `define:browser` con DuckDuckGo, si aprirà [questa pagina](https://duckduckgo.com/?q=define%3Abrowser&t=ffab&yeg=B&ia=definition), dove, prima dei risultati di ricerca, viene riportata una breve definizione del termine.
+Google funziona in modo analogo e così anche gli altri motori di ricerca.
 
 
 
 ### Dizionario per il correttore ortografico
 
-Uno strumento utilissimo nella traduzione, e più in generale nella scrittura, è il correttore ortografico, esso consente di non commettere errori banali di digitazione.
+Uno  strumento  utilissimo nella traduzione, e più in generale nella scrittura, è il correttore ortografico, esso consente di non commettere errori banali di digitazione.
 Qualunque browser o editor di testo che si rispetti supporta lo *spell checking* evidenziando (di solito sottolineando in rosso) le parole non correttamente digitate.
 Però, quasi nessun software integra nativamente i file necessari per la lingua italiana.
 Il dizionario di riferimento è quello realizzato dal PLIO (Progetto Linguistico Italiano OpenOffice.org) e ha visto il suo ultimo aggiornamento nel 2008.
@@ -134,6 +152,51 @@ Mozilla tiene inoltre, in lingua inglese, [un blog][l10nblog] specificatamente d
 
 
 
+## Appendice
+### Ricerche rapide in Firefox
+
+Esistono sostanzialmente due metodi veloci per cercare all’interno dei siti:
+
+1.  utilizzare uno *smart bookmark*.
+2.  installare il plugin di ricerca.
+
+Uno *smart bookmark* è un segnalibro il cui URL contiene al suo interno il segnaposto `%s` e a cui viene associata una *parola chiave*.
+Una volta aggiunto ai segnalibri sarà possibile richiamarlo dalla barra degli indirizzi digitando la parola chiave seguita da un termine con cui verrà sostituito il segnaposto.
+Questo permette di aprire più pagine con un unico segnalibro.
+
+Per aggiungere la parola chiave in fase di aggiunta del segnalibro e evitare la procedura descritta qui di seguito è possibile [applicare la personalizzazione][add-bookmark] descritta in questa discussione.
+Una volta aggiunto uno di questi URL ai segnalibri, per associare una parola chiave procedere come segue:
+
+1.  Aprire la *Libreria*.
+2.  Cercare il segnalibro (il consiglio è di posizionarli tutti su un’unica cartella per trovarli velocemente).
+3.  Selezionare il segnalibro.
+4.  Fare clic su *Più dati* e inserire la parola chiave.
+
+È anche possibile aggiungere uno *smart bookmark* di una ricerca facendo clic col tasto destro sul campo di ricerca e scegliendo *Aggiungi una parola chiave a questa ricerca*.
+Firefox genererà automaticamente l’URL dello *smart bookmark* analizzando la struttura del campo di ricerca e aprirà il pannello di aggiunta nuovo segnalibro.
+
+Supponendo di aver associato la parola chiave `msg` allo *smart bookmark* per cercare nel glossario Microsoft (spiegato nella, basterà digitare nella barra degli indirizzi `msg browse` per essere rimandati a [questa pagina](https://www.microsoft.com/Language/en-US/Search.aspx?sString=browse&langID=it-IT) e osservare i traducenti più utilizzati per rendere *Browse* (Sfoglia).
+Ulteriori informazioni in [questo articolo][smartsearch].
+
+Per aggiungere un motore di ricerca invece, dalla pagina del sito a cui si è interessati, fare clic sulla lente di ricerca nella barra degli indirizzi e, se presente, selezionare *Aggiungi questo motore di ricerca*.
+Se non è disponibile il plugin di ricerca, provare a cercarlo sul sito [Mycroft Project](http://mycroftproject.com/).
+
+Per aggiungere a una ricerca una parola chiave come fatto per gli *smart bookmark*, procedere come segue:
+
+1.  Aprire il menu *Opzioni* di Firefox (pagina `about:preferences`);
+2.  Dal pannello di sinistra selezionare *Ricerca*.
+3.  Individuare il motore di ricerca desiderato tra quelli visualizzati, fare doppio clic e inserire la parola chiave.
+
+Adesso sarà possibile effettuare ricerche veloci utilizzando il motore di ricerca come descritto nel caso degli *smart bookmark*.
+
+### Caratteri
+
+Questa sezione è in corso di stesura e sarà integrata in questo capitolo quando sarà completata.
+Per il momento è possibile consultare una prima bozza di questa sezione in [questa pagina](/resources/caratteri.md)
+
+
+
+
 
 [smartsearch]: http://mzl.la/1BAQnZV
 
@@ -145,3 +208,9 @@ Mozilla tiene inoltre, in lingua inglese, [un blog][l10nblog] specificatamente d
 [dizionario]: https://sourceforge.net/project/showfiles.php?group_id=128318&package_id=141110
 [tmx]: https://transvision.mozfr.org/downloads/
 [oldtmx]: https://www.dropbox.com/sh/odlh109rugbovnr/OA8NTEkZ0b
+[demauro]: http://dizionario.internazionale.it/
+[sabatini]: http://dizionari.corriere.it/dizionario_italiano/
+[garzanti]: http://www.garzantilinguistica.it/
+[coniugatore]: http://www.wordreference.com/conj/ItVerbs.aspx
+[add-bookmark]: https://forum.mozillaitalia.org/index.php?topic=52004.msg339521#msg339521
+[mw]: https://www.merriam-webster.com/

@@ -20,7 +20,9 @@ Per gli altri dipende dalla **Code Table** utilizzata, alcuni, come i caporali (
 
 | Nome | Carattere | HTMl Entity | Unicode | Windows | Mac | Linux |
 | ---- | --------- | ------- | ---------- | ------- | --- | ----- |
+| Chiocciola | &#64; | `&#64;` | 64 | ALT+64 | Boh | Boh |
 | backtick | &#96; | `&#96;` | 96 | ALT+96 | Boh | Boh |
+| Pipe | &#124; | `&#124;` | 124 | ALT+124 | Boh | Boh |
 | Tilde | &#126; | `&#126;` | 126 | ALT+126 | Boh | Boh |
 | Copyright | &copy; | `&copy;` | 169 | ALT+0169 | Boh | Boh |
 | Caporale sinistro | &laquo; | `&laquo;` | 171 | ALT+174 | Boh | Boh |

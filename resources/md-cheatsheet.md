@@ -16,7 +16,7 @@ Il *markdown* che si usa su  GitHub, denominato *GitHub Flavored Markdown* (GFM,
 ## Paragrafi
 
 Nel *markdown*, le righe di testo consecutive sono raggruppate in paragrafi.
-Per creare un nuovo paragrafo è necessario inserire una riga vuota e per andare a capo, sempre rimanendo nello stesso paragrafo, è necessario utilizzare il carattere `\` o inserire uno spazio (due su GitHub) a fine riga.
+Per creare un nuovo paragrafo è necessario inserire una riga vuota e per andare a capo, sempre rimanendo nello stesso paragrafo, è necessario utilizzare il carattere `inserire **due** spazi a fine riga.
 Questo permette di evitare righe lunghissime e rende più leggibile il sorgente perché non bisogna fare lo scroll orizzontale (sempre si decida di wrappare il testo).
 
 Di seguito degli esempi pratici: in ognuno verrà riportato prima il codice markdown e poi l'output HTML che il codice genera.
@@ -36,12 +36,14 @@ Risultato:
 Era una luminosa e fredda giornata d'aprile, e gli orologi battevano tredici colpi.
 *Winston Smith*, tentando di evitare le terribili raffiche di vento col mento affondato nel petto, scivolò in fretta dietro le porte di vetro degli Appartamenti *Vittoria:* non così in fretta, tuttavia, da impedire che una folata di polvere sabbiosa entrasse con lui.
 
-Per mandare a capo, rimanendo all'interno dello stesso paragrafo, cioè forzando un'interuzzione di linea, si possono mettere due spazi a fine riga o un carattere \\.
+Per mandare a capo, rimanendo all'interno dello stesso paragrafo, cioè forzando un'interuzzione di linea (`<br/>`), si possono mettere due spazi a fine riga (alcune versioni di *markdown accettano anche il carattere \\).
 
-	L'ingresso emanava un lezzo di cavolo bollito e di vecchi e logori stoini.\
+	L'ingresso emanava un lezzo di cavolo bollito e di vecchi e logori stoini.  
 	A una delle estremità era attaccato un manifesto a colori, troppo grande per poter essere messo all'interno.
+	
+(selezionando il testo si dovrebbero vedere i due spazi dopo **stoini.  **)
 
-Il risultato è (anche con i due spazi al posto della \\:
+Il risultato è:
 	L'ingresso emanava un lezzo di cavolo bollito e di vecchi e logori stoini.  
 A una delle estremità era attaccato un manifesto a colori, troppo grande per poter essere messo all'interno.
 
