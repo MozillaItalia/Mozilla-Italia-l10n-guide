@@ -1,12 +1,38 @@
 # Altri strumenti per i localizzatori
 
 Altri strumenti che possono tornare molto utili per tradurre file sono un software di traduzione, un glossario, dizionari e strumenti per memorizzare la propria fraseologia in modo da non ripetere lo stesso lavoro più volte.
-Nella prima sezione di questo capitolo vedremo i due glossari principali a cui fare riferimento per la traduzione dei termini tecnici e delle voci dell’interfaccia dei vari prodotti Mozilla e spiegheremo come utilizzarli in modo veloce.
+Nella prima sezione di questo capitolo vedremo i tre glossari principali a cui fare riferimento per la traduzione dei termini tecnici e delle voci dell’interfaccia dei vari prodotti Mozilla e spiegheremo dove trovare le memorie di traduzione da utilizzare in Poedit e OmegaT.
 Nella seconda parte daremo alcuni consigli su traduttori automatici, dizionari online e altre risorse utili nel processo di localizzazione.
 Nell’ultima parte daremo uno sguardo più da vicino agli strumenti online di casa Mozilla che consentono di rimanere aggiornati sullo stato della localizzazione dei vari prodotti.
 Nell’appendice finale sono descritti alcuni concetti correlati nel caso il lettore ne fosse digiuno.
 
-## Glossari
+## indice dei contenuti
+
++   [Glossari e memorie](#glossari-e-memorie)
+    +   [Glossari](#glossari)
+    +   [Le memorie di traduzione dei prodotti Mozilla](#le-memorie-di-traduzione-dei-prodotti-mozilla)
++   [Traduttori automatici, dizionari e altri strumenti](#traduttori-automatici-dizionari-e-altri-strumenti)
+    +   [Traduzione automatica (MT)](#traduzione-automatica-mt)
+    +   [Dizionari bilingui inglese-italiano](#dizionari-bilingui-inglese-italiano)
+    +   [Corpora](#corpora)
+    +   [Dizionari monolingui di italiano, sinonimi e contrari](#dizionari-monolingui-di-italiano-sinonimi-e-contrari)
+    +   [Coniugazione verbi](#coniugazione-verbi)
+    +   [Dizionari monolingui di inglese](#dizionari-monolingui-di-inglese)
+    +   [Dizionario per il correttore ortografico](#dizionario-per-il-correttore-ortografico)
++   [Come rimanere aggiornati](#come-rimanere-aggiornati)
+    +   [Mozilla L10n Web Dashboard](#mozilla-l10n-web-dashboard)
+    +   [Il forum italiano](#il-forum-italiano)
+    +   [Etherpad](#etherpad)    +   [Account Firefox](#account-firefox)
+    +   [Bugzilla](#bugzilla)
+    +   [Mozillians](#mozillians)
+    +   [Blog L10n](#blog-l10n)
++   [Appendice](#appendice)
+    +   [Ricerche rapide in Firefox](#ricerche-rapide-in-firefox)
+    +   [Caratteri](#caratteri)
+
+
+
+## Glossari e memorie
 
 Un glossario è uno strumento fondamentale per un traduttore, esso permette di avere sotto mano un elenco di termini tecnici e la loro traduzione nell’ambito di riferimento.
 Questo è ancor più importante nel contesto informatico dove alcuni termini sono risemantizzazione di parole preesistenti che vanno ad assumere un significato completamente diverso da quello originale e in cui le scelte fatte inizialmente per rendere il concetto in altre lingue potrebbe discostarsi dalla mera traduzione letterale.
@@ -39,11 +65,24 @@ In aggiunta a questi due glossari di riferimento, è possibile consultare [quest
 Il file viene aggiornato non appena vengono incontrati nuovi termini e la versione aggiornata sarà sempre disponibile alla pagina appena indicata.
 Ogni riga del file è costituita da tre elementi separati tra di loro da un carattere di tabulazione.
 Il primo elemento è il termine inglese, il secondo il traducente più utilizzato (nell’ambito delle localizzazioni riguardanti Mozilla) e il terzo, se presente, contiene ulteriori spiegazioni del termine o traducenti alternativi.
-Se si vuole proporre un termine alternativo a quelli suggeriti o fare aggiunte, aprire una discussione sul forum o un *issue* su GitHub.
+Se si vuole proporre un termine alternativo a quelli suggeriti o fare aggiunte, aprire una discussione sul forum o un [issue][issue] su GitHub.
 
 
 
-### Traduttori automatici, dizionari e altri strumenti
+### Le memorie di traduzione dei prodotti Mozilla
+
+Per chi utilizzasse software desktop, come Poedit o OmegaT, che supportino le memorie di traduzione, qui di seguito ci sono i riferimenti a dove trovare delle memorie di traduzione create utilizzando le stringhe di Firefox e altri progetti Mozilla.
+Se si vuole utilizzare come memoria di traduzione con Poedit o OmegaT i file che comprendono l’insieme di vari progetti Mozilla, a [questo link][tmx] è possibile scaricare un file `.tmx` creato utilizzando tutte le traduzioni attive dei vari progetti.
+È sufficiente selezionare la lingua e i progetti a cui si è interessati e scaricare il file.
+Per conoscere come utilizzare le memorie di traduzione in Poedit e OmegaT fare riferimento al capitolo precedente.
+
+A [quest’altro link][oldtmx] sono inoltre disponibili i file `.tmx` del Progetto Firefox OS.
+Nonostante il progetto non sia più attivamente sviluppato, la traduzione italiana può essere utilizzata come riferimento perché si trattava comunque di un’ottimo lavoro.
+La memoria di traduzione di Firefox OS è denominata `gaia1.2.tmx`, gli altri file non sono aggiornati e si consiglia di scaricare l’ultima versione disponibile dal sito `transvision.mozfr.org`.
+
+
+
+## Traduttori automatici, dizionari e altri strumenti
 
 ### Traduzione automatica (MT)
 
@@ -61,7 +100,7 @@ I migliori strumenti online per la traduzione automatica sono [Google Translate]
 Esistono anche estensioni specifiche per integrarli direttamente in Firefox o in altri browser.
 Per ciò che riguarda Firefox, fare riferimento alle estensioni nella categoria [Supporto lingue][estensioni] del sito `addons.mozilla.org`.
 
-## Dizionari bilingui inglese-italiano
+### Dizionari bilingui inglese-italiano
 
 Ovviamente, traducendo da materiale in lingua inglese (o per non far arrabbiare troppo i sudditi di sua maestà, in anglo-americano), uno degli strumenti più importanti è il dizionario bilingua inglese-italiano.
 Ne esistono molti in rete, e rimane sempre valido il consiglio di acquistare un vero dizionario cartaceo o digitale, senza elncarli tutti, tre dei più utilizzati sono i dizionari inglese italiano del [Cambridge Dictionary][camenit], di [WordReference][wr] e l’[Hoepli][rep] ospitato sul sito della Republica.
@@ -74,12 +113,12 @@ Oltre ai veri e propri dizionari, è possibile cercare nei cosidetti *Corpora*, 
 Ovviamente la traduzione proposta va filtrata, ne va capito il contesto e ricontestualizzata utilizzando la forma e il registro del materiale che si sta traducendo; rappresentano comunque un buon punto di partenza e ispirazione.
 Anche in questo caso ci limitiamo a citarne tre: [My Memory][mymemory], [Linguee][linguee] e [Reverso][reverso].
 
-### Dizionari monolingui  di italiano, sinonimi e contrari
+### Dizionari monolingui di italiano, sinonimi e contrari
 
 Esistono un sacco di dizionari veri e propri e di sinonimi e contrari online, se si sta già utilizzando uno di questi servizi e si ha una certa dimestichezza con lo strumento, il consiglio è quello di continuare ad usare la risorsa che si sta già utilizzando.
 In Firefox, ad esempio, di default viene fornito il dizionario Hoepli, ma altri possono essere aggiunti visitando il sito del dizionario e aggiungendo il relativo motore di ricerca, se disponibile (come spiegato nella sezione [Ricerche rapide in Firefox](#ricerche-rapide-in-firefox).
 
-Un ottimo dizionario che ci sentiamo di consigliare è quello Treccani, per aggiungerlo come *smart bookmark* (fare riferimento alla sezione precedente), aggiungere questo link ai segnalibri:
+Un ottimo dizionario che ci sentiamo di consigliare è quello Treccani, per aggiungerlo come *smart bookmark* (fare riferimento alla sezione [Ricerche rapide in Firefox][#ricerche-rapide-in-firefox), aggiungere questo link ai segnalibri:
 
 	http://www.treccani.it/vocabolario/%s
 
@@ -97,7 +136,7 @@ Ancor meglio sarebbe utilizzare un dizionario cartaceo o digitale professionale,
 
 In ogni caso, fare sempre molta attenzione al sinonimo eventualmente scelto, non sempre i sinonimi hanno, soprattutto nell’ambito tecnico-informatico, l’esatto significato della parola che si vuole sostituire.
 
-## Coniugazione verbi
+### Coniugazione verbi
 
 In realtà, a un madrelingua, questo non dovrebbe servire, però, in caso di dubbi, il sito WordReference ha un [ottimo strumento][coniugatore] per i tempi e i modi verbali.
 Basterà ricercare il verbo all’infinito e si verrà rimandati a una pagina in cui sono indicate tutte le coniugazioni del verbo nei vari tempi e modi verbali (anche il congiuntivo :-P).
@@ -105,13 +144,9 @@ Basterà ricercare il verbo all’infinito e si verrà rimandati a una pagina in
 ### Dizionari monolingui di inglese
 
 Talvolta è utile controllare la definizione in lingua inglese di un termine per meglio scegliere il traducente in lingua italiana da utilizzare.
-A questo scopo, i migliori dizionari madrelingua inglese sono:
+A questo scopo, i migliori dizionari madrelingua inglese sono: [Merriam-Webster][mw], [Cambridge Dictionary][cambridge] e [The Free Dictionary][fd].
 
-+   [Merriam-Webster][mw];
-+   [Cambridge Dictionary][cambridge];
-+   [The Free Dictionary][fd].
-
-il terzo, forse meno autorevole rispetto ai primi due, è però molto aggiornato con parole e acronimi del gergo di Internet e nei progetti Mozilla non si sta traducendo opere di Shakespeare ma stringhe di testo scritte da programmatori.
+Il terzo, forse meno autorevole rispetto ai primi due, è però molto aggiornato con parole e acronimi del gergo di Internet e nei progetti Mozilla non si sta traducendo opere di Shakespeare ma stringhe di testo scritte da programmatori.
 
 Un altro modo, più veloce ma meno preciso, per controllare il significato di un termine senza installare ulteriori motori di ricerca è sfruttare i comandi avanzati di ricerca dei classici motori già presenti di default in Firefox, ad esempio DuckDuckGo e Google.
 È possibile infatti cercare utilizzando il comando `define:parola`, per visualizzare prima dei risultati una breve definizione del termine.
@@ -127,7 +162,7 @@ Nella versione di Firefox in italiano è presente solo il motore della Wikipedia
 
 ### Dizionario per il correttore ortografico
 
-Uno  strumento  utilissimo nella traduzione, e più in generale nella scrittura, è il correttore ortografico, esso consente di non commettere errori banali di digitazione.
+Uno strumento utilissimo nella traduzione, e più in generale nella scrittura, è il correttore ortografico, esso consente di non commettere errori banali di digitazione.
 Qualunque browser o editor di testo che si rispetti supporta lo *spell checking* evidenziando (di solito sottolineando in rosso) le parole non correttamente digitate.
 Però, quasi nessun software integra nativamente i file necessari per la lingua italiana.
 Il dizionario di riferimento è quello realizzato dal PLIO (Progetto Linguistico Italiano OpenOffice.org) e ha visto il suo ultimo aggiornamento nel 2008.
@@ -136,18 +171,10 @@ L’ultima versione può essere scaricata da [questa pagina][dizionario].
 
 
 
-### Le memorie di traduzione dei prodotti Mozilla
 
-Per chi utilizzasse software desktop, come Poedit o OmegaT, che supportino le memorie di traduzione, qui di seguito ci sono i riferimenti a dove trovare delle memorie di traduzione create utilizzando le stringhe di Firefox e altri progetti Mozilla.
-Se si vuole utilizzare come memoria di traduzione con Poedit o OmegaT i file che comprendono l’insieme di vari progetti Mozilla, a [questo link][tmx] è possibile scaricare un file `.tmx` creato utilizzando tutte le traduzioni attive dei vari progetti.
-È sufficiente selezionare la lingua e i progetti a cui si è interessati e scaricare il file.
-Per conoscere come utilizzare le memorie di traduzione in Poedit e OmegaT fare riferimento al capitolo precedente.
 
-A [quest’altro link][oldtmx] sono inoltre disponibili i file `.tmx` del Progetto Firefox OS.
-Nonostante il progetto non sia più attivamente sviluppato, la traduzione italiana può essere utilizzata come riferimento perché si trattava comunque di un’ottimo lavoro.
-La memoria di traduzione di Firefox OS è denominata `gaia1.2.tmx`, gli altri file non sono aggiornati e si consiglia di scaricare l’ultima versione disponibile dal sito `transvision.mozfr.org`.
 
-# Come rimanere aggiornati
+## Come rimanere aggiornati
 
 Il lavoro di un traduttore non termina quando ha completato la traduzione di un sito.
 I siti, come i software, sono aggiornati molto spesso e nuove stringhe vengono aggiunte, altre vengono aggiornate ed è importante tenere la traduzione al passo con l’evoluzione del progetto.
@@ -174,7 +201,7 @@ Sarà inoltre possibile attivare le notifiche per tutte le nuove discussioni ape
 
 ### Etherpad
 
-L’[Etherpad][etherpad] è uno strumento dove poter creare documenti da condividere e modificare assieme, può essere utilizzato per raccogliere opinioni o per segnalare la propria disponilità per partecipare a eventi o semplicementi per apportare modifiche a un documento che si vuole pubblicare.
+L’[Etherpad][etherpad] è uno strumento dove poter creare documenti da condividere e modificare assieme, può essere utilizzato per raccogliere opinioni o per segnalare la propria disponibilità per partecipare a eventi o semplicemente per apportare modifiche a un documento che si vuole pubblicare.
 Chiunque può aprire un nuovo etherpad e condividerlo con chi desideri.
 Lo strumento presenta un editor in stile *WYSIWYG* e nella colonna di destra una *chat* per discutere in tempo reale con chi sta visualizzando il documento in quel momento.
 
@@ -190,19 +217,19 @@ La procedura è semplicissima, ma per tutti i chiarimenti del caso si può consu
 ### Bugzilla
 
 Bugzilla è una piattaforma di gestione dei *ticket* sviluppata da Mozilla e utilizzata da molti progetti software open source per tenere traccia dei *bug* dei vari prodotti.
-Bug che non sono da intendersi nel senso classico, cioè errori e malfunzionamenti del software, ma anche richieste di nuove funzioni, attivazione di nuove lingue e in generale tutto ciò che riguarda il lavoro di un'azienda che deve essere tracciato.
+Bug che non sono da intendersi nel senso classico, cioè errori e malfunzionamenti del software, ma anche richieste di nuove funzioni, attivazione di nuove lingue e in generale tutto ciò che riguarda il lavoro di un’azienda che deve essere tracciato.
 
 Mozilla stessa utilizza una propria versione del software Bugzilla per uso interno sul sito [bugzilla.mozilla.org][bugzilla].
 Prima di tutto bisognerà registrarsi, ad esempio utilizzando il proprio account Firefox, e una volta registrati si potranno aprire nuove richieste (bug).
 Prima di farlo è importante cercare se il bug esista già sulla piattaforma, giusto per non far perdere tempo agli sviluppatori e non riempire la piattaforma con richieste multiple.
 
-Quando un nuovo bug viene aperto il suo stato iniziale sarà *UNCONFIRMED* (NON CONFERMATO), ciò significa che c'è una nuova richiesta di cui, il responsabile del prodotto a cui la richiesta fa riferimento dovrà leggerla e dare una risposta.
+Quando un nuovo bug viene aperto il suo stato iniziale sarà *UNCONFIRMED* (NON CONFERMATO), ciò significa che c’è una nuova richiesta di cui, il responsabile del prodotto a cui la richiesta fa riferimento dovrà leggerla e dare una risposta.
 
 Se la richiesta che è aperta viene riconosciuta come già presente verrà marcata come *DUPLICATE* e non verrà più presa in considerazione.
 
-nel caso la richiesta venga accettata (confermato un bug in Firefox, implementazione di una nuova funzione, attivazione di una nuova lingua) lo stato passerà a *NEW* (NUOVO) e, nel minor tempo possibile verrà assegnato alla persona che se ne dovrà occupare realmente.
+Nel caso la richiesta venga accettata (confermato un bug in Firefox, implementazione di una nuova funzione, attivazione di una nuova lingua) lo stato passerà a *NEW* (NUOVO) e, nel minor tempo possibile verrà assegnato (ASSIGNED) alla persona che se ne dovrà occupare realmente.
 
-A seconda della difficoltà che richiedere soddisfare la richiesta passerà del tempo prima che venga contrassegnato come *CLOSED* (CHIUSO).
+A seconda della difficoltà che richiedere soddisfare la richiesta passerà del tempo prima che venga contrassegnato come *FIXED* (RISOLTO).
 Alcuni bug di Firefox e Thunderbird sono stati aperti anche una decina di anni prima di giungere a una risoluzione, di solito comunque le richieste di attivazione o altre richieste riguardanti la localizzazione vengono evase in tempi rapidissimi.
 
 Per non abusare della risorsa e non far perdere tempo a nessuno, prima di aprire un nuovo bug consigliamo di discuterne nel forum e vedere se si tratta davvero di bug o solo di malfunzionamento del proprio sistema o di qualche configurazione non corretta.
@@ -211,9 +238,9 @@ Lo stesso dicasi per eventuali richieste riguardanti la localizzazione dei siti 
 ### Mozillians
 
 Tutti noi volontari Mozilla siamo orgoliosi di definirci *mozilliani* e per ribadire il concetto è possibile registrarsi sul sito [Mozillians][mozillians].
-Oltre che per ribadire l’orgoglio di far parte della comunità Mozilla, il sito ha una sua utilità pratica  che è quella di raccogliere tutti i contatti dei volontari e delle persone coinvolte nel progetto.
+Oltre che per ribadire l’orgoglio di far parte della comunità Mozilla, il sito ha una sua utilità pratica che è quella di raccogliere tutti i contatti dei volontari e delle persone coinvolte nel progetto.
 
-Una volta registrati, sarà possibile scegliere una serie di interessi: localizzazione (lingue parlare), programmazione (linguaggi conosciuti), ecc. e iscriversi a specifici gruppi di interesse.
+Una volta registrati, sarà possibile scegliere una serie di interessi: localizzazione (lingue parlate), programmazione (linguaggi conosciuti), ecc. e iscriversi a specifici gruppi di interesse.
 
 Ci sono diversi livelli di essere un *mozilliano* e a seconda del livello si riceveranno comunicazioni più o meno riservate da parte del gruppo dirigente Mozilla (un numero molto limitato).
 
@@ -255,7 +282,7 @@ Una volta aggiunto uno di questi URL ai segnalibri, per associare una parola chi
 È anche possibile aggiungere uno *smart bookmark* di una ricerca facendo clic col tasto destro sul campo di ricerca e scegliendo *Aggiungi una parola chiave a questa ricerca*.
 Firefox genererà automaticamente l’URL dello *smart bookmark* analizzando la struttura del campo di ricerca e aprirà il pannello di aggiunta nuovo segnalibro.
 
-Supponendo di aver associato la parola chiave `gms` Glossario Microsoft) allo *smart bookmark* per cercare nel glossario Microsoft (come visto nella sezione [Glossari](#glossari)) basterà digitare nella barra degli indirizzi `msg browse` per essere rimandati a [questa pagina](https://www.microsoft.com/Language/en-US/Search.aspx?sString=browse&langID=it-IT) e osservare i traducenti più utilizzati per rendere *Browse* (Sfoglia).
+Supponendo di aver associato la parola chiave `gms` Glossario Microsoft) allo *smart bookmark* per cercare nel glossario Microsoft (come visto nella sezione [Glossari](#glossari-e-memorie)) basterà digitare nella barra degli indirizzi `msg browse` per essere rimandati a [questa pagina](https://www.microsoft.com/Language/en-US/Search.aspx?sString=browse&langID=it-IT) e osservare i traducenti più utilizzati per rendere *Browse* (Sfoglia).
 Ulteriori informazioni in [questo articolo][smartsearch].
 Per aggiungere un motore di ricerca invece, dalla pagina del sito a cui si è interessati, fare clic sulla lente di ricerca nella barra degli indirizzi e, se presente, selezionare *Aggiungi questo motore di ricerca*.
 Se non è disponibile il plugin di ricerca, provare a cercarlo sul sito [Mycroft Project](http://mycroftproject.com/).
@@ -305,3 +332,5 @@ Per il momento è possibile consultare una prima bozza di questa sezione in [que
 [wr]: http://www.wordreference.com/
 [camenit]: https://dictionary.cambridge.org/it/dizionario/inglese-italiano/
 [rep]: http://dizionari.repubblica.it/inglese.php
+[wen]: https://en.wikipedia.org
+[issue]: https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/issues
