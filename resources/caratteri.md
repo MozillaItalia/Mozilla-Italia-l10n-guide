@@ -20,22 +20,22 @@ Per gli altri dipende dalla **Code Table** utilizzata, alcuni, come i caporali (
 
 | Nome | Carattere | HTMl Entity | Unicode | Windows | Mac | Linux |
 | ---- | --------- | ------- | ---------- | ------- | --- | ----- |
-| Chiocciola | &#64; | `&#64;` | 64 | ALT+64 | Boh | Boh |
-| backtick | &#96; | `&#96;` | 96 | ALT+96 | Boh | Boh |
-| Pipe | &#124; | `&#124;` | 124 | ALT+124 | Boh | Boh |
-| Tilde | &#126; | `&#126;` | 126 | ALT+126 | Boh | Boh |
-| Copyright | &copy; | `&copy;` | 169 | ALT+0169 | Boh | Boh |
-| Caporale sinistro | &laquo; | `&laquo;` | 171 | ALT+174 | Boh | Boh |
-| Caporale destro | &raquo; | `&raquo;` | 187 | ALT+175 | Boh | Boh |
-| E maiuscola con accento grave | &Egrave; | `&Egrave;` | 200 | ALT+212 | Boh | Boh |
-| Trattone | &ndash; | `&ndash;` | 8211 | ALT+000 | Boh | Boh |
-| Trattone lungo | &mdash; | `&mdash;` | 8212 | ALT+000 | Boh | Boh |
-| Apice curvo sinistro | &lsquo; | `&lsquo;` | 8216 | ALT+000 | Boh | Boh |
-| Apice curvo destro | &rsquo; | `&rsquo;` | 8217 | ALT+000 | Boh | Boh |
-| Virgolette curve sinistre | &ldquo; | `&ldquo;` | 8220 | Boh | Boh | Boh |
-| Virgolette curve destre | &rdquo; | `&rdquo;` | 8221 | Boh | Boh | Boh |
-| Puntini di sospensione | &hellip; | `&hellip;` | 8230 | Boh | Boh | Boh |
-| Euro | &euro; | `&euro;` | 8364 | CTRL+ALT+E | Boh | Boh |
+| Chiocciola | &#64; | `&#64;` | 64 | ALT+64 | ALT+ò | Boh |
+| backtick | &#96; | `&#96;` | 96 | ALT+96 | ALT+\ | Boh |
+| Pipe | &#124; | `&#124;` | 124 | ALT+124 | SHIFT+\ | Boh |
+| Tilde | &#126; | `&#126;` | 126 | ALT+126 | ALT+5 | Boh |
+| Copyright | &copy; | `&copy;` | 169 | ALT+0169 | ALT+C | Boh |
+| Caporale sinistro | &laquo; | `&laquo;` | 171 | ALT+174 | ALT+1 | Boh |
+| Caporale destro | &raquo; | `&raquo;` | 187 | ALT+175 | ALT+SHIFT+1 | Boh |
+| E maiuscola con accento grave | &Egrave; | `&Egrave;` | 200 | ALT+212 | ALT+SHIFT+E | Boh |
+| Trattone | &ndash; | `&ndash;` | 8211 | ALT+000 | ALT+- | Boh |
+| Trattone lungo | &mdash; | `&mdash;` | 8212 | ALT+000 | ALT+SHIFT+- | Boh |
+| Apice curvo sinistro | &lsquo; | `&lsquo;` | 8216 | ALT+000 | ALT+3 | Boh |
+| Apice curvo destro | &rsquo; | `&rsquo;` | 8217 | ALT+000 | ALT+SHIFT+3 | Boh |
+| Virgolette curve sinistre | &ldquo; | `&ldquo;` | 8220 | Boh | ALT+2 | Boh |
+| Virgolette curve destre | &rdquo; | `&rdquo;` | 8221 | Boh | ALT+SHIFT+2 | Boh |
+| Puntini di sospensione | &hellip; | `&hellip;` | 8230 | Boh | ALT+, | Boh |
+| Euro | &euro; | `&euro;` | 8364 | CTRL+ALT+E | ALT+E | Boh |
 | Freccia sinistra | &larr; | `&larr;` | 8592 | Boh | Boh | Boh |
 | Freccia su | &uarr; | `&uarr;` | 8593 | Boh | Boh | Boh |
 | Freccia destra | &rarr; | `&rarr;` | 8594 | Boh | Boh | Boh |
