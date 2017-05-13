@@ -118,7 +118,7 @@ Anche in questo caso ci limitiamo a citarne tre: [My Memory][mymemory], [Linguee
 Esistono un sacco di dizionari veri e propri e di sinonimi e contrari online, se si sta già utilizzando uno di questi servizi e si ha una certa dimestichezza con lo strumento, il consiglio è quello di continuare ad usare la risorsa che si sta già utilizzando.
 In Firefox, ad esempio, di default viene fornito il dizionario Hoepli, ma altri possono essere aggiunti visitando il sito del dizionario e aggiungendo il relativo motore di ricerca, se disponibile (come spiegato nella sezione [Ricerche rapide in Firefox](#ricerche-rapide-in-firefox).
 
-Un ottimo dizionario che ci sentiamo di consigliare è quello Treccani, per aggiungerlo come *smart bookmark* (fare riferimento alla sezione [Ricerche rapide in Firefox][#ricerche-rapide-in-firefox), aggiungere questo link ai segnalibri:
+Un ottimo dizionario che ci sentiamo di consigliare è quello Treccani, per aggiungerlo come *smart bookmark* (fare riferimento alla sezione [Ricerche rapide in Firefox](#ricerche-rapide-in-firefox)), aggiungere questo link ai segnalibri:
 
 	http://www.treccani.it/vocabolario/%s
 
