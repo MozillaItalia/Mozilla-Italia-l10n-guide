@@ -1,0 +1,573 @@
+# Glossario di Facebook, per la versione aggiornata visitare https://www.facebook.com/?sk=trans_glossary
+360 video	360 video	a facebook feature that allows the display of videos filmed with a 360 degree camera.
+360 video	video a 360°	a video that is created with a 360 degree or spherical camera system that records panoramic views of a scene.
+3d touch	3d touch	a set of of pressure-sensitive interactions available on iphone 6s or greater that allows you to navigate through layers of a user interface.
+@username	@nome utente	the name that people choose to appear in the url for facebook on the web.
+a/b test	test a/b	a randomized experiment with two variants, a and b, which are the control and treatment in the controlled experiment.
+a/b test	test a/b	to conduct a randomized experiment with two variants, a and b, which are the control and treatment in the controlled experiment.
+about	informazioni	a section on a facebook page or a person's profile in facebook that provides information about that page or person.
+accelerated delivery	pubblicazione accelerata	a delivery method that shows the ad to as many people as possible in a short period of time.
+accept	accettare	to respond or answer affirmatively to.
+accept	accettazione	a measure of the number of people using facebook login to access a third-party developer app who accept the permissions asked for by the app.
+accept rate	tasso di accettazione	the rate, as a percentage, of the people who accept the permissions asked for by an app while in the act of logging into a third-party developer app with facebook.
+access token	token d'accesso	a string that identifies a user, app, or page and can be used by an app to make graph api calls.
+access token tool	strumento di gestione token d'accesso	the developer tool on https://developers.facebook.com/ that generates temporary access tokens for the purpose of testing apps.
+account	account	a digital record of one's complete information and activity on an app or service, including settings, activity, profile information, username and password.
+account id	account id	the unique id associated with an inmobi native placement. in the context of audience network, publishers must enter the account id of their inmobi native placement in order to use the audience network mediation product.
+account kit	account kit	a service that third-party developers can implement to allow people to log into an app and create an account using just their email address or phone number without requiring a password.
+account kit by facebook	account kit di facebook	a service that third-party developers can implement to allow people to log into an app and create an account using just their email address or phone number without requiring a password.
+account kit powered by facebook	account kit di facebook	a service that third-party developers can implement to allow people to log into an app and create an account using just their email address or phone number without requiring a password.
+account settings	impostazioni account	controls for a person's account.
+account spending limit	limite di spesa dell'account	the overall monetary limit that can be spent via an ad account.
+achieved level	livello completato	one of the pre-defined facebook app events included in the facebook sdk that a developer can log to measure when a person using their app achieves a level in a game.
+achievements api	api achievements	an api that lets game developers publish achievements in their game and reward players with scores for completing those achievements.
+acquaintances list	lista conoscenti	a friend list that contains people you have indicated as acquaintances.
+action	azione	a defined behavior based on the data from a universal tag.
+action	azione	the activity taken on an ad, page, app or event after someone viewed an ad, even if they didn't click on it.
+active	attivo	referring to the state of being online and available to interact with via chat or instant messaging.
+activity	attività	a person's actions on a digital platform (like facebook or workplace) consisting of both active behavior like sharing and posting, and passive actions like reading an article.
+activity log	registro attività	the area of a person’s facebook profile where they can see a record of their own activity.
+ad	inserzione	an item of promotional content.
+ad space	spazio pubblicitario	a collection of ad placements grouped together by a publisher. each ad space corresponds to a position in a publisher's app or website, such as on the homepage or in a feed. in the context of facebook audience network and tools for publishers, ad spaces allow publishers to group their placements for reporting and management.
+add	aggiungere	to join (something) to something else.
+admin	amministratore	a person who is responsible for running or controlling something.
+advertising policies	normative pubblicitarie	the set of policies that advertisers have to follow for their ad to be approved for publication on facebook.
+album	album	a named collection of photos on facebook.
+android	android	google's mobile operating system.
+angry	grrr	one of the reactions you can choose to leave on a facebook post, represented by an angry emoticon.
+answer	rispondere	to respond to an audio or video call.
+antivirus	antivirus	pertaining to software designed to detect and destroy computer viruses.
+app	app	a piece of software designed to fulfill a particular purpose.
+app center	app center	the website (www.facebook.com/games) where you can download games to play on facebook.
+app manager	gestione app	an app that is pre-installed on some android phones to help people manage their pre-installed facebook apps and other apps they install through facebook.
+app store	app store	apple's app store.
+application	app	a piece of software designed to fulfill a particular purpose.
+archive	archiviare	to remove something from view that can be found later via search or navigation.
+arrow key	tasto di direzione	one of four navigation keys on a keyboard marked with arrows pointing up, down, left and right.
+ask	chiedere	to ask for something.
+attach	allegare	to add something (for example, a file) to a message or post.
+attend	partecipare	to be present at an event, meeting, or function.
+audience	pubblico	a group of people who are the designated recipients of something on facebook, for example, an ad or a post.
+audience	pubblico	a group of people who can potentially see an ad.
+audience restrictions	restrizioni del pubblico	an option in facebook page composer that allows a page admin to control the visibility of a post based on audience age, gender, location and language. only people in the audience specified can see this post anywhere on facebook.
+audience selector	strumento di selezione del pubblico	an option in facebook that allows you to choose a specific audience for a post.
+audio 360	audio 360	the branded name for the facebook software and rendering technology used to create omnidirectional (3d) sound that rotates direction or changes pitch when dragging, tilting or looking around a 360 video on facebook.
+authentication	autenticazione	the process or flow in which a person's identity is verified, usually for the purpose of granting access to a system, such as logging into an app.
+autoplay	riproduzione automatica	a setting where media plays automatically, without being manually started (as in video)
+autoplay	riproduzione automatica	referring to the ability for media to play automatically without being manually started (as in video).
+background data	dati in background	data used when an app is running in the background, for example, receiving updates or sending data
+badge	badge	a widget that allows you to share facebook information (profiles, photos, pages) on external websites.
+badge	badge	in blueprint, a verifiable digital representation of an accomplishment. badges are issued electronically to individuals who achieve blueprint certification and thus become facebook certified professionals.
+ban	escludere	to officially prohibit.
+beneath	sotto	referring to being located after, beneath, below or under something else.
+beta	beta	referring to a test for a digital product prior to release.
+billing summary	riepilogo dei pagamenti	a history of amounts you have been billed for.
+bio	biografia	personal information about someone intended to serve as an overview of their identity.
+birthday	compleanno	the anniversary of the day on which a person was born, typically treated as an occasion for celebration and the giving of gifts.
+block	bloccare	to put an obstacle in the way of something.
+blog	blog	a regularly updated online journal or newsletter that is available online.
+blog post	post sul blog	a singular entry on a blog.
+blueprint certified exam developer	sviluppatore di esami blueprint certificato	an individual who is recognized for their contribution to developing blueprint certification exams. it is also the name of the digital badge issued to the individual upon recognition of their contribution.
+booking window	intervallo di prenotazione	the period of time between the date a travel reservation is made by a person or group and the actual check in date. this concept applies to both flights and hotels and is used as part of defining an audience for dynamic ads for travel.
+broadcast	trasmettere	to transmit a live video over facebook.
+broadcast	trasmissione	a transmission of a live video.
+browse	sfogliare	to scan through a text, website, or collection of data to gain an impression of the contents
+browser	browser	a software program that allows a user to locate, access, and display web pages.
+bug	bug	an error or defect in software or hardware.
+button	pulsante	a clickable ui element on the page surface or in feed intended to provoke a specific action from the audience.
+buy and sell group	gruppo di acquisto e vendita	a type of group on facebook that has features to help people buy, sell and trade items. those features include sale posts (which highlight price), the ability to post an item in multiple groups or places at once, and the ability to easily manage sale posts.
+buyer	acquirente	a person purchasing an item from another person or business.
+call	chiamata	a voice or video chat placed via facebook or messenger.
+camera	fotocamera	a cell phone camera
+camera preview	anteprima della fotocamera	the preview of a photograph before it is taken on a mobile device's display
+camera roll	rullino foto	an ios (iphone or ipad) app where photos are stored.
+caption	didascalia	a text element that is superimposed over a video or photo. it can narrate, translate, or provide extra textual information.
+carousel ad	inserzione carosello	an item of promotional content that displays multiple images that scroll from left to right.
+carousel format	formato carosello	an item of promotional content that displays multiple images that scroll from left to right.
+certification badge	badge della certificazione	in blueprint, a verifiable digital representation of an accomplishment. badges are issued electronically to individuals who achieve blueprint certification and thus become facebook certified professionals.
+change	modifica	the process of modification.
+charitable organization	organizzazione di beneficenza	a not-for-profit institution that has been verified by facebook as qualifying to create fundraisers to raise money directly on facebook.
+check into	registrarsi presso	to indicate your physical location in a status update, photo or post via the check in button on facebook's mobile apps.
+check-in	registrazione	an instance of having used the check in button in facebook's mobile apps to indicate your physical location in a status update.
+checkbox	casella	a user interface element used to make a selection.
+choose	scegliere	to select from a number of possibilities.
+click	cliccare	to press and release a button on a mouse or pointing device in order to select something in a user interface (like a link).
+close	chiudere	to leave a dialog or program.
+close friends list	lista amici più stretti	a friend list that contains people you have indicated as close friends.
+closed group	gruppo chiuso	a type of facebook group where anyone on facebook (or within a community) can find the group and see who's in it, but only members can see posts.
+code generator	generatore di codici	the facebook security feature that provides a code for facebook.
+cohort	coorte	a group of two or more people who take the same action or share the same experience during a defined period of time.
+collage	collage	a visual collection of photos and videos, combined into one post.
+comment	commentare	to leave a digital remark on a post, photo or story.
+comment	commento	a response left on a post, photo, or video.
+commerce ip search	strumento di ricerca dei marchi commerciali	a tool that allows people to search facebook groups for appearances of a registered trademarks and report search results as a violation of rights.
+community page	pagina sociale	a facebook page about an organization, celebrity or topic that the page doesn't officially represent.
+company	azienda	a business organization.
+company account	account aziendale	the account of an organization that is part of workplace by facebook.
+computer	computer	an electronic device for storing and processing data.
+confirm	confermare	to establish the truth or correctness of something.
+confirmation code	codice di conferma	a code that you receive from facebook to verify your mobile number when you sign up to use facebook mobile.
+connect	connettersi	bring together or into contact.
+connection	connessione	an instance or session of internet connectivity.
+contact	contatto	a person or entity whose information you have stored on a device or app for the purpose of getting in touch
+content	contenuto	the substance or material dealt with in a speech, literary work, etc., as distinct from its form or style.
+continue	continuare	to go on after suspension or interruption.
+control	controllare	manually directing the behavior of something.
+control	controllo	a mechanism for adjusting the operation of a device, machine, or system.
+conversion pixel	pixel di conversione	a 1x1 pixel used to track if a person has landed or converted on a specific web page.
+cost per action	costo per azione	a cost to the advertiser each time an action is taken because of an ad.
+cover photo	immagine di copertina	the large picture at the top of your facebook profile, right above your profile picture.
+cover photos	immagini di copertina	the facebook album containing all of a person's facebook cover photos.
+coworker	collega	a person with whom one works, typically someone in a similar role or at a similar level within an organization.
+cpa	cpa	a cost to the advertiser each time an action is taken because of an ad.
+create	creare	to bring (something) into existence.
+create account	creare un account	to create an account and join an app or service.
+creative	creatività	the content of an ad.
+creative effects	effetti creativi	a facebook feature that provides an assortment of frames, filters or masks that people can add to their facebook photos or videos.
+crosspost	effettuare il cross-posting	to share a single media file or item for sale in multiple posts.
+crossposted video	video con cross-posting	a facebook pages feature that allows video publishers to distribute and manage a single video upload in multiple posts, so they do not need to upload a video file each time they want to create a post to accompany it.
+dashboard	dashboard	a summary of information in a user interface used to give an overview or status.
+data	dati	content and information that third parties can retrieve from facebook or provide to facebook through platform.
+data alert	avviso consumo dati	a notification you get from onavo when using a specific amount of data on a specific app.
+data balance	credito dati	the amount still available on a sim card during any particular mobile data usage cycle.
+data charge	costi per la trasmissione dei dati	a debt incurred to a prepaid data pack or sim card data balance in exchange for use of internet apps or services.
+data controls	controlli dei dati	the switch that lets you change from using a degraded version of facebook without data charges, to using regular full facebook.
+data load	saldo dati	a specific amount of data purchased for a mobile phone.
+data loan	dati anticipati	a specific amount of data loaned to a customer by a mobile operator in advance of payment.
+data pack	pacchetto dati	a specific amount of data purchased for a mobile phone.
+data policy	normativa sui dati	the policy that outlines the information facebook receives and how it is used.
+data promo	promozione dati	a specific amount of data purchased for a mobile phone.
+data saver	modalità di risparmio dei dati	a feature of facebook for android that shows smaller images and disables autoplay for videos in news feed to try and use less of a user's mobile data.
+data switch	cambio della modalità di utilizzo dei dati	a feature of data controls that allows someone using zero-rated facebook to switch between free and paid states.
+date of birth	data di nascita	the day, month and year of a person's birth as specified by a number.
+day	giorno	a surface within messenger where you add posts that last 24 hours
+deactivate	disattivare	make (something, typically technical equipment or a virus) inactive by disabling or destroying it.
+decline	rifiutare	politely refuse (an invitation or offer)
+delete	eliminare	to remove data or information permanently.
+desktop computer	computer desktop	a personal computer intended for regular use at a single location desk/table due to its size and power requirements.
+developer account	account sviluppatore	an account that allows developers to submit facebook apps.
+device	dispositivo	a computer or digital machine, usually referring to a mobile computer such as a phone or tablet.
+dialog	finestra di dialogo	a secondary window that allows users to perform a command, asks users a question, or provides users with information or progress feedback.
+digital badge	badge digitale	in blueprint, a verifiable digital representation of an accomplishment. badges are issued electronically to individuals who achieve blueprint certification and thus become facebook certified professionals.
+direct	direct	a surface within instagram where people send you privately shared photos or videos.
+disable	disabilitare	to deactivate, disable or shut off.
+discover	suggeriti	a feature in facebook groups that allows people to search by one of 30+ topic categories to find groups they might want to join.
+doc	documento	an electronic file that provides information.
+document	documento	an electronic file that provides information.
+dogfood	testare	to test and give feedback on an internal product before it is available to the public.
+donate	fare una donazione	to give money to a fundraiser or charitable organization on facebook.
+donation campaign	campagna di donazioni	an effort to drive donations via facebook.
+donation fee	costo del servizio di donazioni	a standard fee facebook collects to cover the cost of processing donations made directly on facebook.
+done	fine	referring to the state of being completed.
+donor	benefattore	a person who has donated money to a fundraiser or charitable organization on facebook.
+double-click	cliccare due volte	to press a computer mouse button twice in quick succession to select something.
+download	scaricare	to save data from an application (like facebook) to an offline source (like a computer).
+drag	trascinare	to tap and hold on an interface and then slowly move your finger to interact with an interface (for example, to refresh an app, or reveal a hidden option). continuous contact with the interface controls the speed of this gesture. dragging is slower and more controlled than swiping.
+dropdown menu	menu a discesa	a menu that expands to show a list of options.
+ecommerce	e-commerce	business that is transacted by transferring data electronically, especially over the internet.
+edit	modificare	modify to a preferred form.
+email	e-mail	an electronic message.
+email	indirizzo e-mail	an address to send electronic messages to
+email address	indirizzo e-mail	an address to send electronic messages to
+emoji	emoji	a small digital image or icon used to express an idea or an emotion in electronic communication
+employee	dipendente	in business manager and workplace, the name of an administrative role, referring to people who work within a company.
+endorse	sostenere	to declare one's public approval or support of someone or something. in facebook this refers to an action that allows you to post an endorsement about a political candidate.
+endorsement	sostegno	an act of giving one's public approval or support to someone or something. in facebook, this refers to a post that endorses a political candidate.
+enter key	tasto invio	a key on a computer keyboard that makes the computer perform an action or start a new line of writing.
+esc	esc	the escape key on a computer keyboard.
+esc key	tasto esc	the escape key on a computer keyboard.
+escape key	tasto esc	the escape key on a computer keyboard.
+event	evento	a social gathering or activity. usually refers to a specific event in the facebook events feature.
+everyone	tutti	the audience on facebook that encompasses all people (the general public), not just friends or facebook users.
+example	esempio	for example.
+express wi-fi	express wi-fi	the wi-fi reseller product for entrepreneurs to set up wi-fi hotspots and sell data packages to local people.
+express wi-fi by internet.org	express wi-fi di internet.org	the wi-fi reseller product for entrepreneurs to set up wi-fi hotspots and sell data packages to local people.
+facebook	facebook	the proprietary name of the social networking website / app.
+facebook advertising core competencies	competenze chiave per la pubblicità su facebook	name of the core exam an individual must take on their path to achieving blueprint certification. it is one of the requirements to achieve both the facebook certified planning professional and facebook certified buying professional certifications.
+facebook business	facebook business	the collection of news, tips and best practices to help businesses meet their goals on facebook (https://www.facebook.com/business/)
+facebook certified buying professional	professionista degli acquisti certificato da facebook	an individual who has been awarded the facebook certified planning professional certification. also the name of the final exam (321-101: facebook certified buying professional exam) required to achieve this certification.
+facebook certified planning professional	professionista della pianificazione certificato da facebook	an individual who has been awarded the facebook certified planning professional certification. it is also the name of the final exam (the 322-101 facebook certified planning professional exam) that leads to achieving this certification.
+facebook certified professional	professionista certificato di facebook	collective term for any individual who has obtained a facebook blueprint certification (e.g. a facebook certified planning professional, or facebook certified buying professional)
+facebook community standards	standard della comunità di facebook	facebook policies that explain what type of sharing is allowed on facebook, and what type of content may be reported and removed.
+facebook flex	facebook flex	a version of facebook that includes the ability to switch between free mode (no photos) and data mode (regular full facebook). (formerly called lightswitch internally).
+facebook for android	facebook per android	facebook's mobile app for android.
+facebook for ios	facebook per ios	facebook's mobile app for the ios platform.
+facebook for mobile	facebook per mobile	facebook's mobile-optimized platforms (facebook for iphone, facebook for android, m.facebook.com).
+facebook for windows	facebook per windows	the facebook app for the windows platform
+facebook gameroom	gameroom di facebook	facebook's pc gaming platform
+facebook games	giochi di facebook	the collection of games on https://www.facebook.com/games/ that you can play on facebook.
+facebook groups	facebook groups	facebook's app for creating and managing content shared with groups of people.
+facebook id	id facebook	the unique string of numbers used to identify a person's facebook account. a user id helps applications personalize your experience by connecting your account on that application with your facebook account. it can also personalize your experience by accessing your basic info, which includes your public profile and friend list.
+facebook lite	facebook lite	a facebook app for android that uses less data and works in all network conditions.
+facebook live	facebook live	facebook's web channel that shows videos related to things happening at facebook, such as interviews, products, and other pr activity.
+facebook locations	luoghi di facebook	a tool that lets you connect and manage pages for all your stores on facebook in one place.
+facebook marketing partner	facebook marketing partner	a third-party company who uses the facebook ads api to develop their own customized tools for advertisers. certain companies are given special distinctions like strategic preferred marketing developer (spmd) and mobile me.
+facebook mobile	facebook mobile	facebook's mobile-optimized platforms (facebook for iphone, facebook for android, m.facebook.com).
+facebook safety check	"stai bene? dillo a facebook"	a check-in notification tool in facebook that allows people to quickly share that they're safe with friends and family during a disaster.
+facebook terms	condizioni di facebook	the legal agreement that governs facebook's relationship with users and others who interact with facebook, as well as facebook brands, products and services.
+faceversary	facebookleanno	the anniversary of the day that a person first signed up for a facebook account.
+family list	lista familiari	a friend list that contains people you have indicated as family members.
+family safety center	centro per la sicurezza delle famiglie	a section of facebook that includes information, tools and resources for protecting people's safety online.
+fan	fan	an enthusiastic devotee, follower, or admirer of a sport, pastime, celebrity, etc.
+favorite	aggiungere ai preferiti	in facebook, to add something to a list.
+favorite	aggiunto ai preferiti	in facebook, an item that you have favorited.
+favorites list	lista dei preferiti	bookmarked shortcuts that you can choose or customize.
+feature	funzione	a property or behavior of software or hardware.
+feature phone	feature phone	a type of low-end mobile phone that is limited in capabilities in contrast to a smartphone. feature phones typically provide voice calling and text messaging functionality, in addition to basic multimedia and internet capabilities and other services.
+featured event	evento in evidenza	a public event in a specific city that has been chosen by event curators.
+feed	feed | sezione | argomento	a stream of posts or updates in a social media service.
+field	campo	a ui element into which you enter data.
+filter	filtro	a feature that allows you to alter the color or lighting of photos or videos that you take with the camera on a mobile device.
+finish	fine	to complete a task or activity.
+flash	flash	a camera attachment that produces a brief very bright light, used for taking photographs in poor light.
+flash	flash	within the flash app, an individual photo or video sent to another person.
+fmp	fmp	a third-party company who uses the facebook ads api to develop their own customized tools for advertisers. certain companies are given special distinctions like strategic preferred marketing developer (spmd) and mobile me.
+follow	seguire	to opt in to seeing content or posts from a feed or social media account.
+follower	follower | persona che segue	a person who has subscribed to (followed) a social media profile in order to see its content.
+frame	motivo	an artistic overlay with images or words that's placed over a photo or video taken with the camera of a mobile device.
+free basics	free basics	an app that lets people in certain countries on specific sim cards access zero-rated websites without data charges.
+free basics by facebook	free basics di facebook	an app that lets people in certain countries on specific sim cards access zero-rated websites without data charges.
+free data	traffico dati gratuito	a product or service that does not incur data charges.
+free mode	modalità gratuita	a vpn (virtual private network) that can be activated while using free basics to prevent data leakage.
+friend	amico	
+friend list	lista di amici	a list in facebook that you can create in order to categorize subsets of friends, for example, close friends or acquaintances.
+friend request	richiesta di amicizia	a request sent to someone to add them as a friend on facebook.
+friends list	lista degli amici	a person's entire list of facebook friends.
+friendship page	pagina con i dettagli sull'amicizia	a page on facebook that shows a collection of stories and interactions between two friends.
+friendversary	anniversario dell'amicizia su facebook	an anniversary of when you became friends on facebook with someone.
+fullscreen	schermo intero	referring to a window occupying all the available displayable surface of a screen.
+fundraiser	raccolta fondi	a dedicated place on facebook to raise money for charitable organizations.
+gallery	galleria	a photo app on android phones.
+game	gioco	a digital app or activity that involves a puzzle, match or other test of skill intended for entertainment.
+gameroom	gameroom	facebook's pc gaming platform
+generate	generare	to cause something to arise or come about.
+gif	gif	a format for image files. the acronym stands for graphics interface format.
+google play store	google play	the app store for android.
+government-backed attacker	attacco appoggiato dal governo	a malicious actor who is sponsored by an official government, with the intent of hacking into people's accounts and potentially stealing information.
+group	gruppo	a dedicated place where members can post content either within the groups app or on facebook.
+group chat	chat di gruppo	a facebook groups feature that integrates messaging services into facebook groups. group chats can be accessed from facebook, messenger and the groups app.
+groups	gruppi	facebook's app for creating and managing content shared with groups of people.
+groups discover	gruppi suggeriti	a feature in facebook groups that allows people to search by one of 30+ topic categories to find groups they might want to join.
+groups for schools	gruppi universitari	a feature in facebook and groups where students and faculty of a college or university can create or join specific school groups.
+guest	invitato	a person who is going to an event on facebook.
+guide	raccolta	a catalog of video feeds people can browse to discover new videos.
+haha	ahah	one of the reactions you can choose to leave on a facebook post, represented by a laughing emoticon. when you choose haha, you indicate that you think a post is funny.
+hashtag	hashtag	a metadata tag that consists of a word or phrase preceded by a pound or hash sign. in facebook and instagram, hashtags appear in posts and link to other posts with the same hashtag to make it easy for people to find posts about topics they are interested in,
+help center	centro assistenza	the section of facebook containing help articles and other support resources.
+hide	nascondere	to remove something from view.
+highlight	mettere in primo piano	to choose highlight on a story in facebook that is in your timeline in order to add a star icon to it.
+highlights	in primo piano	an option in facebook groups to receive notifications for posts with lots of likes and comments, and friends' posts. in groups for the @work product, the notifications are for people you follow, not friends.
+home page	home page	the main (home) screen of facebook.
+host	organizzatore	the person who is the creator of an event on facebook.
+i.org	i.org	a facebook initiative to connect the world, including projects like express wi-fi, free basics, zero-rated facebook and messenger.
+icon	icona	a graphic symbol that represents something (an action or entry point in a user interface, for example).
+ignore	ignorare	to not respond to a request, for example, a video call or request to join a group.
+illegal	illegale	contrary to or forbidden.
+in-app purchase	acquisto nell'app	a digital feature or function that you buy within an app or service.
+in-stream video	video in-stream	a type of video ad that plays within your video player that precedes or interrupts content
+inappropriate	non appropriato	unsuitable or improper in the circumstances.
+inbox	posta	the main folder in facebook messages where your messages appear.
+info	informazioni	facts provided or learned about something or someone.
+information	informazioni	facts provided or learned about something or someone.
+insight	dati di insights	detailed information about an audience and its activity.
+instagram	instagram	the social networking app for sharing photos and videos.
+install	installare	to load software or apps onto a device.
+instant articles	articoli interattivi	a facebook feature that provides rich format, interactive articles that professional publishers can create and publish on facebook.
+interested	mi interessa	to indicate you are considering attending an event.
+internet	internet	an electronic communications network that connects computer networks around the world.
+internet rate	tariffa dati	a debt incurred to a prepaid data pack or sim card data balance in exchange for use of internet apps or services.
+internet.org	internet.org	a facebook initiative to connect the world, including projects like express wi-fi, free basics, zero-rated facebook and messenger.
+internet.org initiative	iniziativa internet.org	the initiative by facebook to bring affordable, accessible internet to all parts of the world.
+invalid	non valido	not valid or unacceptable.
+invite	invitare	to request someone's participation.
+ipad	ipad	apple's tablet device
+iphone	iphone	apple's smartphone.
+join	iscriversi	to unite to form one entity or group.
+keyword	parola chiave	a word used to facilitate an online search for information.
+laptop	computer portatile	a portable computer with an lcd screen that weighs from two to 10 pounds.
+lead ad	inserzione per acquisizione contatti	an ad unit that can send contact information directly from what people have given facebook to an advertiser when interacted with.
+learn more	scopri di più	a link indicating that there is more information available.
+left side	a sinistra	on the left side (of a user interface).
+life event	avvenimento importante	a type of post on facebook that allows a person to add a significant personal milestone to their timeline.
+like	"mi piace"	an instance of having liked something on facebook.
+like	mettere "mi piace" a	to express a positive sentiment about a post, photo or video by selecting an option (an icon or the word like).
+like	mi piace	one of the reactions you can choose to leave on a facebook post, represented by a thumbs-up emoticon. when you choose like, you indicate that you like a post.
+limit	limitare	to control, limit or restrict something in an app or service.
+link	link	a hypertext link to a web page.
+list	lista	a list in facebook that you can create in order to categorize subsets of friends, for example, close friends or acquaintances.
+live	in diretta	referring to something that is broadcast in real time, while the event is actually happening, rather than recorded and sent out later.
+live audio	audio in diretta	a live broadcast format that only includes audio content. live audio allows people to create live media experiences using sound alone, with no corresponding video feed.
+live video	video in diretta	a type of video on facebook in which you can broadcast a live recording.
+load	caricare	to put information or a program into a computer (or to run a program)
+load	saldo dati	a specific amount of data purchased for a mobile phone.
+loan	anticipo dati	a specific amount of data loaned to a customer by a mobile operator in advance of payment.
+location	luogo	a particular place or position.
+locations	luoghi	a tool that lets you connect and manage pages for all your stores on facebook in one place.
+lock screen	schermata di blocco	the first screen that appears on a smartphone before you unlock it.
+log in	accedere	to use credentials (ex. name and password) to access an account.
+log into	accedere	to use credentials (ex. name and password) to access an account.
+log out	uscire	to end a logged in session on an account or app.
+login alert	avviso di accesso	a notification that you see if you or someone else tries to access your facebook account from a new device.
+login alerts	avvisi di accesso	a feature in facebook that allows you to receive notifications when your account is accessed from an unrecognized device or location.
+login approvals	approvazioni degli accessi	a facebook security feature similar to login alerts, but with an extra security step. if you turn on login approvals, you'll be asked to enter a special security code each time you try to access your facebook account from a new computer, mobile phone or browser.
+login approvals code	codice per l'approvazione degli accessi	a login code that you can use to log in from an unrecognized browser/device when you don't have your phone with you, like when you're traveling.
+login code	codice di accesso	a unique series of characters used to access your facebook account from an unrecognized device or browser when login approvals are enabled. this refers both to the 6 digit code from code generator and the code received through sms when logging in from an unrecognized browser/device.
+login information	informazioni di accesso	the id or credentials used to connect a person to a server or service.
+love	love	one of the reactions you can choose to leave on a facebook post, represented by a heart emoticon. when you choose love, you indicate that you like a post a lot.
+malware	malware	software that can cause intentional harm to a device, app or account.
+manage	gestire	manually directing the behavior of something.
+map	mappa	a diagrammatic representation of a place.
+marker	puntina	a point on a person's storyline in the moves app that represents a physical location where they remained for a minimum amount of time.
+marketplace	bacheca annunci	a dedicated surface on facebook for people to buy and sell with other people.
+mau	utenti attivi al mese	a metric that measures the number of unique users during a specific measurement period, such as within the previous 30 days.
+member	membro	someone who belongs to a group or an organization.
+memorialize	rendere commemorativo	to convert a facebook account to a memorial status in honor of a deceased person upon validated request.
+memory	ricordo	something a person has shared or been tagged in on facebook.
+mention	menzionare	to tag or reference a person, page or topic in a post or comment.
+mentions	mentions	facebook's social networking app for public figures.
+mentions feed	notizie di mentions	a collection within the mentions app that contains public posts and comments that reference or tag a verified page or profile.
+menu	menu	an user interface element that presents a list of choices.
+messages	messaggi	the chat feature in facebook for the web.
+messenger	messenger	facebook’s messaging app.
+messenger payments	pagamenti su messenger	the facebook feature that allows you to send or receive money in messenger.
+mobile	mobile	referring to portable computing platforms, generally mobile phones but also tablets, software optimized for mobile computing platforms, or service providers for mobile computing platforms.
+mobile device	dispositivo mobile	a wireless portable device like a cellular phone or tablet used to connect to the internet.
+mobile number	numero di cellulare	the number associated with a mobile phone.
+mobile phone	cellulare	a cellular telephone.
+mobile phone number	numero di cellulare	the number associated with a mobile phone.
+mobile uploads	caricamenti da mobile	the facebook album containing all of a person's mobile photos.
+moderator	moderatore	a person who arbitrates a discussion.
+moments	moments	a private photo sharing app that allows you to gather and share photos that you care about.
+monthly active users	utenti attivi al mese	a metric that measures the number of unique users during a specific measurement period, such as within the previous 30 days.
+most recent	più recenti	a sort option in the user interface of facebook news feed that sorts posts in the order they were posted.
+motion photo	motion foto	motion photos are a camera capture format exclusive to the samsung s7 or s7 edge. any time you capture a photo your phone will record a couple seconds of video leading up to the shutter button being pressed.
+moves	moves	a facebook app that tracks fitness activity and statistics.
+multi-company group	gruppo per più aziende	a group within workplace by facebook consisting of multiple companies who work together.
+mutual friend	amicizia in comune	a friend that two people have in common on facebook.
+nearby	nelle vicinanze	referring to people or places that are in close proximity to you when you're using a facebook mobile app.
+network	rete	a group or system of interconnected people or things
+new	nuovo	referring to the state of not existing before; being made, introduced, or discovered recently or now for the first time.
+news feed	sezione notizie	the customized stream of posts and activity on a person's facebook home page.
+news feed targeting	targetizzazione nella sezione notizie	an option in the facebook pages composer that allows a page admin to choose who can see a post in news feed. their friends may see it too.
+next	avanti	immediately following in order.
+nonprofit	organizzazione no profit	a not-for-profit institution that has been verified by facebook as qualifying to create fundraisers to raise money directly on facebook.
+not valid	non valido	not valid or unacceptable.
+note	nota	a written message.
+notes	note	a text-editing app in facebook that allows you to write long-form posts.
+notification	notifica	an update or alert that a person receives about activity on facebook or other apps.
+nudity	nudo	sexually explicit material.
+offline	offline	referring to the state of being disconnected from the internet.
+ok	ok	used to express assent, agreement, or acceptance.
+olympic games	gioci olimpici | olimpiadi	an international sporting event featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions.
+on this day	accadde oggi	a facebook app that shows things someone shared or was tagged in on the same date in different years.
+onavo	onavo	a set of apps that count, compress and protect mobile data.
+online	online	connected to the internet.
+online proctored exam	esame supervisionato online	a type of exam where the test-taker is observed online by a remote test administrator who supervises the exam through the test-taker's webcam and microphone.
+open group	gruppo aperto	a type of facebook group where anyone on facebook can see the group, its members and their posts.
+optimization goal	obiettivo di ottimizzazione	the goal that an advertiser or publisher is trying to optimize for when they create an ad or placement on facebook.
+organization	organizzazione	a not-for-profit institution that has been verified by facebook as qualifying to create fundraisers to raise money directly on facebook.
+overlay	motivo	an image that goes on top of a profile picture to give it a different appearance.
+pack	pacchetto	a specific amount of data purchased for a mobile phone.
+page	pagina	a public profile specifically created for businesses, brands, celebrities, causes, and other organizations.
+page	pagina	a screen or section of a web page or app.
+page insights api	api page insights	an api that provides programmatic access to metrics about a facebook page.
+partner	partner	a person or organization who is not part of a business, but who works on facebook pages, ad accounts or other assets for a business.
+passcode	codice di accesso	an optional series of 4 digits you can set up to use instead of your password when logging into facebook using single sign-on.
+past	passato	having existed in a time before the present
+payment method	metodo di pagamento	the way a buyer chooses to compensate the seller for a transaction.
+peek	peek	a type of pressure-sensitive interaction available on iphone 6s or greater that allows you to press lightly to preview something.
+peek	premere leggermente	to press lightly to preview something on an iphone 6s or greater with 3d touch capability.
+people	persone	more than one individual (person).
+people you may invite	persone da invitare	a feature that gives a person the opportunity to invite their uploaded contacts to join facebook.
+people you may know	persone che potresti conoscere	a facebook feature that helps people find friends via mutual friends, work and education info, and other factors.
+performance marketing	performance marketing	a form of online marketing and advertising programs in which advertisers pay when a specific action is completed; such as a sale, lead or click.
+permission	autorizzazione	the right to access information.
+personal description	descrizione personale	a summary or short biographical statement that a person can choose to add to their facebook profile and show to the audience they select. this isn't the same as a person's public profile. this is a type of granular data permission (also known as "gdp") that a third-party developer app can ask permission to access in order to provide a feature or service.
+personal facebook	account facebook personale	for workplace by facebook users, a person's own personal facebook account, as distinguished from their workplace by facebook profile.
+phish	effettuare il phishing	to impersonate a company or person in email or other communication in an attempt to get information from someone (e.g., user name, password).
+phone	cellulare	a cellular telephone.
+phone number	numero di telefono	the number associated with a mobile phone.
+photo	foto	a digital image.
+photo viewer	visualizzazione foto	a standalone (permalink) page for photos on facebook that includes a photo and its comments.
+photos	foto	a feature within facebook where you add and view your photos and photo albums.
+photos of you	foto in cui ci sei tu	the section of a person’s facebook profile that shows photos other people have tagged them in.
+pick	selezionare	to select from a number of possibilities.
+picture	immagine	a digital image.
+pin	fissare	to attach or fasten something in a specified position.
+place tip	suggerimento su un luogo	information that appears in facebook's news feed that provides relevant information about a location you are currently at, for example, friends' photos and check-ins.
+places	luoghi	locations you have visited that appear on facebook under the places category in timeline.
+platform	piattaforma	a software environment that can be used by a third party as part of a system for reaching a goal, such as building an app, publishing content, advertising to an audience or accomplishing other objectives. platforms provide a collection of standards, tools, workflows and policies that allow developers and businesses to create their own applications, services, content or ads on a shared foundation. a developer builds on a platform, and advertiser or publisher does business on a platform. examples of common platforms include ios, android, www, facebook sdk, oculus, wordpress, squarespace, medium, atlas, doubleclick, adsense and many others.
+poke	mandare poke	to send a specific type of notification (a “poke”) to a friend on facebook.
+poke	poke	a type of notification on facebook that you send to someone to say hello or get their attention.
+poll	sondaggio	a feature that allows someone to collect opinions from members of a group or event.
+pop	pop	a type of 3d touch interaction available on iphone 6s or greater that allows you to press firmly to navigate to something.
+pop	premere in modo deciso	to press firmly to navigate to something on an iphone 6s or greater with 3d touch capability.
+pop up	pop-up	to appear suddenly in a user interface over the top of other windows.
+pop-up notification	notifica pop-up	a notification for an app or program that appears out of context while you are doing other tasks.
+post	post	an individual item of content (ex. a photo, a text post) published on a social networking platform.
+post	pubblicare	to publish a piece of content (ex. a photo, a status update) on a social networking platform.
+post-by-email address	indirizzo per la pubblicazione tramite e-mail	an e-mail address that allows you to send a facebook post via e-mail that then shows as a status update on your news feed.
+powered by	fornito da	
+preference	preferenza	an option or choice selected by a person.
+preferred audience	pubblico preferito	an option in the facebook pages composer that allows a page admin to choose the audience they want to see a post. other people outside this audience may see it too.
+preset	valore predefinito	a control on software that is set or adjusted beforehand to facilitate use.
+previous	precedente	existing or occurring earlier in time or order.
+privacy	privacy	a state of control of one's own personal information or content.
+privacy checkup	controllo della privacy	a feature that lets people review and change their privacy settings.
+privacy settings	impostazioni sulla privacy	a set of options on facebook that allow you to control what you share, located in facebook > settings > privacy.
+proctor	supervisore	a person who monitors students during an examination.
+profile	profilo	a collection of digital information that identifies a specific person, such as your name and profile picture (for example, your facebook profile)
+profile picture	immagine del profilo	a photo that represents someone's identity on facebook. it appears on a person's timeline and next to their name elsewhere on facebook.
+profile pictures	immagini del profilo	the facebook album that contains all of a person's facebook profile pictures.
+profile video	video del profilo	a short video that represents someone's identity on facebook.
+program	programma	a piece of software designed to fulfill a particular purpose.
+promo	promozione	a specific amount of data purchased for a mobile phone.
+public	tutti	the audience on facebook that encompasses all people (the general public), not just friends or facebook users.
+public group	gruppo pubblico	a type of facebook group where anyone on facebook can see the group, its members and their posts.
+publish	pubblicare	to change the state of something (for example, a page or a page post) from draft (not yet visible to an audience) to available (visible to that audience).
+publisher	editore	an entity that either creates or assembles content for the purpose of distribution. in the context of ads, a publisher is usually a destination that monetizes content through ads served alongside that content.
+reach	copertura	the number of people exposed to a medium at least once during a given period.
+reaction	reazione	a response to a facebook post in which you choose one of several emoticons (like, love, haha, wow, sad, angry) to indicate your feelings about a post.
+reactivate	riattivare	restore (something) to a state of activity; bring back into action.
+recognized device	dispositivo riconosciuto	the computers and mobile phones a person saves to his or her facebook account during the login process. the list of recognized devices is linked to a facebook account from the recognized devices section of security settings, where they can be viewed and edited.
+recommend	consigliare	to advise or suggest a choice, course of action, etc. is appropriate, beneficial, or the like.
+recommended	consigliato	pertaining to content recommended by another person.
+refresh	aggiornare	to update an existing instance of something (a browser, a campaign) to its latest state
+remove	rimuovere	take something away deliberately so that it is no longer visible.
+report	segnalare	to indicate that content on facebook is abusive or spam, an account is fake, a feature is broken or something is not working.
+request	richiesta	to ask for something.
+reshare	ricondividere	to share a shared item.
+restricted list	lista con restrizioni	a friend list where you can put friends with whom you only want to share posts that you've shared with the public.
+return on advertising spend	ritorno sulla spesa pubblicitaria	a way to measure the effectiveness of advertising that calculates the dollars earned per dollars spent.
+rewarded video	video con premio	a type of video ad that is followed by a reward, for example, in-game credit or currency. the reward is the incentive for completing the video.
+right column	colonna destra	a section on the right side of facebook desktop.
+right side	a destra	on the right side (of a user interface).
+right-click	cliccare con il tasto destro	to click on a screen object or a link by depressing the right-hand button on a mouse or touchpad.
+rights manager	rights manager	a tool in facebook pages settings that helps video publishers protect and manage their intellectual property on facebook.
+roas	roas	a way to measure the effectiveness of advertising that calculates the dollars earned per dollars spent.
+room	stanza	an online collaboration space that you create with facebook's rooms app.
+route	attività	the spaces on a person's storyline in the moves app that represents the distance and mode of travel between two markers.
+rss feed	feed rss	a feed that uses a family of standard web feed formats to publish frequently updated information.
+sad	sigh	one of the reactions you can choose to leave on a facebook post, represented by a sad emoticon. when you choose sad, you indicate sadness or sorrow about a post.
+safety	sicurezza	the knowledge of maximizing a person's personal safety and security risks to private information and property associated with using the internet, and the self-protection from computer crime in general.
+safety check	stai bene? dillo a facebook	a check-in notification tool in facebook that allows people to quickly share that they're safe with friends and family during a disaster.
+sale post	annuncio di vendita	a post that includes an item for sale by an individual person created in a sale group.
+save	salvare	to commit or preserve something.
+screenshot	screenshot	an image of the data displayed on the screen of a computer or mobile device.
+scroll	scorrere	to either drag or swipe an interface to scan through a long or infinite list of options or content, for example, posts on news feed. scrolling is a gesture specifically limited to scanning through information.
+search	cercare	to look for something with a search feature or search engine
+secret conversation	conversazione segreta	a feature in messenger that allows encrypted, private conversations between two people. the conversations are only accessible on the devices that they are initiated from, and are encrypted from view by others or facebook. you can set the time that secret conversations are visible before they are deleted.
+secret group	gruppo segreto	a type of facebook group where new members have to be added or invited by existing members, and only current and former members can see or find the group.
+secure browsing	navigazione protetta	a security feature that encrypts your activity on facebook when you access it with the prefix https://.
+security	protezione	the state of being free from danger or threat
+security checkup	controllo della sicurezza	a tool for reviewing and enhancing they security of your facebook account.
+see	vedere	to visually perceive something.
+see all	mostra tutto	a prompt that enables you to see all of something (a list, an article) that is currently truncated.
+see first	mostra per primi	to choose to see all posts from someone at the top of your news feed in facebook.
+see more	altro…	an indication that there is more available to view.
+select	selezionare	to choose one or more items, such as files or menu items.
+self-injury	autolesionismo	deliberate injury to oneself, typically as a manifestation of a psychological or psychiatric disorder.
+selfie	selfie	a picture taken of oneself with a camera on a mobile device.
+seller	venditore	a person or business who is sells items.
+send	inviare	to cause a message or computer file to be transmitted electronically.
+sensitive	riservato	kept secret or with restrictions on disclosure to avoid endangering security.
+session	sessione	a period of time during which a person is logged into a device or app.
+set up	configurare	to prepare or customize an app, program, feature or device to use it for the first time.
+setting	impostazione	an option that you can adjust in an app or service.
+share	condividere	to publish content to a selected audience.
+shift key	tasto shift	a key on a computer keyboard that shifts the keyboard into capital or lowercase letters.
+shortcut	collegamento rapido	a shorter or quicker way to accomplish something.
+sidebar	barra laterale	the list of friends you can chat with on the right column of facebook on the web.
+sign up	iscriversi	to create an account and join an app or service.
+slideshow	slideshow	a type of video that's created using still images or videos, and may contain a music soundtrack.
+smartphone	smartphone	a mobile phone with internet connectivity and advanced computing capabilities like apps, a camera, gps, touchscreen functionality, and media playback abilities.
+sms	sms	an electronic communication sent and received by cellular phone.
+social graph	social graph	a representation of the interconnection of relationships in an online social network.
+sort	ordinare	to arrange data in a prescribed sequence.
+space bar	barra spaziatrice	the bar at the bottom of a keyboard that makes a space between words.
+spam	spam	irrelevant or inappropriate posts or messages often sent to many recipients.
+sponsored	sponsorizzato	referring to ads that are paid for on facebook or instagram.
+sports stadium	sports stadium	a feature of facebook where people can experience sports in real-time with stats, friends and experts.
+star	mettere in evidenza	to highlight or flag something.
+statement of rights and responsibilities	dichiarazione dei diritti e delle responsabilità	facebook's legal statement that covers privacy, sharing, safety, registration, user rights, payments, and other contractual issues.
+status update	aggiornamento di stato	a personal update made via a post on facebook.
+sticker	adesivo	an icon or animation that you can add to social media conversations.
+sticker store	negozio di adesivi	the store where you can get stickers for use facebook and messenger.
+still	fermo immagine	a still image which is part of a series to compose a video game, video, or movie.
+story	notizia	a narrative account of events, which can take the form of a post, an article, or other item of content.
+storyline	i miei movimenti	a feature in the moves app that shows a person's activity within one day, such as place history and times spent in or traveling between different locations.
+stream	streaming	a currently playing video that is sent from one device to another for display.
+stream	trasmettere in streaming	to send and play a video from a mobile device on a different wi-fi connected device.
+subscribe	ricevere gli aggiornamenti	to sign up to receive content or notifications.
+successfully	correttamente	achieving or having achieved success.
+suggested	suggerito	pertaining to content recommended by facebook or an algorithm based on your prior activities (e.g. likes).
+support inbox	riepilogo segnalazioni	a folder on facebook in which someone can view and receive updates from the facebook help team.
+swipe	scorrere	to tap and hold on an interface and then quickly move and lift your finger to interact with an interface (for example, to dismiss something, or flip from one screen to another). momentum controls the speed of this gesture after the finger is lifted. swiping is faster and less controlled than dragging.
+sync	sincronizzare	to cause data to remain identical in more than one location.
+tag	taggare	to indicate that a specific person, place or facebook page is in a photo.
+tag review	controllo dei tag	an option in facebook that lets you approve or dismiss tags that people add to your posts.
+tag suggestions	suggerimenti di tag	a feature in facebook that suggests a tag when a person's identity is detected in a photo.
+tap	toccare	to touch and then lift a finger from a touchscreen interface to select or interact with something.
+tap and hold	toccare e tenere premuto	to press a user interface element with one finger for several seconds.
+team	team	two or more people working together.
+temporary profile picture	immagine del profilo temporanea	a photo that will remain a person's profile picture for a finite amount of time of their choosing before reverting back to the previous profile picture.
+text	sms	an electronic communication sent and received by cellular phone.
+text message	sms	an electronic communication sent and received by cellular phone.
+theme	tema	a type of image that can be used as an alternative to an uploaded cover photo.
+third party	terzi	relating to apps, sites, or software created by a company other than facebook or facebook-owned companies.
+third-party	di terzi	referring to apps, products or brands that are not owned by facebook.
+third-party	di terzi	relating to apps, sites, or software created by a company other than facebook or facebook-owned companies.
+thumbnail	miniatura	an image that’s reduced in size, usually used for identification or organization.
+ticker	riquadro degli aggiornamenti	a feed that shows your friends' activity on facebook that's separate from news feed.
+time zone	fuso orario	one of the 24 regions or divisions of the globe approximately coinciding with meridians at successive hours from the observatory at greenwich, england.
+timeline	diario	the surface on a person’s facebook profile that shows their chronological posts.
+timeline photos	foto del diario	the facebook album containing all of the photos someone has posted to their timeline.
+timeline review	controllo del diario	a facebook feature that lets you approve tags that friends add to your posts before they appear on facebook.
+toolbar	barra degli strumenti	a panel of controls designed to provide quick access to specific commands.
+top stories	notizie principali	the sort option in the user interface of facebook news feed that shows posts in order by their likely relevance to your interests.
+topic	argomento	a subject or theme that is being discussed on facebook.
+traffic	traffico	in facebook ads, a marketing objective that refers to the number of visits to a website or app.
+trend	essere popolare	to extend in a (positive) direction.
+trending	popolari	a facebook feature that shows trending topics.
+trending topic	argomento popolare	a subject (people, things, articles, posts, videos, photos, topics or links) that is the most shared, mentioned or tagged thing on facebook for a given time period.
+trusted contacts	contatti fidati	a facebook security feature where you can choose friends you can reach out to if you need help getting into your account.
+turn off	disattivare	to deactivate, disable or shut off.
+turn on	attivare	to turn on or cause to function.
+type	digitare	write (something) on a device by pressing or tapping the keys.
+u.s.-eu safe harbor	safe harbor in vigore tra stati uniti e unione europea	the streamlined process for us companies to comply with the eu directive 95/46/ec on the protection of personal data.
+under	sotto	referring to being located after, under, below, or beneath something else.
+undo	annullare	changing an action you’ve already completed.
+unfriend	rimuovere dagli amici	to select to no longer be friends with someone on facebook.
+united states	stati uniti	the united states of america (country)
+unlike	annullare il "mi piace"	to remove or undo the action of liking a post.
+unpin	rimuovere dall'alto	to remove a pinned post on facebook (in a group) or a pinned group (in a conversation).
+unread	non letto	a status indicating that you have not yet read a message.
+unselect	deselezionare	to undo a selection of something
+update	aggiornamento	an upgrade to the latest version of an app or program.
+update	aggiornare	modify to a more recent form.
+upload	caricare	to transfer data from one computer to another, usually from a local computer to the internet.
+url	url	the location of a web page on the internet.
+us	stati uniti	the united states of america (country)
+username	nome utente	the name that people choose to appear in the url for facebook on the web.
+verification code	codice di verifica	a unique code used to confirm that your page is associated with a real business delivered via your business phone number.
+video	video	a digital movie
+video	video	the complete suite of all of facebook's tools, products and services related to the creation, distribution and consumption of video.
+video still	fermo immagine	a still image which is part of a series to compose a video game, video, or movie.
+view	visualizzare	to look at something.
+view as	visualizza come	a feature that lets people see what their facebook profile looks like to the public or a specific friend.
+wau	utenti attivi a settimana	a measurement of the success rate of online social games and social networking services. typically, metrics are measured by counting the number of unique users during a specific measurement period, such as within the previous 7 days.
+web	web	an electronic communications network that connects computer networks around the world.
+web page	pagina web	a page of content on the internet.
+webcam	webcam	a video camera that inputs to a computer connected to the internet.
+website	sito web	an internet location maintaining one or more related pages.
+whitelist	aggiungere alla whitelist	to place people or entities that are known, trusted or explicitly permitted into a special category that has access to something. specifically this often refers to email addresses.
+whitelist	whitelist	a list or collection of people or entities that are known, trusted or explicitly permitted. specifically this often refers to a list of e-mail addresses that a mail server or e-mail client program is configured to accept as valid, incoming mail.
+wi-fi	wi-fi	a signal allowing computers, smartphones, or other devices to connect to the internet or communicate with one another wirelessly within a particular area.
+work	di lavoro	referring to a feature of facebook at work.
+work chat	work chat	the mobile messaging app for people using workplace by facebook, and the messaging feature within workplace on the web.
+wow	wow	one of the reactions you can choose to leave on a facebook post, represented by a surprised emoticon. when you choose wow, you indicate that you think a post is surprising.
+write	scrivere	to compose text, like for a post or for a caption of a photo.
+year in review	l'anno in breve	a selection of photos someone shared or was tagged in over the course of the calendar year that they can choose to share on their timeline.
+zero balance	credito terminato	the state of having no data balance left on your sim and/or no prepaid pack.
+zero-rating	zero rating	an internet product or service that's been reduced in size or functionality so it can be used without incurring data charges.
+zip code	cap	a five or nine digit postal code at the end of us addresses that indicates the zone for mail delivery.

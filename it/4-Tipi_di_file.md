@@ -16,12 +16,12 @@ In esse tratteremo i formati dei file utilizzati per memorizzare le stringhe del
 	-   [Link ipertestuali](#link-ipertestuali)
 	-   [Immagini](#immagini)
 	-   [Codici di formattazione Python e stringhe JavaScript](#codici-di-formattazione-python-e-stringhe-javascript)
-	-   [Formattazione delle stringhe lato server](#formattazione-delle-stringhe-lato-server)
+	-   [Variabili](#variabili)
 -   [Formati degli archivi di localizzazione](#formati-degli-archivi-di-localizzazione)
 	-   [File `.properties`](#file-.properties)
 	-   [File `.lang`](#file-.lang)
 	-   [File `.po`](#file-.po)
--   [Editor di testo e applicazioni per gestire i cataloghi `.po` e le memorie di traduzione](#editor-di-testo-e-applicazioni-per-gestire-i-cataloghi-.poe-le-memorie-di-traduzione)
+-   [Applicazioni utili](#applicazioni-utili)
 	-   [OmegaT](#omegat)
 
 
@@ -340,7 +340,7 @@ Poedit esaminerà i file per creare la memoria di traduzione (TM).
 Alla prossima apertura del file po con poedit, facendo clic con il tasto destro del mouse (clic + Alt per Mac) su una stringa verranno visualizzate in un menu a comparsa tutte le stringhe che le assomigliano.
 
 
-## Editor di testo e applicazioni per gestire i cataloghi `.po` e le memorie di traduzione
+## Applicazioni utili
 
 Come già detto in precedenza più volte, lo strumento più semplice per localizzare i vari progetti Mozilla è Pontoon, nel caso il progetto non sia disponibile per la localizzazione su questa piattaforma o se si preferisce non utilizzarlo, in questa sezione verranno presentati alcuni *editor di testo* e applicazioni per, alternative a Poedit, per gestire i cataloghi `.po` sulle varie piattaforme, Windows, Mac e Linux.
 Ovviamente se si utilizza già un proprio editor di testo si può tranquillamente continuare a farlo, l’importante è assicurarsi che consenta di salvare i file con codifica [**UTF-8**][utf8] (senza BOM) (praticamente si può utilizzare qualsiasi editor di testo che non sia il *Notepad* presente sulle vecchie versioni di Windows).
@@ -354,10 +354,9 @@ Alcuni, come Sublime Text e Atom, dispongono inoltre di un discreto numero di mo
 -   [Pspad](https://www.pspad.com/it/download.php) - ottimo editor di testo per la piattaforma Windows.
 -   [Notepad++](https://notepad-plus-plus.org/download/) - altro editor molto diffuso per sistemi Windows che estende il Notepad di sistema.
 -   [Sublime Text](https://www.sublimetext.com/) - editor di testo mmultipiattaforma (Windows, OS X e Linux).  Per attivare il controllo ortografico leggere [questa guida](https://www.sublimetext.com/docs/2/spell_checking.html). L’acquisto di una licenza è facoltativo, in ogni caso tutte le funzioni sono disponibili anche senza acquistarne una. Il programma ha inoltre un gran numero di moduli (*package*) che possono essere utilizzati per aggiungere funzionalità aggiuntive. Per ulteriori informazioni sui *package* per sublime text consultare [questa pagina](https://packagecontrol.io/).
--   [Emerald Editor](http://www.crimsoneditor.com/) - altro editor per ambiente Windows, un po’ datato ma funzionante e compatibile anche con le vecchie versioni del sistema operativo di casa Microsoft.
--   [Bedit](https://www.barebones.com/products/bbedit/) - editor di testo per sistemi OS X, la versione senza licenza è perfettamente funzionale, anche se non dispone di alcune caratteristiche avanzate presenti nella versione a pagamento.
--   [TextMate](https://macromates.com/) - editor di testo a pagamento avanzato per OS X.
--   [Scintilla](http://www.scintilla.org/scitedownload.html) - editor di testo open source per piattaforma Linux e Windows.
+-   [Crimson Editor][emerald] - altro editor per ambiente Windows, un po’ datato ma funzionante e compatibile anche con le vecchie versioni del sistema operativo di casa Microsoft.
+-   [BBedit](https://www.barebones.com/products/bbedit/) - editor di testo per sistemi OS X, la versione senza licenza è perfettamente funzionale, anche se non dispone di alcune caratteristiche avanzate presenti nella versione a pagamento.
+-   [Scintilla](http://www.scintilla.org/) - editor di testo open source per piattaforma Linux e Windows.
 -   [Atom](https://atom.io/) - ottimo editor di testo multi-piattaforma che utilizza tecnologie web (non disponibile per XP e Vista).
 
 In aggiunta ci sono vim e emacs disponibili per tutte le piattaforme e sicuramente con *plugin* appositi per l’editing dei vari tipi di file, però si sconsiglia, a meno che non si abbia già familiarità con questi strumenti avanzati di editing, l’utilizzo di questi editor che sono un po più complicati e meno intuitivi a un primo approccio.
@@ -369,10 +368,10 @@ Probabilmente, se non si è mai usato prima un editor di testo, le due migliori 
 Di seguito alcune applicazioni che possono essere utilizzate, in alternativa a Pontoon, per gestire i cataloghi `.po`.
 
 -   [Poedit](http://www.Poedit.net/download.php) - l’applicazione desktop più utilizzata per la gestione dei cataloghi `.po` il cui funzionamento è stato discusso nella precedente sezione.
--   [Better Poeditor](http://sourceforge.net/projects/betterPoeditor/?source=dlp) - un *fork* di Poedit con qualche funzione aggiuntiva.
+-   [Better Poeditor][bpe] - un *fork* di Poedit con qualche funzione aggiuntiva.
 -   [Pootle](http://pootle.translatehouse.org/) - uno strumento online di traduzione partecipativa, prima dell’avvento di Pontoon, Mozilla ne utilizzava una versione personalizzata chiamata Verbatim.
 -   [virtaal](https://sourceforge.net/projects/translate/files/virtaal/) - altro software open source per tradurre i file .po (non stabile su os x).
--   [Get Text per Windows](http://gnuwin32.sourceforge.net/packages/gettext.htm) (strumento da riga di comando avanzato e non consigliato) È ovviamente un port del software disponibile per sistemi Linux.
+-   [GetText per Windows](http://gnuwin32.sourceforge.net/packages/gettext.htm) (strumento da riga di comando avanzato e non consigliato) È ovviamente un port del software disponibile per sistemi Linux.
 
 
 
@@ -441,7 +440,7 @@ I link ai file del glossario e ai file da cui generare la memoria di traduzione 
 
 
 
-[c4l1]: httpss://developer.mozilla.org/it/docs/Web/HTML/Element/strong
+[c4l1]: https://developer.mozilla.org/it/docs/Web/HTML/Element/strong
 [c4l2]: https://developer.mozilla.org/it/docs/Web/HTML/Element/em
 [c4l3]: https://dev.w3.org/html5/html-author/charref
 [c4l4]: https://developer.mozilla.org/it/docs/Web/HTML/Element/p
@@ -453,3 +452,7 @@ I link ai file del glossario e ai file da cui generare la memoria di traduzione 
 [c4l10]: https://github.com/mozilla/donate.mozilla.org/blob/master/locales/en-US/email.properties
 [c4l11]: https://github.com/mozilla/donate.mozilla.org/blob/master/locales/it/email.properties
 [utf8]: https://it.wikipedia.org/wiki/UTF-8
+[emerald]: https://sourceforge.net/projects/emeraldeditor/
+[bpe]: https://sourceforge.net/projects/betterpoeditor/
+
+
