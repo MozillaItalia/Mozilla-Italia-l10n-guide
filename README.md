@@ -8,13 +8,12 @@ Thank you for stopping by the Guide of the Mozilla Italia l10n (localization) te
 
 We are a group of volunteers passionate about localization and Open Software, our goal is to make Mozilla’s products, events and core values accessible for Italian users.
 
-The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](https://www.mozilla.org)’s products and activities for Italian users).
-<br>**However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.**
+The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](https://www.mozilla.org)’s products and activities for Italian users).  
+**However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.**
 
 Does it sounds like fun? Would you like be a part of our team? Then read further to know the details.
 
-Table of contents
-=================
+###### Table of contents
 
   * [What are we doing?](#what-are-we-doing)
   * [The problem](#the-problem)
@@ -49,7 +48,7 @@ We always need the talent and passion of new volunteers to keep this project ali
 
 * have the volunteers apply this guide on real localization projects for Mozilla Italia
 
-**Hence, it starts the collaborative writing of the Mozilla Italian l10n Guide.**<br>
+**Hence, it starts the collaborative writing of the Mozilla Italian l10n Guide.**  
 We hope that our work will be read, reused and re-mixed by other l10n communities in the world to develop their very own localization workflow.
 
 ### What does it take to become a contributor?
@@ -73,9 +72,12 @@ See the file [LICENSE.md](LICENSE.md) for details.
 #### Authors
 Don’t hesitate to get in touch with us for any question!
 
-* **Sara Todaro** - *Senior volunteer translator*  <br>[GitHub](https://github.com/kitsunenosaraT), [Mozillians](https://mozillians.org/u/sara_t/)
-* **Sandro Della Giustina** - *Senior volunteer translator*  <br>[GitHub](https://github.com/gialloporpora), [Mozillians](https://mozillians.org/u/gialloporpora/)
-* **Elio Giugliano** - *Volunteer translator*  <br>[GitHub](https://github.com/eliogi), [Mozillians](https://mozillians.org/it/u/coldair/)
+* **Sara Todaro** - *Senior volunteer translator*  
+[GitHub](https://github.com/kitsunenosaraT), [Mozillians](https://mozillians.org/u/sara_t/)
+* **Sandro Della Giustina** - *Senior volunteer translator*  
+[GitHub](https://github.com/gialloporpora), [Mozillians](https://mozillians.org/u/gialloporpora/)
+* **Elio Giugliano** - *Volunteer translator*  
+[GitHub](https://github.com/eliogi), [Mozillians](https://mozillians.org/it/u/coldair/)
 
 See also the list of [contributors](https://github.com/kitsunenosaraT/mozilla-italia-l10n-guide/contributors) who participated in this project.
 

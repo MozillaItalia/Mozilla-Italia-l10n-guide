@@ -4,8 +4,8 @@ Thank you for stopping by the Mozilla Italia l10n Guide!
 
 This collaborative guide aims to involve volunteers in the creation of a manual/translation workflow based on the actual needs and feedback of localizers.
 
-The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](https://www.mozilla.org)’s products and activities for Italian users).
-<br>**However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.**
+The guide is conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team (a group of volunteers translating [Mozilla](https://www.mozilla.org)’s products and activities for Italian users).  
+**However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.**
 
 This document will explain you the basic of how to contribute to the localization guide.
 
@@ -17,19 +17,19 @@ This document will explain you the basic of how to contribute to the localizatio
 
 ## Behavior
 
-Firstly, please have a look at our [code of conduct](CODE_OF_CONDUCT.md).
-<br>It covers typical scenarios in a localization team, such as the proper way to undertake a translation project or a QA (a.k.a review) session, as well as interactions with your reviewer and fellow contributors.
-<br>Please report to @kitsunenosarat in case of conflict with other contributors.
+Firstly, please have a look at our [code of conduct](CODE_OF_CONDUCT.md).  
+It covers typical scenarios in a localization team, such as the proper way to undertake a translation project or a QA (a.k.a review) session, as well as interactions with your reviewer and fellow contributors.  
+Please report to @kitsunenosarat in case of conflict with other contributors.
 
 ## Roles and tasks
 
 As you can see from the [roadmap](ROADMAP.md), this project calls for the interaction of two different ’teams’:
-- **Senior translators**<br> Veteran members of a localization community, with experience of coordinating with others in a long-term project.
-<br> ROLE:
+- **Senior translators** Veteran members of a localization community, with experience of coordinating with others in a long-term project.  
+ROLE:
  - write a first draft of the guide based on their experiences.
 
-- **New volunteers**<br> A (we hope!) as diverse as possible group of contributors ranging from independent translators to occasional contributors down to people at their first translation experience. The more different are the contributors’ backgrounds, the more comprehensive will the guide be!
-<br>ROLE:
+- **New volunteers** A (we hope!) as diverse as possible group of contributors ranging from independent translators to occasional contributors down to people at their first translation experience. The more different are the contributors’ backgrounds, the more comprehensive will the guide be!  
+ROLE:
  1. review the first draft of the guide
  2. test the guide on a short translation project^
  3. contribute to the second draft with their feedback on this experience.
@@ -39,29 +39,31 @@ As you can see from the [roadmap](ROADMAP.md), this project calls for the intera
 **If you’d like to contribute, please comment on issue #20 writing a few lines about yourself.**
 
 ## Communication channels
-1. **GitHub**<br>
+
+1. **GitHub**  
 The localization guide is hosted on GitHub, a web platform conceived for collaborative work, that easily keeps track of who contributed what.
 If you already have a GitHub account, please come and introduce yourself in issue #20. If you don’t have one, you can always register [here](https://github.com/join?source=header-home) (It’s free!)
 
-2. **Email**<br>
-GitHub gives you a free and safe account, but if you don’t feel like to register your data on a new site just for the sake of one project, we respect that.
-<br>If you’d rather communicate through email, get in touch with [Sara T.](https://mozillians.org/u/sara_t/) We’ll incorporate your contributions on GitHub for you, giving you the appropriate credit.
+2. **Email**  
+GitHub gives you a free and safe account, but if you don’t feel like to register your data on a new site just for the sake of one project, we respect that.  
+If you’d rather communicate through email, get in touch with [Sara T.](https://mozillians.org/u/sara_t/) We’ll incorporate your contributions on GitHub for you, giving you the appropriate credit.
 
-3. **Mozilla Italia forum**<br>
-If you are a "community kind of guy/gal", you can also choose to register an account at the [Mozilla Italia Forum](https://forum.mozillaitalia.org/). You will receive all the instructions, resources and updates, as well as give back your feedback in [this thread](https://forum.mozillaitalia.org/index.php?topic=68578.0).
-<br>_Tip_: The Mozilla Italia Forum is the pulsing heart of the Italian community. We don’t just do localization, there are a ton of nice activities and discussions going around. Since you’re already there, please have a look around!
+3. **Mozilla Italia forum**  
+If you are a "community kind of guy/gal", you can also choose to register an account at the [Mozilla Italia Forum](https://forum.mozillaitalia.org/). You will receive all the instructions, resources and updates, as well as give back your feedback in [this thread](https://forum.mozillaitalia.org/index.php?topic=68578.0).  
+_Tip_: The Mozilla Italia Forum is the pulsing heart of the Italian community. We don’t just do localization, there are a ton of nice activities and discussions going around. Since you’re already there, please have a look around!
 
 ## How to contribute on GitHub
-- **Become a collaborator**
-<br>If you choose to contribute through GitHub, the first step is introduce yourself in issue #20 so that we can add you to the collaborators of the repository.
+- **Become a collaborator**  
+If you choose to contribute through GitHub, the first step is introduce yourself in issue #20 so that we can add you to the collaborators of the repository.
 
-- **Check issues**
-<br>Then we suggest to take a look at the open [issues](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/issues).<br>
-Notice the labels: you can freely leave your feedback or questions under the issues tagged `for new volunteers` and `we need your opinion!` <br>Replying to the checked questions in issues #20 and #7 is actually a good starting point for introducing yourself and helping us to understand how to make use of your talents! (hence they are labeled `good first bug`)
-<br>Also check out the label `help wanted` and `translation test` if you’d like to be assigned a particular task.
+- **Check issues**  
+Then we suggest to take a look at the open [issues](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/issues).  
+Notice the labels: you can freely leave your feedback or questions under the issues tagged `for new volunteers` and `we need your opinion!`  
+Replying to the checked questions in issues #20 and #7 is actually a good starting point for introducing yourself and helping us to understand how to make use of your talents! (hence they are labeled `good first bug`)  
+Also check out the label `help wanted` and `translation test` if you’d like to be assigned a particular task.
 
-- **Read & comment**
-<br>Also, be sure to read the [most recent draft](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/tree/master/Chapters) of the localization guide. You can freely discuss in the comment section of issue #6 any addition or enhancement to incorporate in the guide (please reference the relevant chapter, you can find the index at the top, in the description of issue #6).
+- **Read & comment**  
+Also, be sure to read the [most recent draft](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/tree/master/Chapters) of the localization guide. You can freely discuss in the comment section of issue #6 any addition or enhancement to incorporate in the guide (please reference the relevant chapter, you can find the index at the top, in the description of issue #6).
 
 If you want to propose a consistent change you’ve written, please make your changes in a separate branch, then make a pull request.
 
