@@ -125,7 +125,7 @@ Abbiamo collocato la nostra base operativa su GitHub in quanto era uno dei requi
 Vedremo, vedremo! Ho buone speranze per la diffusione di questa guida, non solo per via del nome Mozilla, ma anche grazie ai contatti che durante questo programma abbiamo allacciato con membri entusiasti e propositivi che si muovono nel panorama dell'Open Source. Ad ogni modo, il nostro obbiettivo non è far adottare ad altri questa guida, bensì diffondere le buone pratiche di localizzazione in tutto il Web. Quindi se altre comunità utilizzeranno questa guida come base per crearne una propria, o semplicemente prenderanno spunto da essa, per noi sarà già un trionfo.  
 
 
-Articolo del programma OLT: https://medium.com/read-write-participate/mozilla-italia-l10n-guide-e6f6d36b45bbArticolo Guida di localizzazione Mozilla Italia
+[original]: https://medium.com/read-write-participate/mozilla-italia-l10n-guide-e6f6d36b45bbArticolo Guida di localizzazione Mozilla Italia
 [mdn]: https://developer.mozilla.org
 [is7]: https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/issues/7
 [is20]: https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/issues/20
