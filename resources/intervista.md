@@ -1,6 +1,6 @@
 <span class="question">Perché serve una guida alla localizzazione?</span>
 
-La traduzione, specialmente nell’era della Globalizzazione, rappresenta un aspetto fondamentale delle nostre vite, dalla politica internazionale fino agli oggetti di uso quotidiano.
+La traduzione, specialmente nell’era della Globalizzazione, tocca molti aspetti fondamentali delle nostre vite, dalla politica internazionale fino agli oggetti di uso quotidiano.
 Una traduzione affidabile deve avere degli standard qualitativi: riflettere fedelmente i contenuti della lingua originale, ma anche essere scritta in un linguaggio corretto e comprensibile, privo di ambiguità, e adeguarsi di volta in volta al contesto culturale di arrivo. Deve inoltre rispettare precisione e coerenza terminologica, ovvero tradurre un termine ricorrente sempre nello stesso modo per rendere il suo riconoscimento univoco.
 
 ![Yoda Meme](https://img.memesuper.com/8c9b707e18b98b6c0d353f9d97212431_the-force-awakens-the-force-needs-5-more-minutes-yoda-starecatcom-the-force-awakens-meme-yoda_735-743.jpeg)
@@ -27,7 +27,7 @@ Permettimi di rispondere con un esempio di conversazione:
 
 >   - Guarda che la call è stata shiftata al lunch break. Ti ho mandato la request su Google Calendar, mi cecchi l'availability, please?
 
->   Eh, no! Non maccia con la mia time schedule: a quell'ora ho il business lunch con gli investor. Facciamo un po' una cosa, mi briffi tu durante il coffee break, che per il resto del pomeriggio ho tutto full…
+>   - Eh, no! Non maccia con la mia time schedule: a quell'ora ho il business lunch con gli investor. Facciamo un po' una cosa, mi briffi tu durante il coffee break, che per il resto del pomeriggio ho tutto full…
 
 ![](https://img.memesuper.com/288cb716fbf0d4c51632cf636c23f536_you-will-never-kill-meme-dont-understand_552-360.jpeg)
 
