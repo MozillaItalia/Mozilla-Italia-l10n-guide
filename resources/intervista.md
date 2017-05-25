@@ -1,7 +1,7 @@
 <span class="question">Perché serve una guida alla localizzazione?</span>
 
-La traduzione, specialmente nell’era della Globalizzazione, tocca molti aspetti fondamentali delle nostre vite, dalla politica internazionale fino agli oggetti di uso quotidiano.
-Una buona traduzione deve avere degli standard qualitativi: riflettere fedelmente i contenuti della lingua originale, ma anche essere scritta in un linguaggio corretto e comprensibile, privo di ambiguità, e adeguarsi di volta in volta al contesto culturale a cui è destinata. Deve essere inoltre accurata e coerente nell’uso della terminologia, ovvero un termine ricorrente va tradotto sempre nello stesso modo per rendere il suo riconoscimento univoco.
+La localizzazione, specialmente nell’era della Globalizzazione, tocca molti aspetti fondamentali delle nostre vite, dalla politica internazionale fino agli oggetti di uso quotidiano.
+Una buona localizzazione deve avere degli standard qualitativi: riflettere fedelmente i contenuti della lingua originale, ma anche essere scritta in un linguaggio corretto e comprensibile, privo di ambiguità, e adeguarsi di volta in volta al contesto culturale a cui è destinata. Deve essere inoltre accurata e coerente nell’uso della terminologia, ovvero un termine ricorrente va tradotto sempre nello stesso modo per rendere il suo riconoscimento univoco.
 
 ![Yoda Meme](https://img.memesuper.com/8c9b707e18b98b6c0d353f9d97212431_the-force-awakens-the-force-needs-5-more-minutes-yoda-starecatcom-the-force-awakens-meme-yoda_735-743.jpeg)
 
@@ -9,7 +9,7 @@ Una buona traduzione deve avere degli standard qualitativi: riflettere fedelment
 
 Significa la differenza tra una tecnologia “amica”, che funziona (e utenti soddisfatti), e il caos tecnologico (con utenti furibondi).
 
-Prendiamo per esempio le istruzioni per impostare un account email. Nelle istruzioni leggi “Premi il pulsante Accedi”, mentre nell’interfaccia il pulsante è chiamato “Entra” (entrambe validissime traduzioni di “Log in”). 
+Prendiamo per esempio le istruzioni per impostare un account email. Nelle istruzioni leggi “Premi il pulsante Accedi”, mentre nell’interfaccia il pulsante è chiamato “Entra” (entrambe validissime traduzioni di “Log in”).
 
 “Che pignoleria! Sono sinonimi e si capisce lo stesso.” direbbero in molti.
 
@@ -25,7 +25,7 @@ Ora un utente può iniziare ad apprezzare il valore di un po’ di sana pignoler
 
 Permettimi di rispondere con un esempio di conversazione:
 
- \- “Guarda che la call è stata shiftata al lunch break. Ti ho mandato la request su Google Calendar, mi cecchi l'availability, please?”  
+ \- “Guarda che la call è stata shiftata al lunch break. Ti ho mandato la request su Google Calendar, mi cecchi l'availability, please?”
  \- “Eh, no! Non maccia con la mia time schedule: a quell'ora ho il business lunch con gli investor. Facciamo un po' una cosa, mi briffi tu durante il coffee break, che per il resto del pomeriggio ho tutto full…”
 
 ![](https://img.memesuper.com/288cb716fbf0d4c51632cf636c23f536_you-will-never-kill-meme-dont-understand_552-360.jpeg)
@@ -44,7 +44,7 @@ L’obiettivo di Mozilla Italia è invece instaurare tra l’utente e le nuove t
 
 Uno dei punti forti di Mozilla infatti è sempre stato la localizzazione in un elevato numero di lingue, in modo da limitare le difficoltà di utilizzo da parte degli utenti e farli sentire “a casa” quando utilizzano i nostri prodotti, non importa in che Paese si trovino.
 
-Un altro obiettivo è favorire lo sviluppo di una forte comunità di sviluppatori italiana. Tramite la traduzione vogliamo aiutare gli sviluppatori che hanno un rapporto problematico con l’inglese e, contemporaneamente, alzare il livello qualitativo delle traduzioni tecniche grazie alla diffusione di buone pratiche di traduzione, di una maggiore attenzione alla forma e consapevolezza dell’utilità di una terminologia italiana. Per questo durante la stesura della guida ci avvaliamo anche della spervisione di un gruppo di sviluppatori italiani.
+Un altro obiettivo è favorire lo sviluppo di una forte comunità di sviluppatori italiana. Tramite la traduzione vogliamo aiutare gli sviluppatori che hanno un rapporto problematico con l’inglese e, contemporaneamente, alzare il livello qualitativo delle traduzioni tecniche grazie alla diffusione di buone pratiche di traduzione, di una maggiore attenzione alla forma e consapevolezza dell’utilità di una terminologia italiana. Per questo durante la stesura della guida ci avvaliamo anche della supervisione di un gruppo di sviluppatori italiani.
 
 Quando si parla di tecnologia, in particolare di nuove tecnologie, sbagliare è (pur)troppo facile. Mi viene in mente una discussione che abbiamo avuto riguardo alla traduzione di un articolo su [MDN]().
 Riguardava la traduzione di *responsive design*, in parole povere come far sì che un sito Web si adatti allo schermo di dispositivi diversi.
@@ -77,7 +77,7 @@ Sì e no. Alcune parti della guida fanno riferimento in modo specifico alla ling
 
 È una domanda molto interessante. Ecco due esempi in cui la guida potrebbe essere utile:
 
-1. La localizzazione è ormai un fattore decisivo nel successo di software, siti e altri progetti web. Per questo gli sviluppatori *open source* che vogliono realizzare progetti multilingua possono trarre giovamento dal conoscere i meccanismi della localizzazione, in modo da predisporre fin da subito il loro progetto per una traduzione ottimale (senza penosi aggiustamenti dell’ultimo minuto), ma anche venire a conoscenza degli strumenti aperti e gratuiti che hanno a disposizione per rendere il loro progetto internazionale.
+1. La localizzazione è ormai un fattore decisivo nel successo di software, siti e altri progetti web. Per questo gli sviluppatori del mondo *open source* che vogliono realizzare progetti multilingua possono trarre giovamento dal conoscere i meccanismi della localizzazione, in modo da predisporre fin da subito il loro progetto per una traduzione ottimale (senza penosi aggiustamenti dell’ultimo minuto), ma anche venire a conoscenza degli strumenti aperti e gratuiti che hanno a disposizione per rendere il loro progetto internazionale.
 
 2. Il flusso di lavoro presentato nella guida, che abbiamo affinato negli anni per coordinarci ottimizzando la qualità del risultato e le tempistiche, è stato pensato per la traduzione. Tuttavia, con gli opportuni adattamenti, è un metodo di lavoro in grado di portare beneficio a molti tipi di progetto collaborativo.
 
@@ -95,7 +95,7 @@ Sì e no. Alcune parti della guida fanno riferimento in modo specifico alla ling
 
  *Read & Review* consiste nel leggere [la prima bozza della guida](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/tree/master/it) e inserire domande, commenti, suggerimenti;
 
- *Translate* è la più interessante: contiene dei mini-progetti di traduzione (siti web, pagine wiki e altro) in attesa di un traduttore. Chi lo desidera può scegliere un progetto da localizzare per mettere in pratica le regole della guida. 
+ *Translate* è la più interessante: contiene dei mini-progetti di traduzione (siti web, pagine wiki e altro) in attesa di un traduttore. Chi lo desidera può scegliere un progetto da localizzare per mettere in pratica le regole della guida.
 
 Non è obbligatorio leggere l’intera guida o cimentarsi nella traduzione per dare una mano! Per esempio ci servono anche pareri esterni dagli sviluppatori, che possono leggere e commentare questi singoli capitoli:
 
@@ -115,7 +115,7 @@ Abbiamo collocato la nostra base operativa su GitHub in quanto era uno dei requi
 
 <span class="question">Come pensi sarà questa guida fra un anno? Verrà utilizzata anche in progetti esterni al mondo Mozilla?</span>
 
-Vedremo, vedremo! Ho buone speranze per la diffusione di questa guida, non solo per via del nome Mozilla, ma anche grazie ai contatti che durante questo programma abbiamo allacciato con membri entusiasti e propositivi che si muovono nel panorama dell’*open source*. Ad ogni modo, il nostro obbiettivo non è far adottare ad altri la nostra guida, bensì diffondere le buone pratiche di localizzazione in tutto il Web. Quindi se altre comunità utilizzeranno la guida come base per crearne una propria, o semplicemente prenderanno spunto da essa, per noi sarà già un trionfo.  
+Vedremo, vedremo! Ho buone speranze per la diffusione di questa guida, non solo per via del nome Mozilla, ma anche grazie ai contatti che durante questo programma abbiamo allacciato con membri entusiasti e propositivi che si muovono nel panorama dell’*open source*. Ad ogni modo, il nostro obbiettivo non è far adottare ad altri la nostra guida, bensì diffondere le buone pratiche di localizzazione in tutto il Web. Quindi se altre comunità utilizzeranno la guida come base per crearne una propria, o semplicemente prenderanno spunto da essa, per noi sarà già un trionfo.
 
 
 [original]: https://medium.com/read-write-participate/mozilla-italia-l10n-guide-e6f6d36b45bb
