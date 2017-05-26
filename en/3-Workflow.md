@@ -1,5 +1,41 @@
 # Workflow
 
+**Table of Contents**
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Workflow](#workflow)
+	- [Collaborative translation: the good and the bad](#collaborative-translation-the-good-and-the-bad)
+	- [QA: three phases for assuring quality](#qa-three-phases-for-assuring-quality)
+	- [The efforts behind a piece of translation](#the-efforts-behind-a-piece-of-translation)
+	- [Collaborative translation tools](#collaborative-translation-tools)
+	- [Pontoon](#pontoon)
+		- [User Interface (UI)](#user-interface-ui)
+			- [Phase 1: Translation](#phase-1-translation)
+			- [Phase 2: QA](#phase-2-qa)
+			- [Phase 3: Implementing QA](#phase-3-implementing-qa)
+	- [Poedit](#poedit)
+		- [Settings](#settings)
+			- [Setting personal info](#setting-personal-info)
+			- [Setting project languages](#setting-project-languages)
+			- [Setting a translation memory](#setting-a-translation-memory)
+		- [UI](#ui)
+			- [Marking strings for QA](#marking-strings-for-qa)
+		- [Phase 1: Translation](#phase-1-translation)
+		- [Phase 2: QA](#phase-2-qa)
+		- [Phase 3: Implementing QA](#phase-3-implementing-qa)
+	- [MDN](#mdn)
+		- [Settings and UI](#settings-and-ui)
+			- [Translate description](#translate-description)
+			- [Translate content](#translate-content)
+			- [Translate tags](#translate-tags)
+			- [Version notes](#version-notes)
+		- [Tracking changes for the QA](#tracking-changes-for-the-qa)
+		- [Phase 1: Translation](#phase-1-translation)
+		- [Phase 2: QA](#phase-2-qa)
+		- [Phase 3: Implementing QA](#phase-3-implementing-qa)
+
+<!-- /TOC -->
+
 ## Collaborative translation: the good and the bad
 
 Collaborative translation, especially in a context of volunteer-run communities, may be an incredibly enriching experience.
