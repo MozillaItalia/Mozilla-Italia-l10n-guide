@@ -5,13 +5,12 @@ This chapter lists several of the so called “translation best practices”, a 
 The chapter is meant to be kept close at hand and checked often during translation. Use the table of contents to find quickly the topic you need.
 
 **Table of contents**
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Quality standards](#quality-standards)
 - [Localization](#localization)
 	- [Date formats](#date-formats)
 	- [Digit formats](#digit-formats)
-	- [Proper nouns and Tradmark names](#proper-nouns-and-tradmark-names)
+	- [Proper nouns and Trademark names](#proper-nouns-and-trademark-names)
 - [Punctuation](#punctuation)
 	- [Period](#period)
 	- [Exclamation Point](#exclamation-point)
@@ -25,8 +24,6 @@ The chapter is meant to be kept close at hand and checked often during translati
 	- [Theme of the sentence](#theme-of-the-sentence)
 - [Vocabulary and register](#vocabulary-and-register)
 - [Linguistic traps](#linguistic-traps)
-
-<!-- /TOC -->
 
 ## Quality standards
 A technical translation of good quality must fulfill the following requirements:
@@ -84,7 +81,7 @@ Conversely, in other parts of the world such as Europe, the comma is used as a d
 
 **N.B.** It should be mentioned possible confusion about the word “billion”, which in American and modern British English is defined by the [short scale](https://en.wikipedia.org/wiki/Long_and_short_scales) as *one thousand million*, but sometimes in the UK is also intended by the long scale definition of *one million million* (incidentally, a *trillion* by the short scale).
 
-### Proper nouns and Tradmark names
+### Proper nouns and Trademark names
 
 Proper names should never been translated. If you need to transliterate a name in your alphabet, check if an official transliteration already exist. If not, apply the proper transliteration rules of your country.
 
