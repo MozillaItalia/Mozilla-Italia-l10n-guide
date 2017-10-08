@@ -15,7 +15,7 @@ Nella veste più ampia di membri della comunità Mozilla, abbracciamo e facciamo
 
 Per questo invitiamo i colleghi localizzatori di altre lingue e comunità a utilizzare liberamente questa guida, integrandola ed adattandola alle proprie esigenze per creare una propria versione personalizzata che meglio si adatti ai meccanismi interni e al metodo di lavoro delle loro comunità.
 
-Allo stesso modo, chiunque lo desideri, può contribuire a rendere questo documento sempre più completo e inclusivo, partecipando alla stesura delle future versioni su [GitHub](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/).
+Allo stesso modo, chiunque lo desideri, può contribuire a rendere questo documento sempre più completo e inclusivo, partecipando alla stesura delle future versioni su [GitHub](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/).
 
 
 ### Mozilla Italia
