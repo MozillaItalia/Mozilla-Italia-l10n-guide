@@ -35,14 +35,14 @@ ROLE: write a first draft of the guide based on their experiences.
 
 - **New volunteers:** a (we hope!) as diverse as possible group of contributors ranging from independent translators to occasional contributors down to people at their first translation experience. The more different are the contributors’ background, the more comprehensive will the guide be!  
 ROLE:
- 1. read or download the first draft of the guide on [GitBooks](https://kitsunenosarat.gitbooks.io/mozilla-italia-l10n-guide/content/)
+ 1. read or download the first draft of the guide on [GitBooks](https://mozillaitalia.gitbooks.io/l10n-guide/)
  2. test the guide on a short translation project (Italian only)^
  3. contribute to the second draft with their feedback on this experience.
 
 ^ Note: During the testing you may be asked to register a free account on [Pontoon](https://pontoon.mozilla.org/), the dedicated online translation platform of Mozilla, [MDN](https://developer.mozilla.org/), the Mozilla Wiki for developers, or install and use free, open source aided translation tools such as [OmegaT](http://omegat.org/) or [Poedit](https://poedit.net/).
 
 **For Non-Italian users**  
-You’ll find a [subproject](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/projects/2) dedicated to the English version of the guide. You are very welcome to:
+You’ll find a [subproject](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/projects/2) dedicated to the English version of the guide. You are very welcome to:
 1. give lots of feedback, pointing out mistakes and adding examples, exceptions or peculiarity of your language;
 2. use this draft as reference material to create a new localization manual for your language and/or community.
 
@@ -65,7 +65,7 @@ _Tip!_ The Mozilla Italia Forum is the pulsing heart of the Italian community. W
 If you choose to contribute through GitHub, the first step is introduce yourself in issue #20. You can also take a short survey in issue #7 to help us learn more about your motives and aspirations.
 
 - **Check issues**  
-After that, we suggest to use the [project page](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/projects/) for easier browsing through issues. Watch out for these two columns:
+After that, we suggest to use the [project page](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/projects/) for easier browsing through issues. Watch out for these two columns:
 
   - **Read & Review**  
 Read the various thematic chapters of the guide and leave your feedback in the dedicated issue!
@@ -73,7 +73,7 @@ Read the various thematic chapters of the guide and leave your feedback in the d
   - **Translate** (Italian only)  
 Pick a mini-translation project and start translating, applying what you learned in the guide!
 
-  Alternatively you can directly filter [issues](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/issues) using the labels:
+  Alternatively you can directly filter [issues](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/issues) using the labels:
 
   `good first bug`: a good starting point to introduce yourself and helping us to understand how to make use of your talents;
 
