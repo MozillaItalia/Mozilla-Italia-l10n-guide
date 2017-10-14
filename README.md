@@ -56,16 +56,16 @@ Don’t forget to go through our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to lea
 Don’t hesitate to get in touch with us for any question!
 
 * **Sara Todaro** - *Senior volunteer translator*  
-[GitHub](https://github.com/kitsunenosaraT), [Mozillians](https://mozillians.org/u/sara_t/)
+[GitHub](https://github.com/MozillaItalia), [Mozillians](https://mozillians.org/u/sara_t/)
 * **Sandro Della Giustina** - *Senior volunteer translator*  
 [GitHub](https://github.com/gialloporpora), [Mozillians](https://mozillians.org/u/gialloporpora/)
 * **Elio Giugliano** - *Volunteer translator*  
 [GitHub](https://github.com/eliogi), [Mozillians](https://mozillians.org/it/u/coldair/)
 
-See also the list of [contributors](https://github.com/kitsunenosaraT/mozilla-italia-l10n-guide/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/MozillaItalia/mozilla-italia-l10n-guide/contributors) who participated in this project.
 
 ### Communication Channels
-* [GitHub repository](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide)
+* [GitHub repository](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide)
 * [Mozilla Italia Forum](https://forum.mozillaitalia.org/)
 * [Mozilla Contribute page](http://www.mozilla.org/it/contribute/)
 * [Email the project leader](https://mozillians.org/u/sara_t/)

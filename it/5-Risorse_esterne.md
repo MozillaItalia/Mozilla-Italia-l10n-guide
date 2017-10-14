@@ -125,7 +125,7 @@ Un ottimo dizionario che ci sentiamo di consigliare è quello Treccani, per aggi
 e il rispettivo dizionario di sinonimi e contrari:
 
 	http://www.treccani.it/vocabolario/%s_(Sinonimi-e-Contrari)/
-	
+
 Si faccia però attenzione quando si cercano le parole con lettere accentate, il motore di ricerca non riconosce le lettere acentate, quindi per cercare, ad esempio il significato o un sinonimo di *accessibilità* digitare `accessibilita` sostituendo la `a` finale con una `a` normale.
 
 Un altro ottimo dizionario è il [De Mauro][demauro], ospitato sul sito del quotidiano Internazionale.
@@ -333,4 +333,4 @@ Per il momento è possibile consultare una prima bozza di questa sezione in [que
 [camenit]: https://dictionary.cambridge.org/it/dizionario/inglese-italiano/
 [rep]: http://dizionari.repubblica.it/inglese.php
 [wen]: https://en.wikipedia.org
-[issue]: https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/issues
+[issue]: https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/issues
