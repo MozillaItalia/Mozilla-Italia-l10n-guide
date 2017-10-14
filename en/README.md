@@ -8,7 +8,7 @@ We are a group of volunteers passionate about localization and open source. Our 
 
 The guide was conceived as a sort of manual for volunteers joining the [Mozilla Italia](https://www.mozillaitalia.org/) l10n team. However we believe in the Open philosophy, therefore we welcome fellow localizers from other communities and languages to participate, discuss, give their input and remix or adapt the guide for their own needs.
 
-**If you want to help us make this documentation even more comprehensive and inclusive, please join us on [GitHub](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/) and suggest enhancements for the next version of the guide.**
+**If you want to help us make this documentation even more comprehensive and inclusive, please join us on [GitHub](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/) and suggest enhancements for the next version of the guide.**
 
 ### What does it take to become a contributor?
 * good command of the English language, *very* good command of your native language

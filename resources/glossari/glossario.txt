@@ -18,6 +18,7 @@ Certificate Authority	Autorità di Certificazione (CA)
 Chairperson	presidente	
 Clear	cancella	non usare pulisci che mi sembra sia meno usato come traducente (almeno in ambito software)
 Comic Mischief	Comicità grossolana o allusiva	#descrittore
+Committee on Legal Affairs of EU (JURI)	Commissione giuridica del Parlamento europeo	
 Component Object model	modello a oggetti per componenti 	
 Content Delivery Network	Rete per la consegna di contenuti	viene usato anche l'acronimo CDN per indicarla
 Contribute	fai una donazione, contribuisci	
@@ -32,6 +33,7 @@ Detail page	Pagina dell'estensione / del tema.	Viene usato anche scheda completa
 Developer Hub	Centro di sviluppo	
 Developer Preview Phone	prototipo per sviluppatori	
 Developer Tools dashboard	Dashboard Strumenti di sviluppo	
+Digital Single Market	Mercato unico europeo	
 Directory Tiles	Riquadri catalogo	
 Doc	Documentazione	
 EU	Comunità europea	se è chiaro nel contesto si può usare Europa quando ci sono limiti di spazio.
@@ -51,7 +53,7 @@ General Counsel	rappresentante /consulente legale
 Get Involved	collabora con (noi)	
 Guest browsing navigazione in modalità ospite	è una caratteristica di Firefox per Android che consente di condividere il browser con amici senza condividere i dati di navigazione.
 HTML	HTML	Acronimo di Hypertext Markup Language, anche nella versione HTML5
-Health	salute	ma anche benessere
+Health	salute	ma anche benessere o integrità se usato  per Internet (anche se salute ha iniziato a sostituire integrità nelle ultime traduzioni)
 History	Cronologia	
 ICYMI	In Case You Missed It	acronimo. In caso non ti fosse giunta la voce, nel caso in cui il contesto consenta frasi lunghe a piacere. Per i tweet #sapevatelo.
 IRC	IRC	L' Internal Revenue Code (IRC) è il testo legislativo che dal 1954 raggruppa tutti i tax acts (le leggi fiscali) approvati dal Congresso dopo essere state esaminate prima dalla Camera dei Rappresentanti, ed eventualmente emendate dal Senato, e poi promulgate dal Presidente (l'ultima versione profonda dell' IRC risale al 27 settembre 1986 con il Tax Reform Act redatto sotto il governo dell'allora Presidente Ronald Reagan).
@@ -158,6 +160,7 @@ all time	di sempre
 allow	permettere	consentire
 allowed	consentito	
 also	anche	anche inoltre
+amendment	emendamento	
 amount	somma, importo, ammontare, cifra, totalizzato	dipende dal contesto. Amount earned = guadagno totalizzato
 amount earned	guadagno totalizzato	
 any	qualunque, qualsiasi	
@@ -173,6 +176,7 @@ as soon as	non appena
 ask	chiedere, domandare, porre una domanda	
 asset	asset	risorsa, bene
 at least	almeno	
+at stake	in gioco	è in palio
 attach	allegare	nel contesto di Firefox OS Simulator è usato per indicare il collegamento di uno strumento di sviluppo all'app in esecuzione nel Simulatore. In questo caso usare collegare.
 attachment	allegato	
 audience	pubblico	
@@ -268,7 +272,7 @@ context menu	menu contestuale
 continue	continua, prosegui, vai	dipende dal contesto
 contributing	contribuire, donare	
 cookie	cookie	
-copyright	copyright	
+copyright	copyright	diritto d’autore
 could not be	non è possibile	
 council	consiglio	
 country	stato	geografico. Se tradotto con Paese usare la maiuscola
@@ -285,6 +289,7 @@ customize	personalizzare
 cut	taglia	
 daily	per giorno giornalieri, giornalmente.
 dashboard	Pannello, Dashboard	pannello (anche se in alcuni casi è lasciato in inglese). Pannello statistiche (viene tradotto), Dashboard Strumenti di sviluppo e Dashboard localizzatori no.
+death blow	golpo di grazia	
 debug	debug	è il processo mediante il quale si trovano e si risolvono (patching) gli errori di programmazione. Chiamato così perché uno dei primi debug fu fatto per rimettere in funzione il computer Harvard Mark II andato in avaria (crash) a causa di una falena entrata nei circuiti.
 decode	decodificare	Vedi encode.
 decode/-ing	decifrare	
@@ -454,6 +459,7 @@ improve	migliorare
 in-app	in-app	
 in-app payment	pagamenti in-app	è la possibilità che hanno le app di poter vendere direttamente beni agli utenti, tipo vendere un MP3 ascoltato con un'app musicale.
 in-app product	prodotto in-app	
+influential	autorevole	influente
 inline scripting	script inline	o anche incorporato
 inspector	strumento di analisi	(del codice)
 into the hand	distribuire	letteralmente mettere nelle mani, distribuire (cosa) a (chi)
@@ -478,6 +484,7 @@ launch	avviare, eseguire	ma anche apertura (launch of Marketplace)
 layout	aspetto	
 leaderboard	classifica	
 leak	perdita	
+lean, mean	ad alte prestazioni	In generale, lean, mean, viene usato per indicare che si è sia leggeri che aggressivi,, nel caso di Mozilla ci si riferisce alle prestazioni. Anche agile e scattante.
 learn more	ulteriori informazioni, maggiori informazioni, scopri	ulteriori informazioni come traducente principale, ma si può adeguare alla particolare stringa
 legacy	utilizza tecnologia obsoleta	la traduzione dipende dal contesto, con il termine legacy vengono indicate dei software/applicazioni che sfruttano una tecnologia non più supportata o deprecata (esempio con WebExtension le estensioni basate su XUL vengono deprecate).
 legal alien	immigrato regolare	
@@ -525,6 +532,7 @@ media	media
 media outlet	organi di stampa	
 meet your needs	adattarlo alle proprie esigenze	
 member	membro	
+member of european Parliament		europarlamentare	eurodeputato, membro del Parlamento europeo.
 meme	meme	usare meme anche al plurale
 memory leak	perdite di memoria	
 menu	menu
@@ -744,7 +752,7 @@ slider	dispositivo di scorrimento
 slow down	rallentare	
 slug	slug	è il nome con cui viene indicata la pagina nel link, http://google.com/pagina+contatti pagina+contatti è lo slug
 smart	intelligente	
-snippet	esempio di codice	letteralmente è frammento/ritaglio di codice, io userei esempio
+snippet	esempio di codice	letteralmente è frammento/ritaglio di codice, io userei esempio Usato anche per i frammenti/stralci delle notizie.
 solid	consistente	
 source	fonte	se riferito al codice, sorgente se in un comando (Visualizza sorgente), se in una frase complessa si può esplicitare con codice sorgente
 source code	codice sorgente
