@@ -21,7 +21,7 @@ Negli Stati Uniti, in Canada e nel Regno Unito gli utenti che hanno riportato di
 <b>#3: Quando si tratta di prodotti connessi, ogni persona in tutto il mondo ha un parere differente</b>
 <p>
 L’Argentina, il Brasile e il Messico sono gli stati che annoverano più utenti possessori di smart TV, circa il 50% delle persone ha riferito di possederne una, contro una percentuale mondiale del 40%.
-Gli intervistati statunitensi hanno la media più alta sul possesso di fitness tracker (20%), automobile smart 15%) e termostati connessi (8%).
+I partecipanti statunitensi hanno la media più alta sul possesso di fitness tracker (20%), automobile smart 15%) e termostati connessi (8%).
 Invece, i partecipanti provenienti dall’India e dal Brasile hanno la media più alta per quanto riguarda gli elettrodomestici intelligenti, 15% contro la media mondiale del 7%.
 </p>
 
@@ -37,7 +37,7 @@ Anche Messico e Brasile si annoverano tra i paesi generalmente più ottimistici.
 
 <b>#5: Ovunque le persone temono di perdere la propria privacy</b>
 <p>
-Alla domanda <em>Qual è l’aspetto che li spaventa di più su un futuro digitalmente connesso</em>, la stragrande maggioranza di utenti ha risposto (45%) <em>L’invasione della privacy</em>. Nei paesi in cui si è registrata una maggiore partecipazione al sondaggio, la privacy è indicata come la principale preoccupazione degli intervistati a parte in Italia dove la <em>perdita di contatto umano</em> rappresenta la preoccupazione più grande rispetto a un futuro digitalmente connesso.
+Alla domanda <em>Qual è l’aspetto che li spaventa di più su un futuro digitalmente connesso</em>, la stragrande maggioranza di utenti ha risposto (45%) <em>L’invasione della privacy</em>. Nei paesi in cui si è registrata una maggiore partecipazione al sondaggio, la privacy è indicata come la principale preoccupazione degli utenti a parte in Italia dove la <em>perdita di contatto umano</em> rappresenta la preoccupazione più grande rispetto a un futuro digitalmente connesso.
 </p>
 
 <p>
