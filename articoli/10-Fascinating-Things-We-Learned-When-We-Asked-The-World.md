@@ -18,10 +18,10 @@ Circa 189.770 persone, partendo dall’Andorra per arrivare fino alla Zambia, ha
 Negli Stati Uniti, in Canada e nel Regno Unito gli utenti che hanno riportato di possedere un portatile sono più numerosi rispetto a quelli che possiedono lo smartphone. Nella maggior parte degli stati al di fuori dell’America settentrionale e del Regno Unito, inclusi Brasile, India, Argentina, Messico, Italia e Spagna, più utenti hanno riportato invece di possedere uno smartphone rispetto a un portatile. Dal sondaggio è stato possibile identificare che le persone con conoscenza tecnica inferiore preferiscono avere un portatile piuttosto che uno smartphone.
 </p>
 
-<b>#3: Quando si tratta di prodotti connessi, ogni persona in tutto il mondo ha un parere differente</b>
+<b>#3: Quando si tratta di prodotti connessi, ogni Paese del mondo ha un parere differente</b>
 <p>
 L’Argentina, il Brasile e il Messico sono gli stati che annoverano più utenti possessori di smart TV, circa il 50% delle persone ha riferito di possederne una, contro una percentuale mondiale del 40%.
-I partecipanti statunitensi hanno la media più alta sul possesso di fitness tracker (20%), automobile smart 15%) e termostati connessi (8%).
+I partecipanti statunitensi hanno la percentuale più alta sul possesso di fitness tracker (20%), automobili smart 15%) e termostati connessi (8%).
 Invece, i partecipanti provenienti dall’India e dal Brasile hanno la media più alta per quanto riguarda gli elettrodomestici intelligenti, 15% contro la media mondiale del 7%.
 </p>
 
@@ -31,13 +31,13 @@ Più gli utenti sono esperti di tecnologia e più sono ottimisti. Infatti, le pe
 </p>
 
 <p>
-I partecipanti al sondaggio indiani, si è evinto che, sono molto ottimisti sul futuro digitalmente connesso, circa il 25% delle persone sono "<em>entusiaste</em>", paragonato ad una media mondiale del 7%.
+I partecipanti al sondaggio indiani, si è evinto, sono molto ottimisti sul futuro digitalmente connesso, circa il 25% delle persone sono "<em>entusiaste</em>", paragonato ad una media mondiale del 7%.
 Anche Messico e Brasile si annoverano tra i paesi generalmente più ottimistici. Al contrario, gli abitanti di Belgio, Francia, Regno Unito, Svizzera e Stati Uniti hanno espresso timore verso un futuro più connesso.
 </p>
 
 <b>#5: Ovunque le persone temono di perdere la propria privacy</b>
 <p>
-Alla domanda <em>Qual è l’aspetto che li spaventa di più su un futuro digitalmente connesso</em>, la stragrande maggioranza di utenti ha risposto (45%) <em>L’invasione della privacy</em>. Nei paesi in cui si è registrata una maggiore partecipazione al sondaggio, la privacy è indicata come la principale preoccupazione degli utenti a parte in Italia dove la <em>perdita di contatto umano</em> rappresenta la preoccupazione più grande rispetto a un futuro digitalmente connesso.
+Alla domanda <em>Qual è l’aspetto che ti spaventa di più su un futuro digitalmente connesso</em>, la stragrande maggioranza di utenti ha risposto (45%) <em>L’invasione della privacy</em>. Nei paesi in cui si è registrata una maggiore partecipazione al sondaggio, la privacy è indicata come la principale preoccupazione degli utenti a parte in Italia dove la <em>perdita di contatto umano</em> rappresenta la preoccupazione più grande rispetto a un futuro digitalmente connesso.
 </p>
 
 <p>
@@ -53,20 +53,20 @@ Un terzo dei partecipanti ritiene che "I produttori dei rispettivi dispositivi e
 Gli utenti più esperti ritengono che la responsabilità spetti al singolo individuo, mentre gli utenti medi e i meno esperti sostengono che debbano essere i produttori dei dispositivi a proteggere e a garantire la loro privacy. In Stati Uniti, Canada e Svizzera viene maggiormente percepito il concetto di "responsabilità individuale", mentre gli utenti che attribuiscono ai produttori la responsabilità di garantire privacy e sicurezza sono concentrati in Spagna, Francia, India e Brasile.
 </p>
 
-<b>#7: Le persono sono sicure di chi affidarsi per la loro sicurezza online<b>
+<b>#7: Le persone non sanno a chi affidare la propria sicurezza online<b>
 <p>
   La maggioranza dei partecipanti, circa il 40%, ha risposto che confida in "Organizzazioni non-profit come Mozilla e Altroconsumo" per la propria sicurezza online. Chi si ritiene più esperto si fida di più delle organizzazioni non-profit.
   Sul lato opposto, il 27% delle persone intervistate non sanno su chi poter fare realmente affidamento.
   La percentuale sale a 45% tra coloro che si sono identificati come meno esperti. Quasi nessuno ha risposto di avere fiducia nei Media (3%) o nel governo (2%) per la propria protezione online.
 </p>
   
-<b>#8:  Le persone non sembrano affatto entusiaste di un futuro sempre più connesso</b>
+<b>#8: Le persone non sembrano affatto entusiaste di un futuro sempre più connesso</b>
 <p>
 La risposta più frequente alla domanda "Qual è l’aspetto che ti intriga maggiormente di un futuro digitalmente sempre più connesso?" è stata "<em>Nessuna delle precedenti</em>" (27%). Le persone in Canada, in Francia, nel Regno Unito e negli Stati Uniti vedono meno vantaggi in un futuro più connesso.
 </p>
 
 <p>
-Le persone che sono più emozionata su un futuro più connesso credono che "<em>Tutto sarà molto più semplice</em> (26,7%).
+I ferventi sostenitori di un futuro più connesso credono che "<em>Tutto sarà molto più semplice</em>" (26,7%).
   Gli utenti brasiliani si sono distinti per la loro fiducia nel potenziale dei dispositivi connessi di semplificare la vita: il 44% delle risposte identifica questo come il beneficio principale. In India pensano che "<em>L’apprendimento sarà più veloce e tutti saremo più intelligenti</em>" (32%).
 </p>
 
@@ -83,7 +83,7 @@ Le persone che sono più emozionata su un futuro più connesso credono che "<em>
   Gli unici due termini a cui più della metà dei partecipanti saprebbero dare una spiegazione sono "VPN" (Virtual Private Network) e "Dispositivi connessi".
 </p>
 
-<p>A Mozilla crediamo che i dati dovrebbero essere aperti e accessibili a tutti. Puoi consultare i dati raccolti durante il sondaggio ai link riportati di seguito.
+<p>In Mozilla crediamo che i dati dovrebbero essere aperti e accessibili a tutti. Puoi consultare i dati raccolti durante il sondaggio ai link riportati di seguito.
   </p>
 <ul>
 <li><a href="insertlink">Raw survey data</a> (.csv file, XX mb)</li>
