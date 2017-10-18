@@ -6,7 +6,7 @@ Quando abbiamo effettuato il nostro sondaggio ad Agosto su <em>Quanto sei connes
 
 <b>#1: Alle persone di tutto il mondo piace rispondere a sondaggi</b>
 <p>
-Circa 189.770 persone, partendo dall’Andorra per arrivare fino alla Zambia, hanno risposto al sondaggio. La maggior parte delle risposte provengono dalla Francia (18%), dall’Italia (15%), dalla Germania (13%), dagli Stati Uniti (11%) e dal Brasile (7%).
+Circa 189.770 persone, partendo dall’Andorra per arrivare fino allo Zambia, hanno risposto al sondaggio. La maggior parte delle risposte provengono dalla Francia (18%), dall’Italia (15%), dalla Germania (13%), dagli Stati Uniti (11%) e dal Brasile (7%).
 </p>
 
 <img>
@@ -21,7 +21,7 @@ Negli Stati Uniti, in Canada e nel Regno Unito gli utenti che hanno riportato di
 <b>#3: Quando si tratta di prodotti connessi, ogni Paese del mondo ha un parere differente</b>
 <p>
 L’Argentina, il Brasile e il Messico sono gli stati che annoverano più utenti possessori di smart TV, circa il 50% delle persone ha riferito di possederne una, contro una percentuale mondiale del 40%.
-I partecipanti statunitensi hanno la percentuale più alta sul possesso di fitness tracker (20%), automobili smart 15%) e termostati connessi (8%).
+I partecipanti statunitensi hanno la percentuale più alta sul possesso di fitness tracker (20%), automobili smart (15%) e termostati connessi (8%).
 Invece, i partecipanti provenienti dall’India e dal Brasile hanno la media più alta per quanto riguarda gli elettrodomestici intelligenti, 15% contro la media mondiale del 7%.
 </p>
 
@@ -53,7 +53,7 @@ Un terzo dei partecipanti ritiene che "I produttori dei rispettivi dispositivi e
 Gli utenti più esperti ritengono che la responsabilità spetti al singolo individuo, mentre gli utenti medi e i meno esperti sostengono che debbano essere i produttori dei dispositivi a proteggere e a garantire la loro privacy. In Stati Uniti, Canada e Svizzera viene maggiormente percepito il concetto di "responsabilità individuale", mentre gli utenti che attribuiscono ai produttori la responsabilità di garantire privacy e sicurezza sono concentrati in Spagna, Francia, India e Brasile.
 </p>
 
-<b>#7: Le persone non sanno a chi affidare la propria sicurezza online<b>
+<b>#7: Le persone non sanno a chi affidare la propria sicurezza online</b>
 <p>
   La maggioranza dei partecipanti, circa il 40%, ha risposto che confida in "Organizzazioni non-profit come Mozilla e Altroconsumo" per la propria sicurezza online. Chi si ritiene più esperto si fida di più delle organizzazioni non-profit.
   Sul lato opposto, il 27% delle persone intervistate non sanno su chi poter fare realmente affidamento.
