@@ -86,10 +86,9 @@ Gli unici due termini a cui più della metà dei partecipanti saprebbero dare un
 In Mozilla crediamo che i dati dovrebbero essere aperti e accessibili a tutti. Puoi consultare i dati raccolti durante il sondaggio ai link riportati di seguito.
 
 <ul>
-<li><a href="insertlink">Dati grezzi</a> (.csv, XX mb)</li>
-<li><a href="insertlink">Risultati del sondaggio</a> (.pdf)</li>
-<li><a href="insertlink">Risultati per Paese</a> (.pdf)</li>
-<li><a href="insertlink">Risultati per canale</a> (.pdf)</li>
-<li><a href="insertlink">Risultati per grado di esperienza tecnologica degli utenti</a> (.pdf)</li>
+<li><a href="https://drive.google.com/file/d/0B5UMbl9u1_wQc2l0ZTU0dTdoYnM/view">Dati grezzi</a> (.csv, 105 mb)</li>
+<li><a href="https://drive.google.com/file/d/0B5UMbl9u1_wQRmNQOEo3X2dUY28/view">Risultati del sondaggio</a> (.pdf)</li>
+<li><a href="https://drive.google.com/file/d/0B5UMbl9u1_wQb3pBVjVqYzRjZVE/view">Risultati per Paese</a> (.pdf)</li>
+<li><a href="https://drive.google.com/file/d/0B5UMbl9u1_wQdFp6bGJldDEwcUU/view">Risultati per grado di esperienza tecnologica degli utenti</a> (.pdf)</li>
 
 <em>I dati sono messi a disposizione da Mozilla con licenza <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</em>
