@@ -30,8 +30,8 @@ Per gli altri dipende dalla **Code Table** utilizzata, alcuni, come i caporali (
 | E maiuscola con accento grave | &Egrave; | `&Egrave;` | 200 | ALT+212 | ALT+SHIFT+E | Boh |
 | Trattone | &ndash; | `&ndash;` | 8211 | ALT+000 | ALT+- | Boh |
 | Trattone lungo | &mdash; | `&mdash;` | 8212 | ALT+000 | ALT+SHIFT+- | Boh |
-| Apice curvo sinistro | &lsquo; | `&lsquo;` | 8216 | ALT+0145 | ALT+3 | Boh |
-| Apice curvo destro | &rsquo; | `&rsquo;` | 8217 | ALT+0146 | ALT+SHIFT+3 | Boh |
+| Apice curvo sinistro | &lsquo; | `&lsquo;` | 8216 | ALT+0145 | ALT+3 | ALT GR+SHIFT+B |
+| Apice curvo destro | &rsquo; | `&rsquo;` | 8217 | ALT+0146 | ALT+SHIFT+3 | ALT GR+SHIFT+V |
 | Virgolette curve sinistre | &ldquo; | `&ldquo;` | 8220 | ALT+0147 | ALT+2 | Boh |
 | Virgolette curve destre | &rdquo; | `&rdquo;` | 8221 | ALT+0148 | ALT+SHIFT+2 | Boh |
 | Puntini di sospensione | &hellip; | `&hellip;` | 8230 | ALT+0133 | ALT+, | Boh |
