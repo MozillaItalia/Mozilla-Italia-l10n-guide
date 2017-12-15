@@ -344,4 +344,4 @@ Il traduttore:
 E il ciclo si ripete finché non si trova una versione che soddisfi entrambi. Il revisore può usare a sua volta lo storico per individuare le modifiche successive.
 
 ## SuMo
-Per il momento fare riferimento a [questo topic](https://forum.mozillaitalia.org/index.php?topic=32659.0)
+Per il momento fare riferimento a [questo articolo](https://support.mozilla.org/it/kb/localizzazione-supporto-mozilla)
