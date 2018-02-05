@@ -190,7 +190,7 @@ Translator:
 1. In the project select *Suggested* from filter. Then compare your entries with those of your reviewer for changes.
 
 2. You have two choices:
-  - If you agree with the changes, confirm the reviewer’s version by clicking on the check icon beside it. If you have yet not been granted saving priviledges, simply do nothing and pass to the next one.
+  - If you agree with the changes, confirm the reviewer’s version by clicking on the check icon beside it. If you have yet not been granted saving privileges, simply do nothing and pass to the next one.
 
   - If you would rather suggest an alternative, type it over, then hit the blue *Suggest* button. Then resubmit it to the reviewer, back in Phase 2, step 4.
 
