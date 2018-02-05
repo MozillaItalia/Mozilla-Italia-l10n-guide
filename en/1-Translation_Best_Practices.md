@@ -135,7 +135,7 @@ e.g.
 >OK: Mozilla Italia's l10n guide  
 No: Mozilla Italia's l10n guide**.**
 
-The punctuation sequences `.”.`, `.).` and similar are better avoided. When dealing with brackets or quotiation marks it’s better to delete the punctuation mark *inside* the bracket, leaving just the one outside it.  
+The punctuation sequences `.”.`, `.).` and similar are better avoided. When dealing with brackets or quotation marks it’s better to delete the punctuation mark *inside* the bracket, leaving just the one outside it.  
 e.g.
 >OK: I replied “You may go now**”.**  
 No: I replied “You may go now**.”.**
@@ -158,7 +158,7 @@ No: Ladies and gentlemen, we have a winner**!!**
 No: Ladies and gentlemen, we have a winner**!!!!**
 
 ### Apostrophe
-The “straight”, also called typewriter apostrophe `'`, is the more accessible apostrophe mark on the keyboard. Still, it is used in several codes such as HTML and may be misinterpreted as code during elaboration, causing errors.
+The “straight”, also called typewriter apostrophe `'`, is the more accessible apostrophe mark on the keyboard. Still, it is used in several codes such as HTML and may be misinterpreted as code during elaboration, resulting in errors.
 
 It is instead advised to use in normal text the “curly” or typographic apostrophe `’` (`U+2019` in Unicode). By the way, the typographic apostrophe also serves as the right single quotation mark.
 
@@ -217,6 +217,17 @@ Some languages resort to passive voice more than others. Generally the passive v
 The point is, as said in the previous section, if you feel that the source sentence would sound unnecessarily complicated in your language, reformulate it to achieve maximum readability.  
 In the case of passive voices, convert to the active voice if it makes the message clearer.
 
+### Multiple negatives
+
+Double or even multiple negatives are a constructs including two or more negations in the same sentence. This particular construct is potentially problematic since it may indicate an emphatic negation in some languages, while in others the two (or more) negations “neutralize” each other resulting in an affirmation, and in some language it can go either way.
+
+Es.
+>I’m not doing nothing, I’m thinking! (*Positive meaning* I am doing something)
+
+>There never was no man nowhere so virtuous. (*Negative meaning* No man is so virtuous)
+
+When confronted with such constructions in source language, you have to pay particular attention to unravel the original meaning, and then render it clearly and univocally in target language.
+Multiple negatives may raise doubts about the actual meaning of a text, and thus should be avoided.
 
 ### Theme of the sentence
 
@@ -226,7 +237,7 @@ Now, different languages have different ways to mark a theme, generally by placi
 
 Once identified the theme, it is important to mark it according to your language rules, even if you have to swap the original order of the sentence.
 
-A noticeable exception of this rule is when giving long and elaborate instructions. In this case the theme, that is the goal of the instructions, should be stated clearly before the procedure. This way users can determine if it useful for them to read the whole procedure or if they can skip it entirely.
+A noticeable overruling of this norms applies when giving long and elaborate instructions. In this case the theme, that is the goal of the instructions, should be stated clearly before the procedure. This way users can determine if it useful for them to read the whole procedure or if they can skip it entirely.
 
 Thus, in cases of instructions it is advisable to follow the order: **Result > procedure**
 
@@ -271,4 +282,4 @@ e.g.
 sign in = access to your (already existent) account
 
 Anyway, since not even the most experienced professional can know every single term, the best weapon of a translator is the patience and dedication to research every term they are not sure about.  
-Also, in certain cases, when you *think* you know a term, but it seems out of place in context, you should reseach that too, because it could have some hidden meaning or use you have not discovered yet.
+Also, in certain cases, when you *think* you know a term, but it seems out of place in context, you should research that too, because it could have some peculiar meaning or use you have not discovered yet.
