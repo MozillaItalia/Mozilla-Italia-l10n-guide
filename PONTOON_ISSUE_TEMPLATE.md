@@ -15,7 +15,7 @@ Questo per organizzare meglio l'attività di traduzione ed evitare che più pers
 * [Registrati](https://accounts.firefox.com/oauth/signin?response_type=code&scope=profile%3Auid%20profile%3Aemail%20profile%3Adisplay_name%20profile%3Auid%20profile%3Adisplay_name%20profile%3Aemail&state=yrvTUh3o4F4c&redirect_uri=https%3A%2F%2Fpontoon.mozilla.org%2Faccounts%2Ffxa%2Flogin%2Fcallback%2F&client_id=76ab66239b5585ad) sulla piattaforma di traduzione Pontoon
   - (facoltativo) Installa il componente aggiuntivo [Pontoon Tools](https://addons.mozilla.org/it/firefox/addon/pontoon-tools/) per ricevere le notifiche delle stringhe mancanti in tempo reale (più altre chicche)
 * **Leggi i capitoli della guida**, se lo desideri, lascia un feedback nel relativo issue:
-  - Capitolo 1 – [Buone norme di traduzione tecnica](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/1-Buone_norme_di_traduzione.md) Feedback: issue #23 
+  - Capitolo 1 – [Buone norme di traduzione tecnica](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/1-Buone_norme_di_traduzione.md) Feedback: issue #91 
   - Capitolo 2 – [Linee guida di Mozilla Italia](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/2-Linee_guida_di_Mozilla_Italia.md) Feedback: issue #27 
   - Capitolo 3 – [Flusso di lavoro](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/3-Flusso_di_lavoro.md) Feedback: issue #24 
   - Capitolo 4 – [Tipi di file](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/4-Tipi_di_file.md) Feedback: issue #31 
