@@ -31,7 +31,10 @@ Questo per organizzare meglio l'attività di traduzione ed evitare che più pers
 
 ## Link Utili
 * [Web Localization Dashboard](https://l10n.mozilla-community.org/webdashboard/?locale=it) -- Lista dei progetti Pontoon con relative scadenze
-* [Pagine di test](https://l10n.mozilla-community.org/langchecker/?action=listpages) per il sito mozilla.org -- Per vedere dove andranno a finire le vostre traduzioni
+* Server di test -- Per vedere dove andranno a finire le vostre traduzioni
+  - per le singole pagine di [mozilla.org](https://l10n.mozilla-community.org/langchecker/?action=listpages) 
+  - per [AMO](https://addons-dev.allizom.org/it/)
+  - per [MDN](https://developer.allizom.org/it/)
 * [mozilla.dev.l10n.web](https://groups.google.com/forum/#!forum/mozilla.dev.l10n.web) -- Un newsgroup internazionale di riferimento per le stringhe della settimana. Condivide informazioni sui progetti correnti, anche utile per porre domande e segnalare bug ecc.
 
 
