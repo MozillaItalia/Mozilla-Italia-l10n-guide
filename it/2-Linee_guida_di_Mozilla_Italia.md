@@ -87,30 +87,6 @@ Esempi da lasciare invariati:
 Chris Beard, Chief Executive Officer  
 Mark Surman, President and Executive Director
 
-### Norme generali
-
-#### Forma in *ing* nei titoli
-In inglese la forma verbale in *ing* ha varie funzioni.
-In italiano di solito viene reso con il gerundio:
-es.
->EN: I'm *uploading* my pictures.  
->IT: Sto *caricando* le mie foto.
-
-Tuttavia, in casi come i titoli, la forma in *ing* va resa in italiano con il tempo infinito.
->EN: Connecting your Firefox account  
->IT: Connettere l'account Firefox
-
-Quando possibile è addirittura consigliabile sostantivizzare la forma in *ing* per una migliore resa in italiano.
-es.
->EN: *Installing* Thunderbird  
->IT: *Installazione* di Thunderbird
-
->EN: *Reporting* a bug
->IT: *Segnalazione* bug
-
-Per altri rese particolari, vedi [Forme progressive](#2-Linee_guida_di_mozilla_italia#forme-progressive).
-
-
 ### Interfaccia e messaggi di programma
 
 #### Messaggi del programma
