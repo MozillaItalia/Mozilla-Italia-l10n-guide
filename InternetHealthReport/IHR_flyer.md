@@ -1,9 +1,12 @@
-## 2018 Internet Health Report
+## Rapporto sullo stato di salute di Internet 2018
 
-# What is the Internet Health Report?
-## The **Internet Health Report** is Mozilla’s open source initiative to document and explain what’s happening to the health of the internet
+# Cos'è il rapporto sullo stato di salute di Internet?
+## Il **Rapporto sullo stato di salute di Internet** è un'iniziativa open source di Mozilla per documentare e spiegare cosa sta accadendo alla salute di Internet
 
-2017 has been called a ”terrible year for tech” by some. Headlines about troubling aspects of the internet have been everywhere. But people around the world are also saying things, teaching things and building things to tackle these challenges. More people are opening their eyes every day to the impact the internet has on our societies, economies and personal well-being. **We are beginning to see the health of the Internet as not just a technical issue, but a human one.** The Internet Health Report aims to connect the dots and look for patterns between often siloed issues—to look at the human experience of the internet as a whole.
-The report features global insights and perspectives across five issues: **Privacy and Security**, **Openness**, **Digital Inclusion**, **Web Literacy** and **Decentralization**.
+Il 2017 è stato etichettato come un "anno terribile per la tecnologia". Ovunque si leggono notizie sugli aspetti problematici di Internet.
 
-Read the full report at:
+Ma ci sono anche utenti in tutto il mondo che comunicano, insegnano e creano qualcosa per affrontare queste sfide. Ogni giorno sempre più persone aprono gli occhi sull'impatto che Internet ha sulla nostra società, economia e benessere personale. **Iniziamo a concepire la salute di Internet non solo dal punto di vista tecnologico, ma anche umano.** Il rapporto cerca un collegamento tra questioni che vengono spesso affrontate in compartimenti stagni, esaminando l'esperienza umana di Internet nel suo insieme.
+
+Il rapporto offre una visione globale e una prospettiva su 5 aree di interesse: **privacy e sicurezza**, **apertura**, **inclusione digitale**, **alfabetizzazione web**, **decentramento**.
+
+Leggi il rapporto completo:
