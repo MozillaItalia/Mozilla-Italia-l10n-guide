@@ -83,7 +83,7 @@ L’insieme di tutti i parametri in uso in una data regione è comunemente noto 
 ### Formato delle date
 In tutte le lingue, una data può contenere i seguenti elementi: anno (Y, *year*), mese (M, *month*) e giorno (D, *day*). Tuttavia, in regioni diverse del globo, questi elementi cambiano ordine.
 
-Il formato più comune è D/M/Y (giorno, mese, anno), ma in estremo Oriente prevale Y/M/D, mentre negli Stati Uniti viene adottato M/D/Y.
+Il formato più comune è D/M/Y (giorno, mese, anno) chiamato _little-endian_, ma in estremo Oriente prevale Y/M/D (_big-endian_), mentre negli Stati Uniti viene adottato M/D/Y (_middle-endian_). Ed ancora, nell’informatica la data usata è Y-M-A per comodità (l’ordinamento per data è più preciso).
 
 Nel migliore dei casi, usare un formato diverso da quello della regione di destinazione può apparire come una trascuratezza stilistica, ma in alcuni casi, specialmente quando si esprime la data in cifre, può dare adito a gravi fraintendimenti.  
 Per esempio la data *05/07* indica il *7 maggio* in America, ma in italiano verrà interpretata dall’utente come *5 luglio*.
@@ -92,7 +92,7 @@ Per esempio la data *05/07* indica il *7 maggio* in America, ma in italiano verr
 Anche per la formattazione delle cifre, ogni regione ha le proprie convenzioni che, trascurate, possono portare a gravi fraintendimenti.
 
 Una differenza importante è il marcatore dei decimali.  
-Tra i Paesi che utilizzano i numeri arabi, alcuni (es. Stati Uniti) utilizzano il punto `.` per separare i decimali e la virgola `,` per raggruppare le migliaia.
+Tra i Paesi che utilizzano i numeri arabi, alcuni (es. Stati Uniti, Regno Unito) utilizzano il punto `.` per separare i decimali e la virgola `,` per raggruppare le migliaia.
 
 In altre regioni del globo, Europa inclusa, è l’esatto contrario: la virgola contrassegna i decimali, il punto le migliaia.
 
@@ -100,11 +100,11 @@ In altre regioni del globo, Europa inclusa, è l’esatto contrario: la virgola 
 
 | Regione | Decimali | Migliaia|
 |---|---|---|
-| USA ecc. | 15.241 | 15,241|
-|UE ecc. | 15,241 | 15.241 |
-|Standard ISO| 15.241 / 15,241 | 15 241|
+| USA, UK ecc. | 15.241 | 15,241|
+| UE ecc. | 15,241 | 15.241 |
+| Standard ISO | 15.241 / 15,241 | 15 241|
 
-#### Billon, trillion ecc.
+#### Billion, trillion ecc.
 Un’altra discrepanza, stavolta nelle cifre dell’ordine dei bilioni, trilioni, quadrilioni ecc. è data dai diversi metodi di denominazione numerica usati nel mondo:
 - *scala lunga*: ogni termine è 1 000 000 volte più grande del precedente, usata in Europa continentale e paesi di lingua affine;
 - *scala corta*: ogni termine è 1000 volte più grande del precedente, usata nei paesi anglofoni e arabi.
@@ -134,7 +134,7 @@ In inglese la virgola viene utilizzata anche prima delle congiunzioni.
 
 >EN: For safety, privacy**, and** freedom on the Web
 
-In italiano, al contrario, la congiunzione esclude la virgola e viceversa, in quanto, svolgendo lo stesso ruolo coordinativo, sono ridondanti.
+In italiano, al contrario, la congiunzione solitamente esclude la virgola e viceversa, in quanto, svolgendo lo stesso ruolo coordinativo, sono ridondanti.
 
 >IT: Per la sicurezza, la privacy **e** la libertà sul Web
 
@@ -190,6 +190,15 @@ e simili casi di articolo indeterminativo + maschile.
 
 > Sì: Qual è  
 No: Qual’è
+
+#### Accento
+L’accento in italiano è "scritto" solitamente sulle lettere finali di parola. Degli esempi possono essere poiché, perché, affinché, ecc.
+Si notino, infatti, che gli accenti inseriti su queste parole sono "acuti" e non "gravi".
+Alcune parole, se ambigue possono presentare l’accento anche su altre vocali della parola.
+In italiano, effettivamente, si hanno tre accenti differenti:
+- grave: teoricamente dovrebbe trovarsi solamente sulle vocali aperte, quali à, è e ò
+- acuto: dovrebbe trovarsi, in teoria, solamente sulle volali chiuse é, ó, í e ú (tuttavia la í e ú vengono in genere sostituite con la ì e la ù)
+- circonflesso: anticamente veniva usato in determinate parole su tutte le vocali (a, e, i, o, u). Al giorno d’oggi, invece, è usato solo in determinate circostanze sulla i (î). L'esempio più ecclatante è, sicuramente, il plurale di _princìpio_, ovvero _princìpii_; in italiano si dovrebbe scrivere _principî_. In verità è sempre più rara questa forma, in favore della singola e "semplice" _i_ (princìpi).
 
 #### Virgolette
 
@@ -326,6 +335,25 @@ Ecco alcune categorie di vocaboli scritti sempre con la maiuscola in inglese ma 
 |Nomi dei mesi|January, February, March ecc.|gennaio, febbraio, marzo ecc.|
 |Aggettivi di nazionalità| English, Italian, Chinese|italiano, inglese, cinese ecc.|
 
+### Ecc./Ec./Etc.
+In italiano, se si ha la necessità di interrompere, abbreviare un’enumerazione di cose, una citazione che non pare necessario o opportuno continuare si utilizza la parola eccetera. Essa può essere abbreviata con ecc., con ec. o, ancora, con etc.
+La prima è senza ombra di dubbio la più gettonata. Si può utilizzare, tuttavia, anche la ec. (con una singola c) o la forma latina (**e non inglese** _etcetera_) etc..
+**N.B.** ecc./ec./etc. hanno un singolo punto successivamente poiché si indica che la parola non è finita ma è un’abbreviazione; non hanno, quindi, i "tre puntini di sospensione".
+
+Esempi:
+
+>Sì: Una casa può essere grande, piccola, ecc.
+No: Una casa può essere grande, piccola, ecc…
+
+### Sì o Si
+In italiano la locuzione affermativa "sì" necessita, **obbligatoriamente**, dell’accento (da non confondere con l’apostrofo).
+Questo è dovuto al fatto che è la forma abbreviata di _ic est_ (dal latino "così è").
+
+Esempi:
+
+>Sì: Vieni al mare con me? Sì, certamente.
+No: Vieni al mare con me? Si, certamente.
+
 ### Vocaboli stranieri
 
 #### Plurale dei vocaboli stranieri
@@ -433,11 +461,12 @@ Ecco alcune modifiche che possono evitare i calchi linguistici dall’inglese e 
 
 #### Verbi e sostantivi
 
-In inglese, anche se esistono vocaboli più specifici, si tende spesso a usare un lessico limitato, che assume significati diversi a seconda del contesto. Un esempio sono i *phrasal verbs*, che uniscono a verbi generici una preposizione per dargli un nuovo significato.
+In inglese, anche se esistono vocaboli più specifici, si tende spesso a usare un lessico limitato, che assume significati diversi a seconda del contesto. Un esempio sono i *phrasal verbs*, che uniscono a verbi generici una preposizione o un avverbio per dargli un nuovo significato.
 
 Un esempio che può generare confusione:
 - sign **up** (registrare un account)
 - sign **in** (accedere a un account già esistente)
+- sign **out** (disconnettersi dopo aver effettuato l’accesso)
 
 In italiano questa scelta stilistica viene interpretata come povertà lessicale. Per questo è preferibile utilizzare i termini più puntuali possibili senza scadere ovviamente in un linguaggio ingessato o pedante.
 Alcuni esempi:
@@ -493,8 +522,8 @@ IT: Carica il componente aggiuntivo per il processo di revisione.
 
 ### Lunghezza delle frasi
 
-L’inglese è notoriamente una lingua che preferisce periodi semplici e collegati paratatticamente.  
-L’italiano è, al contrario, una lingua famosa per il periodare lungo e complesso, in cui prevale la subordinazione.  
+L’inglese è notoriamente una lingua che preferisce periodi semplici e collegati paratatticamente (coordinate).  
+L’italiano è, al contrario, una lingua famosa per il periodare lungo e complesso, in cui prevale l’ipotassi (subordinate).  
 Ne consegue che a volte, traducendo dall’inglese all’italiano, il periodo che risulta appare fin troppo “elementare”, spezzettato.
 
 Per evitare questo effetto può essere utile unire due periodi brevi in uno più lungo, quando possibile evidenziandone il nesso logico con una proposizione subordinata. Questo darà al discorso un senso di continuità e renderà più facile seguirne il filo logico.
