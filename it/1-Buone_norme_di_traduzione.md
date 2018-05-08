@@ -209,7 +209,7 @@ Per la stessa ragione dell’apostrofo, preferiamo alle virgolette dritte, quell
 >Scorciatoie da tastiera per le virgolette curve:  
 **Windows** apertura `Alt + 0147`, chiusura `Alt + 0148`  
 **macOS** apertura `Alt + 2`, chiusura `Alt + Shift + 2`  
-**Linux** ????
+**Linux** apertura `Alt Gr + V`, chiusura `Alt Gr + B`
 
 #### Ellissi
 
@@ -218,7 +218,7 @@ Per digitare i puntini di sospensione, chiamati anche ellissi, molti premono sem
 >Scorciatoie da tastiera per ellissi:  
 **Windows** `Alt + 0133`  
 **macOS**  `Alt + ,`  
-**Linux** ????
+**Linux** Unicode `CTRL + SHIFT + U + 2026 + SPACE`, oppure con COMPOSE `Comp + ..`
 
 Questo accorgimento diventa particolarmente utile in caso di limitazione dei caratteri, per esempio nei *tweet* di Twitter: infatti `…` viene conteggiato come un solo carattere.
 
@@ -240,7 +240,7 @@ Il trattino lungo è usato per gli incisi, o comunque per separare due frasi, e 
 >Scorciatoie da tastiera per il trattino lungo:  
 **Windows** `Alt + 0151`  
 **macOS** `Alt + -`  
-**Linux** ????
+**Linux** Unicode `CTRL + SHIFT + U + 2014 + SPACE`, oppure con COMPOSE `Comp + ---`
 
 Il trattino lungo viene molto usato in inglese, ma non è altrettanto diffuso in italiano. Quando possibile è meglio sostituirlo con un altro segno di punteggiatura appropriato al caso.
 
