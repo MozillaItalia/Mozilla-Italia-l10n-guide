@@ -3,6 +3,11 @@
 - [ ] [*Nome Progetto*](<url alle stringhe mancanti: usa il filtro speciale *Untranslated*>) *numero stringhe mancanti* - `@`nome traduttore
 - [ ] [*Nome Progetto*](<url alle stringhe mancanti: usa il filtro speciale *Untranslated*>) *numero stringhe mancanti* - `@`nome traduttore
 
+❗️  La lista delle stringhe da tradurre viene aggiornata più volte nell'arco della settimana
+
+## Altri progetti aperti:
+▶️  *Nome Progetto* `#`*numero issue*
+
 ## Informazioni sul progetto
 Questo issue serve a gestire le traduzioni dei siti Mozilla sulla piattaforma [Pontoon](https://pontoon.mozilla.org/it/).
 
@@ -35,7 +40,7 @@ Questo per organizzare meglio l'attività di traduzione ed evitare che più pers
   - per le singole pagine di [mozilla.org](https://l10n.mozilla-community.org/langchecker/?action=listpages) 
   - per [AMO](https://addons-dev.allizom.org/it/)
   - per [MDN](https://developer.allizom.org/it/)
-* [mozilla.dev.l10n.web](https://groups.google.com/forum/#!forum/mozilla.dev.l10n.web) -- Un newsgroup internazionale di riferimento per le stringhe della settimana. Condivide informazioni sui progetti correnti, anche utile per porre domande e segnalare bug ecc.
-
-
-❗️  La lista delle stringhe da tradurre viene aggiornata più volte nell'arco della settimana
+  - per [Test Pilot](https://testpilot-l10n.dev.mozaws.net/)
+  - per [Common Voice](https://voice.allizom.org/it)
+  - per [Thunderbird.net](https://www.thunderbird.net/it/) *sito produzione
+* [mozilla.dev.l10n.web](https://groups.google.com/forum/#!forum/mozilla.dev.l10n.web) -- Un newsgroup internazionale di riferimento per le stringhe della settimana. Condivide informazioni sui progetti correnti, anche utile per porre domande e segnalare bug ecc.     
