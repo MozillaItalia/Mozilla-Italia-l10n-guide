@@ -4,4 +4,4 @@ I materiali possono anche essere scaricati in altri formati da Google Drive attr
 Indice dei file:
 - Internet Health Report Flyer: [Originale](https://docs.google.com/document/d/1VYQ902GdNG5haD-yLlaFhT85nDzqSDogpsXL_m-Evkc/edit) - [Italiano](https://docs.google.com/document/d/1VLkPseWAeVgq8Chnd-V7ooV1b0l8J7Y2W--KDzPaK7I/edit?usp=sharing)
 - Internet Health Report One-Pager: [Originale](https://docs.google.com/document/d/1XgUHamydWJGag5C3xLTx-vLBTXCxske2CevvGrUc4W0/edit) - [Italiano](https://docs.google.com/document/d/1BYneGVDG9GRzSxy65UchgaQ8PnFhdTs-o_pEqOnQZp4/edit?usp=sharing)
-- Internet Health Report Slide Deck: [Originale](https://docs.google.com/presentation/d/1EDP3DaCOR-rPVqt5TJ-RcHTawzWauUiCl8Cfpl4XDPc/edit#slide=id.p)
+- Internet Health Report Slide Deck: [Originale](https://docs.google.com/presentation/d/1EDP3DaCOR-rPVqt5TJ-RcHTawzWauUiCl8Cfpl4XDPc/edit#slide=id.p) - [Italiano](https://docs.google.com/presentation/d/1MSXheT1x-me32F9NQ6LMvz-1GV5_ZcEQiJ0ade0YhYE/edit?usp=sharing)
