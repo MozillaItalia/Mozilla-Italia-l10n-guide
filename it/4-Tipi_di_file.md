@@ -30,7 +30,7 @@ In esse tratteremo i formati dei file utilizzati per memorizzare le stringhe del
 
 Il codice HTML (Hypertext Markup Language) è un linguaggio ipertestuale utilizzato per la formattazione del testo e l’inserimento di contenuti multimediali nelle pagine, anche se non è compito di un localizzatore creare pagine web, la conoscenza di alcuni fondamenti può tornare utile per localizzare correttamente alcune stringhe o personalizzare la formattazione del testo (ad esempio per rendere in grassetto o in corsivo alcuni termini).
 Il codice HTML è, come detto, un linguaggio di formattazione del testo utilizzato nelle pagine web.
-In HTML il testo va racchiuso tra alcuni marcatori (tag) che definiscono il tipo di oggetto (paragrafo di testo, immagine, link,, ecc.).
+In HTML il testo va racchiuso tra alcuni marcatori (tag) che definiscono il tipo di oggetto (paragrafo di testo, immagine, link, ecc.).
 Un tag è delimitato dai simboli di minore e maggiore e rappresenta un’istruzione per il browser, mentre tutto ciò che viene inserito tra il tag di apertura e chiusura è del testo che verrà, sostanzialmente, mostrato a schermo, con diversa formattazione a seconda del tag utilizzato.
 Ad esempio:
 
@@ -67,7 +67,7 @@ Per un elenco completo delle *entity* HTML consultare [questa pagina][c4l4].
 
 ### Paragrafi di testo
 
-In HTMl di solito i paragrafi di testo vengono racchiusi tra i tag `<p>` e `</p>`, un paragrafo di testo altro non è se non del testo che viene mostrato in un unico blocco, sarà il browser a decidere quando andare a capo a seconda delle dimensioni dello schermo.
+In HTML di solito i paragrafi di testo vengono racchiusi tra i tag `<p>` e `</p>`, un paragrafo di testo altro non è se non del testo che viene mostrato in un unico blocco, sarà il browser a decidere quando andare a capo a seconda delle dimensioni dello schermo.
 Ai vari paragrafi, e in generale a qualunque altro tag HTML, possono anche essere associate delle proprietà che serviranno allo sviluppatore per definire alcune specifiche di visualizzazione (colore, spaziatura, interlinea, ecc.), ovviamente un traduttore dovrà concentrarsi solo nella traduzione del testo e non delle proprietà associate all’elemento HTML.
 
 Vediamo un esempio pratico:
@@ -147,7 +147,7 @@ Essendo **MDN** un sito Mozilla, inoltre consigliamo di tradurre qualche pagina 
 ## Codici di formattazione Python e stringhe JavaScript
 
 Le applicazioni web solitamente sono composte da una parte lato server (che nel caso di Mozilla è scritta in Python) e di una parte lato client (che utilizza codice HTML e JavaScript).
-Mentre il codice HTML viene utilizzato per formattare contenuti statici, JavaScrip e Python vengono utilizzati per inserire dei contenuti dinamici, nel primo caso generati dall’interazione dell’utente con la pagina (ad esempio cliccando un link) e nel secondo caso direttamente dal server.
+Mentre il codice HTML viene utilizzato per formattare contenuti statici, JavaScript e Python vengono utilizzati per inserire dei contenuti dinamici, nel primo caso generati dall’interazione dell’utente con la pagina (ad esempio cliccando un link) e nel secondo caso direttamente dal server.
 
 Solitamente in tutti i progetti Mozilla le stringhe utilizzate all’interno del codice JavaScript vengono raccolte in un file dedicato (di solito dal nome `javascript.po` o varianti).
 In questo tipo di stringhe è importante fare attenzione a inserire virgolette o apostrofi perché potrebbero essere interpretati come delimitatori della stringa stessa e produrre risultati assai indesiderati.
