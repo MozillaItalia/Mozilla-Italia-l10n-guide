@@ -5,7 +5,7 @@
 
 - [Guida di stile](#guida-di-stile)
 	- [Ricerca terminologica](#ricerca-terminologica)
-		- [Casi notevoli: Web e Internet](#casi-notevoli-web-e-internet)
+		- [Casi particolari: Web e Internet](#casi-particolari-web-e-internet)
 			- [Uso aggettivale](#uso-aggettivale)
 		- [Casi particolari: le cariche](#casi-particolari-le-cariche)
 	- [Interfaccia e messaggi di programma](#interfaccia-e-messaggi-di-programma)
@@ -105,7 +105,7 @@ Molto spesso le finestre di dialogo chiedono conferma per una determinata azione
 
 ##### Forme di cortesia
 
-Nella lingua inglese sono molto comuni (please, …); in italiano tali espressioni non vanno tradotte.
+Nella lingua inglese sono molto comuni, mentre in italiano le espressioni come “Please…” non vanno tradotte.
 
 >Sì: Per continuare premere OK  
 >No: Per continuare si prega di premere OK
@@ -143,11 +143,11 @@ In caso di ambiguità, vanno invece sostituiti con *proprio*, *in uso*  ecc.
 >Sì: La versione di Firefox in uso è aggiornata.  
 No: La tua versione di Firefox è aggiornata.
 
-     Sì: È necessario effettuare un backup del proprio profilo  
-     No: Devi effettuare un backup del tuo profilo
+>Sì: È necessario effettuare un backup del proprio profilo  
+ No: Devi effettuare un backup del tuo profilo
 
-    OK: All’apertura di Firefox verrà visualizzata la propria pagina iniziale.
-    NO: Quando apri Firefox, viene visualizzata la tua pagina iniziale.
+>Sì: All’apertura di Firefox verrà visualizzata la propria pagina iniziale.  
+No: Quando apri Firefox, viene visualizzata la tua pagina iniziale.
 
 #### Voci di menu/etichette dei pulsanti
 
