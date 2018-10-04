@@ -348,6 +348,7 @@ No: Una casa può essere grande, piccola, ecc…
 ### Sì o Si
 In italiano la locuzione affermativa "sì" necessita, **obbligatoriamente**, dell’accento (da non confondere con l’apostrofo).
 Questo è dovuto al fatto che è la forma abbreviata di _ic est_ (dal latino "così è").
+Ricordare che dopo "Sì" (e "No") bisogna mettere la virgola.
 
 Esempi:
 
