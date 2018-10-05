@@ -43,6 +43,10 @@ Alcuni esempi di scelte terminologiche di Mozilla Italia:
 |community|comunità|
 |login|accesso|
 |directory|cartella|
+|to encode/decode|codificare/decodificare|
+|to encipher/decipher|cifrare/decifrare|
+|to encrypt/decrypt|crittare/decrittare|
+|encryption|crittografia|
 
 Anche i neologismi usati colloquialmente sono da evitare nella lingua scritta.  
 Es.
@@ -50,13 +54,13 @@ Es.
 | No | Sì |
 |----|----|
 |cliccare|fare clic (senza *k*)|
-|postare|pubblicare (un articolo/post)|
+|postare|pubblicare (un articolo, post ecc.)|
 |editare|modificare|
 |loggarsi|accedere|
 
 #### Casi particolari: Web e Internet
 
-Anche se è ormai diffuso l’uso di scrivere indifferentemente in minuscolo le parole “internet” e “web”, Mozilla si attiene alla seguente norma vigente.
+Anche se è ormai diffuso l’uso di scrivere indifferentemente in minuscolo le parole “internet” e “web”, Mozilla Italia si attiene alla seguente norma vigente.
 
 Come esposto nel [Capitolo 1](#1-Buone_norme_di_traduzione.md#maiuscole-e-minuscole), il sostantivo *Web* va scritto con l’iniziale maiuscola in quanto abbreviazione di *World Wide Web*.
 
@@ -89,6 +93,8 @@ Mark Surman, President and Executive Director
 
 ### Interfaccia e messaggi di programma
 
+**N.B.** Le regole sotto elencate si riferiscono esclusivamente allo stile dell’interfaccia di programma e alla documentazione tecnica (es. [SUMO][SUMO]). Per i contenuti dei siti su *mozilla.org* e iniziative varie è invece opportuno mantenere uno stile più naturale e discorsivo per mettere a proprio agio l’utente.
+
 #### Messaggi del programma
 
 Si tratta dei messaggi che vengono *inviati dal programma all’utente*. È sempre preferibile l’utilizzo dello stile impersonale, evitando quindi il discorso diretto.
@@ -105,25 +111,27 @@ Molto spesso le finestre di dialogo chiedono conferma per una determinata azione
 
 ##### Forme di cortesia
 
-Nella lingua inglese sono molto comuni, mentre in italiano le espressioni come “Please…” non vanno tradotte.
+Nella lingua inglese sono molto comuni, mentre in italiano le espressioni come *please*, *kindly* ecc. vanno omesse.
 
 >Sì: Per continuare premere OK  
 >No: Per continuare si prega di premere OK
 
 ##### Enfasi
 
-Le espressioni enfatiche non vengono tradotte e in quei casi si preferisce dare al contenuto una resa più impersonale. Vedi anche la relativa sezione nel [capitolo 1][]
+Le espressioni enfatiche non vengono tradotte e in quei casi si preferisce dare al contenuto una resa più impersonale. Vedi anche la relativa sezione nel [capitolo 1](#1-Buone_norme_di_traduzione.md#punto-esclamativo)
 
 >Sì: Impossibile salvare il file  
 >No: Impossibile salvare il file!
 
 ##### Forme progressive
 
-Le forme verbali *…ing* + `…` avvisano l’utente che si sta svolgendo un’operazione in background. Vanno tradotte con il sostantivo relativo all’azione + “in corso…”.
+Le forme verbali *…ing* + `…` (a volte `…` viene omesso) avvisano l’utente che si sta svolgendo un’operazione in background. Vanno tradotte con il sostantivo relativo all’azione + “in corso…”.
 
 >Loading… : Caricamento in corso…  
 Saving…: Salvataggio in corso…  
 Exiting… : Uscita dal programma in corso…
+
+**N.B.** Per i puntini di sospensione, utilizzare il carattere `…` invece di premere tre volte di seguito il tasto `.`
 
 ##### Personificazione dell’hardware e del software
 
@@ -132,13 +140,14 @@ Da evitare quando possibile, anche volgendo la frase al passivo.
 >Sì: Verranno eliminati i dati personali  
 >No: Firefox eliminerà i dati personali
 
-#### Aggettivi e pronomi possessivi
-Per esigenza di spazio e di utilizzo della forma impersonale, nei messaggi di programma è consigliabile omettere i possessivi (*mio*, *tuo*, *suo* ecc.) quando l’appartenenza è già implicita.
+#### Possessivi e dimostrativi
+Per esigenza di spazio e di utilizzo della forma impersonale, nei messaggi di programma è consigliabile omettere i possessivi (*mio*, *tuo*, *suo* ecc.), ma anche i dimostrativi (*questo* account ecc.) quando l’appartenenza è già implicita.
 
 >Sì: Se il computer non riesce a collegarsi ad Internet  
->No: Se il tuo computer non riesce a collegarsi ad Internet
+>No: Se il tuo computer non riesce a collegarsi ad Internet  
+>No: Se questo computer non riesce a collegarsi ad Internet
 
-In caso di ambiguità, vanno invece sostituiti con *proprio*, *in uso*  ecc.
+In caso di ambiguità, vanno invece sostituiti con *proprio*, *in uso*, *corrente*  ecc.
 
 >Sì: La versione di Firefox in uso è aggiornata.  
 No: La tua versione di Firefox è aggiornata.
@@ -155,7 +164,7 @@ Si tratta delle azioni associate al pulsante o alla voce di menu (oppure il nome
 
 In questa tipologia di contenuto va considerato il fattore *spazio*, per cui la traduzione deve essere il più stringata possibile.
 
-Per questo motivo vanno evitati il più possibile:
+Per questo motivo, vanno evitati quando non strettamente necessari:
 - articoli determinativi e indeterminativi
   >No: Invia il messaggio  
 	Sì: Invia messaggio
@@ -168,17 +177,17 @@ Per questo motivo vanno evitati il più possibile:
   >No: Salva questa pagina con norme…  
 	Sì: Salva pagina con nome…  
 
-  >No: Carica il tuo componente aggiuntivo
+  >No: Carica il tuo componente aggiuntivo  
 	>Sì: Carica componente aggiuntivo
 
 
 
 ##### Titoli di finestre
 
-Descrivono l’azione compiuta nella finestra. In mancanza di un nome definito, utilizzare il sostantivo relativo all’azione in corso.
+Descrivono l’azione compiuta nella finestra. In mancanza di un nome definito, è preferibile utilizzare il sostantivo relativo all’azione in corso.
 
->Creazione account
->Salvataggio file
+>Creating account > Creazione account  
+>Saving file > Salvataggio file
 
 ##### Tooltip (suggerimenti)
 
@@ -187,29 +196,26 @@ Si tratta dei messaggi descrittivi che compaiono in corrispondenza di un element
 La forma da utilizzare è il presente indicativo, terza persona singolare. Gli articoli determinativi e indeterminativi vanno esclusi solo in casi di eccessiva prolissità (in questi casi potrebbe essere consigliabile anche l’uso di abbreviazioni). Il soggetto è implicitamente l’elemento sotto il cursore.
 Esempi:
 
->Interrompe il caricamento in corso (per il pulsante “Stop”)  
->Apre una nuova scheda (per il pulsante “Nuova scheda”)
+>Interrompe il caricamento in corso (per il pulsante Stop)  
+>Apre una nuova scheda (per il pulsante Nuova scheda)
 
 ### Documentazione tecnica
 
 L’informatica è uno degli ambiti in più rapida evoluzione: i termini nascono e cadono in disuso nell’arco di pochi mesi, per questo le lingue diverse dall’inglese stentano a tenere il passo.
 
 Talvolta sembra perfino fatica sprecata ideare un traducente per un termine che magari è destinato a cadere nell'oblio di lì a poco.
-In questo ambito se ogni manuale desse la sua personale traduzione dei vari termini, si creerebbero facilmente incomprensioni e ambiguità. Questo è improponibile in un campo di studio dove è richiesta assoluta precisione terminologica.
+In questo ambito se ogni manuale desse la sua personale traduzione dei vari termini, si creerebbero facilmente incomprensioni e ambiguità. Questo è improponibile in un settore dove è richiesta assoluta precisione terminologica.
 
-Spesso il problema della traduzione viene sottovalutato quando si pensa a documentazione per gli sviluppatori. Si ritiene che, lavorando con l’inglese, siano perfettamente in grado di leggere e produrre testi in questa lingua senza sforzo.
-
+Spesso il problema della traduzione viene sottovalutato quando si pensa a documentazione per gli sviluppatori. Si ritiene che, lavorando con l’inglese, siano perfettamente in grado di leggere e produrre testi in questa lingua senza sforzo.  
 Invece sono molti gli sviluppatori che, non avendo abbastanza confidenza con l’inglese, cercano risorse (spesso tradotte in maniera confusa e poco aggiornata) nella loro lingua madre.
 
 Prova di questa esigenza è il sito [Mozilla Developer Network](MDN), dove gli sviluppatori possono scrivere e *tradurre* articoli tecnici in una vasta gamma di lingue.
 
 È auspicabile, per lo sviluppo di una forte comunità di sviluppatori italiana, oltre che per includere gli sviluppatori che hanno un rapporto problematico con l’inglese, innalzare il livello qualitativo delle traduzioni tecniche, diffondendo le buone pratiche di traduzione, una maggiore attenzione alla forma e consapevolezza dell’utilità di una terminologia italiana.
 
-Per questo l’ideale sarebbe accostare sempre un traduttore per la parte linguistica e formale, a uno sviluppatore che faccia presente problemi tecnici e soprattutto, in qualità di utente finale, conformi la traduzione alle proprie conoscenze e esigenze.
+Per questo l’ideale sarebbe accostare sempre un traduttore, per la parte linguistica e formale, a uno sviluppatore che faccia presente problemi tecnici e soprattutto, in qualità di utente finale, conformi la traduzione alle proprie conoscenze e esigenze.
 
-Può essere utile, per motivi di diffusione internazionale, mantenere in lingua inglese la documentazione per sviluppatori contenente nomi di tecnologie nuove o sconosciute per cui non si è ancora affermato un traducente in lingua italiana.
-
-Va considerato che tale documentazione è ad uso e consumo degli sviluppatori, che si muovono in un ambito internazionale e pertanto trovano di maggiore utilità conoscere il termine inglese.
+Può essere utile, per motivi di diffusione internazionale, mantenere in lingua inglese nomi di tecnologie nuove o sconosciute per cui non si è ancora affermato un traducente in lingua italiana. Va considerato che tale documentazione è ad uso e consumo degli sviluppatori, che si muovono in un ambito internazionale e pertanto trovano di maggiore utilità conoscere il termine inglese.
 
 In caso di prodotti o eventi Mozilla, dato che l’associazione ha voce in capitolo sulla decisione, si valuterà insieme di caso in caso se mantenere l’originale o localizzarlo.
 
@@ -219,9 +225,13 @@ Il campo dell’informatica ha senza dubbio adottato come lingua franca l’ingl
 
 Il compito di un traduttore sembrerebbe chiaro: trasporre tutte queste parole da una lingua all’altra. Eppure al giorno d’oggi appare impensabile convertire in italiano termini come “browser”, “server”, “blog”, “account”.
 
- Talvolta anche traducenti generalmente accettabili e corretti, come “parola d’ordine” per  *password* o ancora “biscotto” per *cookie*, se utilizzati in ambito informatico genererebbero nell’utente più confusione che altro.
+ Talvolta anche traducenti generalmente accettabili e corretti, come “parola d’ordine” per  *password* o ancora “biscotto” per *cookie*, se utilizzati in ambito informatico genererebbero nell’utente più confusione che altro. Altri termini si sono affermati con un unico traducente, e se tradotti diversamente perdono completamente il riferimento originale. Un esempio è *trash*, che è il *cestino* (la cartella dove si ripongono i file da eliminare), e non “spazzatura”, traduzione pure ugualmente corretta.
 
 Ricapitolando, una traduzione è sempre possibile, ma non necessariamente rappresenta la scelta migliore. La comunità di Mozilla Italia è molto sensibile a questo dilemma.
+
+I prestiti linguistici sono accompagnati da altri fenomeni come i neologismi (cliccare, postare, twittare ecc.) già affrontati a inizio capitolo e le risemantizzazioni, ovvero parole preesistente che assumono un nuovo significato in un determinato ambito. Alcuni esempi sono l’aggettivo *virale* (non più collegato ai virus, diventa una forma di diffusione di un prodotto in una cerchia di utenti), *meme* (estrapolato dalla biologia, diventa un qualsiasi fenomeno che si diffonde su Internet attraverso l’imitazione spontanea), ma anche il comune termine *amicizia*, che nei social network è diventato sinonimo di essere nella rete di contatti di qualcuno (es. “Ti chiedo l’amicizia su Facebook, così ci teniamo in contatto”.)
+
+Tutti questi fenomeni sono un sintomo positivo della vitalità della lingua che si tiene al passo con le nuove tecnologie, ma devono essere introdotti gradualmente e ponderatamente perché non si trasformino in gergo conosciuto a pochi, escludendo la maggior parte degli utenti.
 
 Di seguito si tenterà di esporre una metodologia per raggiungere un equilibrio, soddisfacendo la necessità di tenere l’utente sempre aggiornato in modo trasparente e intuitivo sui nuovi sviluppi tecnologici, senza però cadere nell’anglofilia o nell’ostentazione fine a se stessa della lingua straniera.
 
@@ -245,11 +255,9 @@ Data la frequenza con cui compaiono questi termini, alla fine la “traduzione�
 
 >es. Prima fai il **submit** della **new release** della tua **app** via l’**application form**, poi **posti** una **entry** sul tuo **blog** con tutte le **release notes** e l’**update** della **privacy policy** e **linki** alla **landing page**, e a quel punto fai il più possibile **sharing** sui **social network** e chiedi ai tuoi **followers** di mettere **like** e di fare **retweet**. E non dimenticare di **uppare** anche qualche **screenshoot** per dare una **preview** delle **last features**.
 
-Questo, oltre a risultare in un testo di difficile comprensione, influisce anche sulla capacità espressiva del lettore, che alla lunga impoverirà e banalizzerà il proprio linguaggio.
+Questo, oltre a risultare in un testo di difficile comprensione, influisce anche sulla capacità espressiva del lettore, che alla lunga impoverirà e banalizzerà il proprio linguaggio. In più si tratta di un compromesso poco soddisfacente per chi conosce l’inglese, che trarrebbe più giovamento dal leggere i contenuti direttamente in lingua originale.
 
-Infine è anche un compromesso poco soddisfacente per chi conosce l’inglese, che trarrebbe più giovamento dal leggere i contenuti direttamente in lingua originale.
-
-Al contrario favorisce, in chi l’inglese non lo conosce, atteggiamenti acritici e snobistici, come ostentare vocaboli inglesi (di cui a volte non si conosce significato) con la percezione di apparire più professionali e aggiornati, senza però portare a quella consapevolezza e approfondimento che sono traguardo dell’alfabetizzazione web.
+Al contrario favorisce, in chi l’inglese non lo conosce, atteggiamenti non ragionati e snobistici, come ostentare vocaboli inglesi (di cui a volte non si conosce il significato) con la percezione di apparire più professionali e aggiornati, senza però portare a quella consapevolezza e approfondimento che sono traguardo dell’alfabetizzazione web.
 
 ### Tradurre: i pro e i contro
 
@@ -271,11 +279,11 @@ Tuttavia, laddove un termine inglese è ormai entrato nell’uso, diventa contro
 
 Un discorso a parte va fatto quando un’organizzazione decide di localizzare la *propria* terminologia in diverse lingue, e ne fornisce quindi una traduzione ufficiale.
 
-Delineare una propria terminologia ufficiale, oltre che, perché no, utilizzare la propria posizione di rilevanza per promuovere e arricchire la terminologia del panorama informatico italiano, è un importante passo per sancire la propria identità come organizzazione e costituire un punto di riferimento per la comunità di utenti anche a livello linguistico.
+Delineare una propria terminologia ufficiale, oltre che, perché no, utilizzare la propria posizione di rilevanza per promuovere e arricchire la terminologia del panorama informatico italiano, è un importante passo per sancire la propria identità come organizzazione e costituire un punto di riferimento per la comunità di utenti anche a livello linguistico. Può perfino diventare un momento di aggregazione e uno spunto per discussioni tra i membri della comunità stessa.
 
 Uno dei punti di forza di Mozilla è la localizzazione in numerose lingue di prodotti ed eventi, in modo che gli utenti di ogni dove si sentano “a casa” utilizzandoli.
 
-In conclusione il modus operandi di Mozilla è cercare di armonizzare la chiarezza e la precisione terminologica dei termini internazionali con la scorrevolezza e la semplicità di una spiegazione in lingua italiana.
+In conclusione il modus operandi di Mozilla Italia è cercare di armonizzare la chiarezza e la precisione terminologica dei termini internazionali con la scorrevolezza e la semplicità di una spiegazione in lingua italiana.
 
 Tra queste due esigenze ovviamente la comprensione univoca di un termine deve venire sempre al primo posto rispetto all’eleganza di uno stile in bell’italiano.
 
@@ -304,3 +312,4 @@ In presenza di un traducente accettabile, Mozilla Italia preferisce sempre fare 
 [transvision]:https://transvision.mozfr.org/
 [mlp]:https://www.microsoft.com/Language/en-US/Search.aspx?sString=%s&langID=it-IT
 [MDN]:https://developer.mozilla.org/
+[SUMO]:https://www.mozillaitalia.org/home/sumo/
