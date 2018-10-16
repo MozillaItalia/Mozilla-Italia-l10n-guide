@@ -32,7 +32,7 @@
 ## Guida di stile
 
 ### Ricerca terminologica
-Durante le traduzioni è di fondamentale importanza verificare sempre se un termine ha il suo traducente italiano riconosciuto sul [glossario][glossario] o nelle [memorie di traduzione][transvision] di Mozilla Italia.
+Durante le traduzioni è di fondamentale importanza verificare sempre se un termine ha il suo traducente italiano riconosciuto sul glossario qui di seguito o nelle [memorie di traduzione][transvision] di Mozilla Italia.
 
 Alcuni esempi di scelte terminologiche di Mozilla Italia:
 
@@ -62,7 +62,7 @@ Es.
 
 Anche se è ormai diffuso l’uso di scrivere indifferentemente in minuscolo le parole “internet” e “web”, Mozilla Italia si attiene alla seguente norma vigente.
 
-Come esposto nel [Capitolo 1](#1-Buone_norme_di_traduzione.md#maiuscole-e-minuscole), il sostantivo *Web* va scritto con l’iniziale maiuscola in quanto abbreviazione di *World Wide Web*.
+Come esposto nel [Capitolo 1](../1-Buone_norme_di_traduzione.md#maiuscole-e-minuscole), il sostantivo *Web* va scritto con l’iniziale maiuscola in quanto abbreviazione di *World Wide Web*.
 
 Scrivendo *internet* con l’iniziale minuscola ci si riferisce a reti di qualsiasi dimensione che condividano il medesimo protocollo di comunicazione, ma che non sono necessariamente collegate a **Internet**.
 
@@ -118,7 +118,7 @@ Nella lingua inglese sono molto comuni, mentre in italiano le espressioni come *
 
 ##### Enfasi
 
-Le espressioni enfatiche non vengono tradotte e in quei casi si preferisce dare al contenuto una resa più impersonale. Vedi anche la relativa sezione nel [capitolo 1](#1-Buone_norme_di_traduzione.md#punto-esclamativo)
+Le espressioni enfatiche non vengono tradotte e in quei casi si preferisce dare al contenuto una resa più impersonale. Vedi anche la relativa sezione nel [capitolo 1](../1-Buone_norme_di_traduzione.md#punto-esclamativo)
 
 >Sì: Impossibile salvare il file  
 >No: Impossibile salvare il file!
@@ -229,7 +229,7 @@ Il compito di un traduttore sembrerebbe chiaro: trasporre tutte queste parole da
 
 Ricapitolando, una traduzione è sempre possibile, ma non necessariamente rappresenta la scelta migliore. La comunità di Mozilla Italia è molto sensibile a questo dilemma.
 
-I prestiti linguistici sono accompagnati da altri fenomeni come i neologismi (cliccare, postare, twittare ecc.) già affrontati a inizio capitolo e le risemantizzazioni, ovvero parole preesistente che assumono un nuovo significato in un determinato ambito. Alcuni esempi sono l’aggettivo *virale* (non più collegato ai virus, diventa una forma di diffusione di un prodotto in una cerchia di utenti), *meme* (estrapolato dalla biologia, diventa un qualsiasi fenomeno che si diffonde su Internet attraverso l’imitazione spontanea), ma anche il comune termine *amicizia*, che nei social network è diventato sinonimo di essere nella rete di contatti di qualcuno (es. “Ti chiedo l’amicizia su Facebook, così ci teniamo in contatto”.)
+I prestiti linguistici sono accompagnati da altri fenomeni come i neologismi (cliccare, postare, twittare ecc.) già affrontati a inizio capitolo e le risemantizzazioni, ovvero parole preesistenti che assumono un nuovo significato in un determinato ambito. Alcuni esempi sono l’aggettivo *virale* (non più collegato ai virus, diventa una forma di diffusione di un prodotto in una cerchia di utenti), *meme* (estrapolato dalla biologia, diventa un qualsiasi fenomeno che si diffonde su Internet attraverso l’imitazione spontanea), ma anche il comune termine *amicizia*, che nei social network è diventato sinonimo di essere nella rete di contatti di qualcuno (es. “Ti chiedo l’amicizia su Facebook, così ci teniamo in contatto”.)
 
 Tutti questi fenomeni sono un sintomo positivo della vitalità della lingua che si tiene al passo con le nuove tecnologie, ma devono essere introdotti gradualmente e ponderatamente perché non si trasformino in gergo conosciuto a pochi, escludendo la maggior parte degli utenti.
 
@@ -267,7 +267,7 @@ Le traduzioni in italiano trasparenti e riconoscibili dei termini inglesi hanno 
 
 Al contrario di molti termini stranieri, che spesso l’utente memorizza come una serie di suoni senza significato, i termini italiani riconducono la mente a una forma tangibile, avvicinandola alla tecnologia in modo intuitivo.
 
-> Alcuni esempi sono “cartella” (*directory* o *folder*), “cestino” (*trash*), “casella di posta”(*mailbox*), i comandi “taglia” e “incolla” (*copy*, *paste*), parole che richiamano oggetti e azioni comuni ed hanno contribuito a trasformare la rivoluzione informatica in uno strumento quotidiano a portata di tutti proprio perché gli utenti dei vari paesi li hanno potuti internalizzare nella propria lingua madre.
+> Alcuni esempi sono “cartella” (*directory* o *folder*), “cestino” (*trash*), “casella di posta”(*mailbox*), i comandi “taglia” e “incolla” (*copy*, *paste*), parole che richiamando oggetti e azioni comuni hanno contribuito a trasformare la rivoluzione informatica in uno strumento quotidiano a portata di tutti proprio perché gli utenti dei vari paesi li hanno potuti internalizzare nella propria lingua madre.
 
 Tuttavia per questi termini italiani che hanno avuto tanto successo, altri sono caduti nell'oblio, soppiantati dalla loro controparte inglese. Tra questi ricordiamo “archivio” (*file*), “navigatore” (*browser*), “parola d’ordine” (*password*), “dispositivo di puntamento ottico” (*mouse*).
 
