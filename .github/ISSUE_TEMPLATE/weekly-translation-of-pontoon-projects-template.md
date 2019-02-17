@@ -51,4 +51,5 @@ Questo per organizzare meglio l'attività di traduzione ed evitare che più pers
   - per [Common Voice](https://voice.allizom.org/it)
   - per [Thunderbird.net](https://www.thunderbird.net/it/) *sito produzione
   - per [Firefox Monitor](https://fx-breach-alerts.herokuapp.com/) + [Modelli email](https://fx-breach-alerts.herokuapp.com/email-l10n)
+  - per [Firefox Send](https://send.firefox.com/) *sito produzione
 * [mozilla.dev.l10n.web](https://groups.google.com/forum/#!forum/mozilla.dev.l10n.web) -- Un newsgroup internazionale di riferimento per le stringhe della settimana. Condivide informazioni sui progetti correnti, anche utile per porre domande e segnalare bug ecc.
