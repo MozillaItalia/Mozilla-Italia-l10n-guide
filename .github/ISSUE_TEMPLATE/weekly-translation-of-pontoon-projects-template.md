@@ -53,3 +53,5 @@ Questo per organizzare meglio l'attività di traduzione ed evitare che più pers
   - per [Firefox Monitor](https://fx-breach-alerts.herokuapp.com/) + [Modelli email](https://fx-breach-alerts.herokuapp.com/email-l10n)
   - per [Firefox Send](https://send.firefox.com/) *sito produzione
 * [mozilla.dev.l10n.web](https://groups.google.com/forum/#!forum/mozilla.dev.l10n.web) -- Un newsgroup internazionale di riferimento per le stringhe della settimana. Condivide informazioni sui progetti correnti, anche utile per porre domande e segnalare bug ecc.
+* [Transvision](https://transvision.mozfr.org/) -- Motore di ricerca esterno per le stringhe Mozilla, complementare a  Pontoon
+* [Transvision Access Key](https://transvision.mozfr.org/accesskeys/) -- Rileva eventuali errori nelle access key (da controllare ogni volta che si traduce una stringa contenente access key)
