@@ -22,6 +22,8 @@ Questo significa che ogni processo di traduzione coinvolge due figure, il tradut
 |2. Revisione | revisore | legge la bozza e segnala le opportune modifiche |
 |3. Correzione | traduttore | legge il testo revisionato  e valuta se accettare le modifiche proposte o proporre una versione alternativa^. |
 
+_Quando si richiede il QA si consiglia di non mettere la menzione `@revisore` per richiedere il QA, a meno che non sia strettamente necessario; ad esempio se si vuole discutere di un argomento con uno specifico revisore. Questo per evitare di utilizzare la funzione 'menzione' in modo inappropriato._
+
 ^ Nel secondo caso si ripete il processo dalla fase 2. fino a trovare una soluzione soddisfacente per entrambe le parti.
 
 ## L’impegno nascosto dietro un testo tradotto
@@ -87,7 +89,7 @@ Sotto la stringa si trovano i 3 tab
 
 *Machinery* può anche essere utilizzato come glossario o dizionario grazie alla barra di ricerca in alto. Basta digitare la parola interessata e appariranno varie traduzioni prese da fonti diverse:
 - Tag `Mozilla`: è preso dal [database di Mozilla](https://transvision.mozfr.org/), da privilegiare se disponibile.
-- Tag `Microsoft`: è presa dal [Microsoft Language Portal](https://www.microsoft.com/Language/en-US/Search.aspx?sString=%s&langID=it-IT)  
+- Tag `Microsoft`: è presa dal [Microsoft Language Portal](https://www.microsoft.com/en-us/language/Search?langID=408&Source=true&productid=0)  
 **N.B.** Questo glossario è una risorsa preziosa anche fuori da Mozilla per chi traduce professionalmente nel campo dell’informatica.
 - Tag `Translation Memory`: è estrapolata dal database di Pontoon.
 - Tag `Open Source`: è presa da un glossario comunemente condiviso nel mondo dell’Open Source (Linux ecc.)
