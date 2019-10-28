@@ -34,11 +34,12 @@ Questo per organizzare meglio l'attività di traduzione ed evitare che più pers
   - Capitolo 5  – [Risorse esterne](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/5-Risorse_esterne.md) Feedback: issue #36
 
 #### Prendere in carico il progetto:
-* lascia un messaggio nella sezione Commenti, scrivendo di quale progetto vuoi occuparti (importante per avvisare gli altri che ci stai lavorando tu). Scrivi anche il tuo nome utente accanto al nome del progetto sulla lista qui in alto (usa l'icona della matita per modificare il testo. Se non sei ancora tra i [Collaborators](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/settings/collaboration) non hai i permessi per modificare la lista. Scrivi solo nei commenti e qualcuno con i permessi aggiungerà il tuo nome alla lista.)
-* attieniti alle istruzioni del [capitolo 3](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/3-Flusso_di_lavoro.md) e del [capitolo 4](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/4-Tipi_di_file.md)
-* per qualsiasi problema o domanda scrivi pure in questo issue
-* quando la tua traduzione è pronta, lascia un commento nello issue per dare l'OK al QA
-* rimani a disposizione per il QA, ti verrà chiesto se vuoi confermare le modifiche del revisore o meno
+* Lascia un messaggio nella sezione Commenti, scrivendo di quale progetto vuoi occuparti (importante per avvisare gli altri che ci stai lavorando tu). Scrivi anche il tuo nome utente accanto al nome del progetto sulla lista qui in alto (usa l'icona `…` nell'angolo in alto a destra per modificare il testo.)
+  - Se non sei ancora tra i [Collaborators](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/settings/collaboration) non hai i permessi per modificare la lista. Scrivi solo nei commenti e qualcuno con i permessi aggiungerà il tuo nome alla lista.
+* Attieniti alle istruzioni del [capitolo 3](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/3-Flusso_di_lavoro.md) e del [capitolo 4](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/4-Tipi_di_file.md).
+* Per qualsiasi problema o domanda scrivi pure in questo issue.
+* Quando la tua traduzione è pronta, lascia un commento nello issue per dare l'OK al QA.
+* Rimani a disposizione per il QA, ti verrà chiesto se vuoi confermare le modifiche del revisore o proporre un'alternativa.
 * e buona traduzione! 🎊 
 
 ## Link Utili
@@ -52,6 +53,7 @@ Questo per organizzare meglio l'attività di traduzione ed evitare che più pers
   - per [Thunderbird.net](https://www.thunderbird.net/it/) *sito produzione
   - per [Firefox Monitor](https://fx-breach-alerts.herokuapp.com/) + [Modelli email](https://fx-breach-alerts.herokuapp.com/email-l10n)
   - per [Firefox Send](https://send.firefox.com/) *sito produzione
+  - per [Mozilla Donate website](https://donate-wagtail.mofostaging.net/it/) + [Istruzioni test pagamenti](https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/aEWu_hSnYMU)
 * [mozilla.dev.l10n.web](https://groups.google.com/forum/#!forum/mozilla.dev.l10n.web) -- Un newsgroup internazionale di riferimento per le stringhe della settimana. Condivide informazioni sui progetti correnti, anche utile per porre domande e segnalare bug ecc.
 * [Transvision](https://transvision.mozfr.org/) -- Motore di ricerca esterno per le stringhe Mozilla, complementare a  Pontoon
 * [Transvision Access Key](https://transvision.mozfr.org/accesskeys/) -- Rileva eventuali errori nelle access key (da controllare ogni volta che si traduce una stringa contenente access key)
