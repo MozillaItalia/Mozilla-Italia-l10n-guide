@@ -43,7 +43,6 @@ Questo per organizzare meglio l'attività di traduzione ed evitare che più pers
 * e buona traduzione! 🎊 
 
 ## Link Utili
-* [Web Localization Dashboard](https://l10n.mozilla-community.org/webdashboard/?locale=it) -- Lista dei progetti Pontoon con relative scadenze
 * Server di test -- Per vedere dove andranno a finire le vostre traduzioni
   - per le singole pagine di [mozilla.org](https://l10n.mozilla-community.org/langchecker/?action=listpages) 
   - per [AMO](https://addons-dev.allizom.org/it/)
