@@ -15,6 +15,13 @@ assignees: ''
 
 ❗️  La lista delle stringhe da tradurre viene aggiornata più volte nell'arco della settimana
 
+❕ I seguenti progetti non sono gestiti dal team L10n. NON includerli nella lista delle stringhe:
+- Seamonkey (responsabile: Iacopo Benesperi)
+- Lightning (responsabile: Iacopo Benesperi)
+- SUMO (responsabile: Team SuMo)
+- Firefox (sola lettura)
+- Firefox for Android (sola lettura)
+
 ## Informazioni sul progetto
 Questo issue serve a gestire le traduzioni dei siti Mozilla sulla piattaforma [Pontoon](https://pontoon.mozilla.org/it/).
 
