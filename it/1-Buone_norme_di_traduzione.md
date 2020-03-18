@@ -83,7 +83,7 @@ L’insieme di tutti i parametri in uso in una data regione è comunemente noto 
 ### Formato delle date
 In tutte le lingue, una data può contenere i seguenti elementi: anno (Y, *year*), mese (M, *month*) e giorno (D, *day*). Tuttavia, in regioni diverse del globo, questi elementi cambiano ordine.
 
-Il formato più comune è D/M/Y (giorno, mese, anno) chiamato _little-endian_, ma in estremo Oriente prevale Y/M/D (_big-endian_), mentre negli Stati Uniti viene adottato M/D/Y (_middle-endian_). Ed ancora, nell’informatica la data usata è Y-M-A per comodità (l’ordinamento per data è più preciso).
+Il formato più comune è D/M/Y (giorno, mese, anno) chiamato _little-endian_, ma in estremo Oriente prevale Y/M/D (_big-endian_), mentre negli Stati Uniti viene adottato M/D/Y (_middle-endian_). E ancora, nell’informatica la data usata è Y-M-D per comodità (l’ordinamento per data è più preciso).
 
 Nel migliore dei casi, usare un formato diverso da quello della regione di destinazione può apparire come una trascuratezza stilistica, ma in alcuni casi, specialmente quando si esprime la data in cifre, può dare adito a gravi fraintendimenti.  
 Per esempio la data *05/07* indica il *7 maggio* in America, ma in italiano verrà interpretata dall’utente come *5 luglio*.
@@ -197,7 +197,7 @@ Si notino, infatti, che gli accenti inseriti su queste parole sono "acuti" e non
 Alcune parole, se ambigue possono presentare l’accento anche su altre vocali della parola.
 In italiano, effettivamente, si hanno tre accenti differenti:
 - grave: teoricamente dovrebbe trovarsi solamente sulle vocali aperte, quali à, è e ò
-- acuto: dovrebbe trovarsi, in teoria, solamente sulle volali chiuse é, ó, í e ú (tuttavia la í e ú vengono in genere sostituite con la ì e la ù)
+- acuto: dovrebbe trovarsi, in teoria, solamente sulle vocali chiuse é, ó, í e ú (tuttavia la í e ú vengono in genere sostituite con la ì e la ù)
 - circonflesso: anticamente veniva usato in determinate parole su tutte le vocali (a, e, i, o, u). Al giorno d’oggi, invece, è usato solo in determinate circostanze sulla i (î). L'esempio più ecclatante è, sicuramente, il plurale di _princìpio_, ovvero _princìpii_; in italiano si dovrebbe scrivere _principî_. In verità è sempre più rara questa forma, in favore della singola e "semplice" _i_ (princìpi).
 
 #### Virgolette
@@ -253,6 +253,7 @@ oppure
 IT: Firefox**,** il browser che mette la privacy al primo posto**,** è ora disponibile per Android.
 
 #### Formattazione elenchi
+
 *Il Nuovo Manuale di Stile* di Lesina elenca due convenzioni. Si può scegliere quella più adatta al contenuto, l’essenziale è mantenere uno stile uniforme all’interno dello stesso elenco.
 
 ##### Stile testo
@@ -264,16 +265,16 @@ L’elenco prosegue naturalmente il testo corrente, rispettandone la punteggiatu
 
 es.
 >Elenchiamo le seguenti voci:
-- voce 1,
-- voce 2,
-- voce 3.
+>- voce 1,
+>- voce 2,
+>- voce 3.
 
 Oppure
 
 >Elenchiamo i seguenti paragrafi:
-- paragrafo 1;
-- paragrafo 2;
-- paragrafo 3.
+>- paragrafo 1;
+>- paragrafo 2;
+>- paragrafo 3.
 
 ##### Stile elenco
 La lista è un elemento a se stante.
@@ -283,13 +284,13 @@ La lista è un elemento a se stante.
 
 es.
 >- Voce 1
-- Voce 2
-- Voce 3
+>- Voce 2
+>- Voce 3
 
 Oppure
 >- Paragrafo 1.
-- Paragrafo 2.
-- Paragrafo 3.
+>- Paragrafo 2.
+>- Paragrafo 3.
 
 ### “d” eufonica
 
@@ -362,7 +363,7 @@ I vocaboli stranieri sono da considerare *invariabili*, ovvero compaiono sempre 
 
 | No| Sì |
 |---|---|
-|i CD**s**|i CD|  
+|i CD**s**|i CD|
 |i file**s**|i file|
 |le pasword**s**|le password|
 |le email**s**|le email|
@@ -445,7 +446,7 @@ Se l’opera in questione è edita ma pressoché sconosciuta, oppure più ricono
 
 >es. *Il cacciatore di androidi* (*Do Androids Dream of Electric Sheep?*)
 
-Allo stesso modo, se un’opera non è edita in Italia, ma il suo titolo trasmette un significato rilevante per il lettore (specialmente nel caso di studi di settore e articoli tecnico-scientifici) è buona norma accostare al titolo originale una nostra traduzione letterale tra parentesi o in nota.
+In maniera simile, se un’opera non è edita in Italia, ma il suo titolo trasmette un significato rilevante per il lettore (specialmente nel caso di studi di settore e articoli tecnico-scientifici) è buona norma accostare al titolo originale una nostra traduzione letterale tra parentesi o in nota.
 
 >es. *Safety Tips for Your Online Life* (*Suggerimenti per la sicurezza della tua vita online*)
 
