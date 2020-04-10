@@ -7,6 +7,7 @@ Si tratta di un capitolo corposo e dettagliato, in continua espansione. È conce
 N.B. Le scorciatoie da tastiera fanno riferimento al layout della tastiera *italiana*. Layout di tastiera diversi hanno combinazioni diverse. I sistemi operativi Windows, in aggiunta alla combinazione universale `Alt + ####`, hanno scorciatoie da tastiera peculiari per ogni versione di sistema operativo. Vedere nel dettaglio le istruzioni del proprio sistema operativo.
 
 **Indice dei contenuti**
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Buone norme di traduzione tecnica](#buone-norme-di-traduzione-tecnica)
@@ -14,20 +15,24 @@ N.B. Le scorciatoie da tastiera fanno riferimento al layout della tastiera *ital
 	- [Localizzazione](#localizzazione)
 		- [Formato delle date](#formato-delle-date)
 		- [Formato delle cifre](#formato-delle-cifre)
-			- [Billon, trillion ecc.](#billon-trillion-ecc)
+			- [Billion, trillion ecc.](#billion-trillion-ecc)
 	- [Ortografia](#ortografia)
 		- [Punteggiatura](#punteggiatura)
 			- [Virgola](#virgola)
 			- [Punto](#punto)
 			- [Punto esclamativo](#punto-esclamativo)
 			- [Apostrofo](#apostrofo)
+			- [Accento](#accento)
+				- [“Sì” o “si”](#s-o-si)
 			- [Virgolette](#virgolette)
 			- [Ellissi](#ellissi)
 			- [Trattini](#trattini)
 			- [Formattazione elenchi](#formattazione-elenchi)
 				- [Stile testo](#stile-testo)
 				- [Stile elenco](#stile-elenco)
+		- [“d” eufonica](#d-eufonica)
 		- [Maiuscole e minuscole](#maiuscole-e-minuscole)
+		- [Ecc./Ec./Etc.](#eccecetc)
 		- [Vocaboli stranieri](#vocaboli-stranieri)
 			- [Plurale dei vocaboli stranieri](#plurale-dei-vocaboli-stranieri)
 			- [Genere dei vocaboli stranieri](#genere-dei-vocaboli-stranieri)
@@ -44,6 +49,7 @@ N.B. Le scorciatoie da tastiera fanno riferimento al layout della tastiera *ital
 		- [Tema della frase](#tema-della-frase)
 
 <!-- /TOC -->
+
 ## Standard qualitativi
 Per essere definita di qualità adeguata, una traduzione tecnica deve corrispondere ai seguenti requisiti:
 
@@ -57,7 +63,7 @@ Per essere definita di qualità adeguata, una traduzione tecnica deve corrispond
 
  I traducenti scelti devono essere conformi all’uso comune nella lingua d’arrivo.
 
- Nel caso di gergo tecnico, è necessario svolgere un’accurata ricerca terminologica su fonti ufficiali o autorevoli, invece bisogna evitare di rimpiazzare i termini tecnici con equivalenti approssimativi o troppo  generici.
+ Nel caso di gergo tecnico, è necessario svolgere un’accurata ricerca terminologica su fonti ufficiali o autorevoli ed evitare di rimpiazzare i termini tecnici con equivalenti approssimativi o troppo  generici.
 
  Le convenzioni di formattazione che danno adito ad ambiguità vanno convertite secondo gli usi della lingua d’arrivo (vedi [Localizzazione](#localizzazione) per i dettagli).
 
@@ -66,8 +72,8 @@ Per essere definita di qualità adeguata, una traduzione tecnica deve corrispond
 
  Questo include utilizzare grammatica, ortografia e punteggiatura correttamente, scegliere un linguaggio chiaro e diretto e convertire appropriatamente la formattazione di informazioni rilevanti, come date, misure, ora locale, valuta ecc.
 
-4. **Consistenza**  
- L’inconsistenza terminologica può generare confusione nell’utente e compromettere l’usabilità. Nomi di prodotti, titoli, voci di menu, comandi ecc. all’interno del medesimo progetto di traduzione, oltre che attraverso tutti i progetti correlati, vanno tradotti in maniera consistente.
+4. **Coerenza**  
+ L’incoerenza terminologica può generare confusione nell’utente e compromettere l’usabilità. Nomi di prodotti, titoli, voci di menu, comandi ecc. all’interno del medesimo progetto di traduzione, oltre che attraverso tutti i progetti correlati, vanno tradotti in maniera coerente.
 
  I nomi di componenti, pulsanti, voci di menu ecc. che appaiono nelle istruzioni devono corrispondere esattamente a ciò che l’utente troverà nel prodotto reale.
 
@@ -147,14 +153,14 @@ Eccezione va fatta naturalmente per il discorso degli incisi.
 Il punto va omesso alla fine dei titoli.  
 
 >Sì: Guida di localizzazione di Mozilla Italia  
-No: Guida di localizzazione di Mozilla Italia**.**
+No: Guida di localizzazione di Mozilla Italia<strong>.</strong>
 
 Le sequenze `.”.`, `.).` e simili sono considerate graficamente sgradevoli e pertanto da evitare.
 
 Dunque, qualora si verificassero, si omette il punto all’interno delle virgolette o parentesi lasciando solo quello esterno.  
 
->Sì: Gli risposi “Ora puoi andare**”.**  
-No: Gli risposi: “Ora puoi andare**.”.**
+>Sì: Gli risposi “Ora puoi andare<strong>”.</strong>  
+No: Gli risposi: “Ora puoi andare<strong>.”.</strong>
 
 #### Punto esclamativo
 
@@ -163,8 +169,8 @@ Viene utilizzato spesso (a volte abusato) nello stile informatico anglofono, spe
 Nello stile di localizzazione italiano, e a Mozilla Italia in particolare, è da dosare con parsimonia.
 
 es.
->EN: Error 404: page not found**!**  
-IT: Errore 404: pagina non trovata**.**
+>EN: Error 404: page not found<strong>!</strong>  
+IT: Errore 404: pagina non trovata<strong>.</strong>
 
 In ogni caso, sono *sempre* da evitare le stringhe continue di punti esclamativi o interrogativi.
 >No: Collabora con noi!!!!!!!!!!!!!!
@@ -192,13 +198,28 @@ e simili casi di articolo indeterminativo + maschile.
 No: Qual’è
 
 #### Accento
-L’accento in italiano è "scritto" solitamente sulle lettere finali di parola. Degli esempi possono essere poiché, perché, affinché, ecc.
-Si notino, infatti, che gli accenti inseriti su queste parole sono "acuti" e non "gravi".
-Alcune parole, se ambigue possono presentare l’accento anche su altre vocali della parola.
+L’accento in italiano viene solitamente riportato per iscritto sulle lettere finali di parola. Degli esempi possono essere poiché, perché, affinché, ecc.
+Si noti che gli accenti inseriti su queste parole sono acuti e non gravi.
+Alcune parole, se ambigue, possono presentare l’accento anche su altre vocali della parola.
 In italiano, effettivamente, si hanno tre accenti differenti:
 - grave: teoricamente dovrebbe trovarsi solamente sulle vocali aperte, quali à, è e ò
 - acuto: dovrebbe trovarsi, in teoria, solamente sulle vocali chiuse é, ó, í e ú (tuttavia la í e ú vengono in genere sostituite con la ì e la ù)
-- circonflesso: anticamente veniva usato in determinate parole su tutte le vocali (a, e, i, o, u). Al giorno d’oggi, invece, è usato solo in determinate circostanze sulla i (î). L'esempio più ecclatante è, sicuramente, il plurale di _princìpio_, ovvero _princìpii_; in italiano si dovrebbe scrivere _principî_. In verità è sempre più rara questa forma, in favore della singola e "semplice" _i_ (princìpi).
+- circonflesso: anticamente veniva usato in determinate parole su tutte le vocali (a, e, i, o, u). Al giorno d’oggi, invece, è usato solo in determinate circostanze sulla i (î). L'esempio più eclatante è il plurale di _princìpio_, ovvero _princìpii_; in italiano si dovrebbe scrivere _principî_. In verità è sempre più rara questa forma, in favore della singola e “semplice” _i_ (princìpi).
+
+##### “Sì” o “si”
+In italiano la locuzione affermativa “sì” necessita **obbligatoriamente** dell’accento (da non confondere con l’apostrofo).
+Questo è dovuto al fatto che è la forma abbreviata del latino _ic est_ (“così è”).
+
+Esempi:
+
+>Sì: Eliminare il file? Sì/No  
+>No: Eliminare il file? Si/No  
+>No: Eliminare il file? Si’/No
+
+**N.B.** Nelle risposte che iniziano per “sì” o “no”, la virgola segue l’affermazione o la negazione.
+
+>Sì: Sì, è possibile modificare le impostazioni sulla privacy.    
+>No: Sì è possibile modificare le impostazioni sulla privacy.
 
 #### Virgolette
 
@@ -244,13 +265,13 @@ Il trattino lungo è usato per gli incisi, o comunque per separare due frasi, e 
 
 Il trattino lungo viene molto usato in inglese, ma non è altrettanto diffuso in italiano. Quando possibile è meglio sostituirlo con un altro segno di punteggiatura appropriato al caso.
 
->EN: Firefox **–** The browser that puts privacy at the first place  
-IT: Firefox**:** il browser che mette la privacy al primo posto.
+>EN: Firefox <strong>–</strong> The browser that puts privacy at the first place  
+IT: Firefox<strong>:</strong> il browser che mette la privacy al primo posto.
 
 oppure
 
->EN: Firefox **–** the browser that puts privacy at the first place **–** is now available for Android.  
-IT: Firefox**,** il browser che mette la privacy al primo posto**,** è ora disponibile per Android.
+>EN: Firefox <strong>–</strong> the browser that puts privacy at the first place <strong>–</strong> is now available for Android.  
+IT: Firefox<strong>,</strong> il browser che mette la privacy al primo posto**,** è ora disponibile per Android.
 
 #### Formattazione elenchi
 
@@ -338,22 +359,14 @@ Ecco alcune categorie di vocaboli scritti sempre con la maiuscola in inglese ma 
 
 ### Ecc./Ec./Etc.
 In italiano, se si ha la necessità di interrompere, abbreviare un’enumerazione di cose, una citazione che non pare necessario o opportuno continuare si utilizza la parola eccetera. Essa può essere abbreviata con ecc., con ec. o, ancora, con etc.
-La prima è senza ombra di dubbio la più gettonata. Si può utilizzare, tuttavia, anche la ec. (con una singola c) o la forma latina (**e non inglese** _etcetera_) etc..
-**N.B.** ecc./ec./etc. hanno un singolo punto successivamente poiché si indica che la parola non è finita ma è un’abbreviazione; non hanno, quindi, i "tre puntini di sospensione".
+La prima è senza ombra di dubbio la più gettonata. Si può utilizzare, tuttavia, anche la ec. (con una singola c) o etc. (dal latino _etcetera_, in uso specialmente nei paesi anglofoni).
+
+**N.B.** ecc./ec./etc. hanno un singolo punto successivamente poiché si indica che la parola non è finita ma è un’abbreviazione; non richiedono, quindi, i "tre puntini di sospensione".
 
 Esempi:
 
 >Sì: Una casa può essere grande, piccola, ecc.
 No: Una casa può essere grande, piccola, ecc…
-
-### Sì o Si
-In italiano la locuzione affermativa "sì" necessita, **obbligatoriamente**, dell’accento (da non confondere con l’apostrofo).
-Questo è dovuto al fatto che è la forma abbreviata di _ic est_ (dal latino "così è").
-
-Esempi:
-
->Sì: Vieni al mare con me? Sì, certamente.
-No: Vieni al mare con me? Si, certamente.
 
 ### Vocaboli stranieri
 
@@ -365,7 +378,7 @@ I vocaboli stranieri sono da considerare *invariabili*, ovvero compaiono sempre 
 |---|---|
 |i CD**s**|i CD|
 |i file**s**|i file|
-|le pasword**s**|le password|
+|le password**s**|le password|
 |le email**s**|le email|
 
 I motivi di questa regola sono facilmente intuibili: se ogni parola di ogni lingua straniera che entra nella lingua italiana si trascinasse dietro le  proprie regole grammaticali, sarebbe il caos più totale. Si pensi per esempio a lingue come il tedesco, dove una parola non ha solo la forma singolare o plurale, ma va anche declinata a seconda della sua funzione all’interno della frase.
@@ -492,34 +505,38 @@ Per esempio un programma “potente” potrebbe essere, a seconda del singolo ca
 #### Falsi amici
 
 In ultimo bisogna evitare le trappole dei falsi amici, parole straniere che somigliano a termini esistenti italiani, ma hanno un significato diverso.
-Alcuni dei più ricorrenti nel linguaggio sono:
-- **application**:
+Di seguito si riporta una lista dei più ricorrenti in ambito informatico.
+- **Application**:
 attenzione al contesto! Il software è un’*applicazione*, quando si fa domanda per partecipare a un progetto si dice *candidatura*, *proposta* o simili.
 
  >EN: Submit your application at the following email address  
 IT: Invia la candidatura al seguente indirizzo email.
-- **cancel**: non *cancella*, ovvero elimina definitivamente un file, piuttosto il contrario: *annulla* l’operazione in corso, lasciando tutto invariato.
+- **Cancel**: non *cancella*, ovvero elimina definitivamente un file, piuttosto il contrario: *annulla* l’operazione in corso, lasciando tutto invariato.
  >EN: Do you really want to delete this file? Delete / Cancel  
  >IT: Eliminare il file? Elimina / Annulla
-- **directory**: non *direttorio* ma *cartella*. È sinonimo di *folder*.
+- **Directory**: non *direttorio* ma *cartella*. È sinonimo di *folder*. Si può chiamare semplicemente *directory* se si parla di istruzioni da riga di comando.
 >EN: Place the index.htm file in the root directory.  
->IT: Posiziona il file index.html nella cartella principale.
-- **excited**: non *eccitato*, termine che denota uno stato di agitazione e ha spesso connotazioni sessuali, piuttosto *entusiasta* (es. siamo entusiasti della nuova versione), o a seconda dei casi *impaziente* (sono impaziente che esca la nuova versione), *orgoglioso* (siamo orgogliosi di presentare la nuova versione) ecc.
+>IT: Posiziona il file index.html nella cartella principale.  
+>IT: Posiziona il file index.html nella directory principale.
+- **Excited**: non *eccitato*, termine che denota uno stato di agitazione e ha spesso connotazioni sessuali, piuttosto *entusiasta* (es. siamo entusiasti della nuova versione), o a seconda dei casi *impaziente* (sono impaziente che esca la nuova versione), *orgoglioso* (siamo orgogliosi di presentare la nuova versione) ecc.
 
  >EN: We are all excited for the upcoming release of Firefox.  
 IT: Attendiamo tutti con impazienza il prossimo aggiornamento di Firefox.
-- **malicious**: non *malizioso*, bensì *malevolo* o *dannoso*.
+- **Malicious**: non *malizioso*, bensì *malevolo* o *dannoso*.
 >EN: Malicious code detected.  
 >IT: Rilevato codice dannoso.
-- **(to) process**: non *processare*, bensì *elaborare*.
+- **(to) Process**: non *processare* (es. in tribunale), bensì *elaborare*.
  >EN: Processing message failed.  
  >IT: Elaborazione del messaggio non riuscita.
-- **submit**: non *sottomettere* (assoggettare qualcuno al proprio volere), ma *sottoporre* (a esame / giudizio ecc).  
+- **Submit**: non *sottomettere* (assoggettare qualcuno al proprio volere), ma *sottoporre* (a esame / giudizio ecc).  
  A seconda dei casi, per esempio in presenza di un modulo per inoltrare file, si possono utilizzare anche *inviare* o *caricare*.  
 >EN: Submit your add-on for review.  
 IT: Carica il componente aggiuntivo per il processo di revisione.
-- **subject (line)**: può significare *soggetto*, tuttavia nelle email corrisponde al campo *Oggetto* del messaggio.
-- **table**: oltre che *tavolo*, significa anche *tabella*.
+- **Subject (line)**: può significare *soggetto*, tuttavia nelle email corrisponde al campo *Oggetto* del messaggio.
+- **Table**: oltre che *tavolo*, significa anche *tabella*.
+- **Actually**: non *attualmente* (in questo momento), bensì *infatti*, *in realtà*.
+- **Eventually**: non *eventualmente* (forse, dipende), bensì *alla fine*, *in definitiva*.
+- **Location**: non *locazione* (un tipo di contratto) bensì *luogo*, *ubicazione*.
 
 ### Lunghezza delle frasi
 
@@ -551,6 +568,6 @@ Da evitare, per esempio, una spiegazione di tre righe con in fondo “per elimin
 
 >Sì: Per attivare un nuovo tema accedi a Menu > Componenti aggiuntivi > Aspetto.
 
-[ISO]:https://www.w3schools.com/tags/ref_language_codes.asp
+[ISO]:https://www.loc.gov/standards/iso639-2/php/English_list.php
 [scale]:https://it.wikipedia.org/wiki/Scala_lunga_e_scala_corta
 [NOCS]:http://termportal.fao.org/faonocs/appl/
