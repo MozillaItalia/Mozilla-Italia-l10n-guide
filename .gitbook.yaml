@@ -2,4 +2,4 @@ root: ./it
 
 structure:  
     readme: README.md  
-    summary: ./it/SUMMARY.md
+    summary: SUMMARY.md
