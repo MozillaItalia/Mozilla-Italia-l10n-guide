@@ -1,4 +1,4 @@
-root: ./it
+root: ./en
 
 structure:  
     readme: README.md  
