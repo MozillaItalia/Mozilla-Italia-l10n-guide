@@ -12,13 +12,16 @@ Questo issue è dedicato alla traduzione e revisione di un articolo di [MDN](htt
 
 ## Informazioni sul progetto
 **URL**:
+
 **URL traduzione**:
-**Formato di file** markup wiki (testo con tag)
-**Strumenti** a scelta tra [interfaccia di traduzione MDN](https://developer.mozilla.org/) (online) / editor di testo semplice / [OmegaT](http://omegat.org/) (offline)
+
+**Formato di file**: markup wiki (testo con tag)
+
+**Strumenti**: a scelta tra [interfaccia di traduzione MDN](https://developer.mozilla.org/) (online) / editor di testo semplice / [OmegaT](http://omegat.org/) (offline)
 
 **Progresso:**
 - [ ] Pronto per la revisione tecnica
-- [ ] Pronto per la revisione linguistica
+- [ ] Pronto per la revisione editoriale
 - [ ] Pronto per la pubblicazione
 
 ## Istruzioni
