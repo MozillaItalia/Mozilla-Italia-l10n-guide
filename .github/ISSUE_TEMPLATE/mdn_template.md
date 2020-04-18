@@ -17,17 +17,12 @@ Questo issue è dedicato alla traduzione e revisione di un articolo di [MDN](htt
 
 **Formato di file**: markup wiki (testo con tag)
 
-**Strumenti**: a scelta tra [interfaccia di traduzione MDN](https://developer.mozilla.org/) (online) / editor di testo semplice / [OmegaT](http://omegat.org/) (offline)
-
-**Progresso:**
-- [ ] Pronto per la revisione tecnica
-- [ ] Pronto per la revisione editoriale
-- [ ] Pronto per la pubblicazione
+**Strumenti**: a scelta tra [interfaccia di traduzione MDN](https://developer.mozilla.org/) (online) / editor di testo semplice (offline) / [OmegaT](http://omegat.org/) (offline)
 
 ## Istruzioni
 ### Prima di iniziare
 - Crea un account GitHub (se non lo hai già): ti servirà sia per scrivere in questo issue, sia per accedere a MDN
-  - (Facoltativo) Installa il componente aggiuntivo [MozIta L10n Addons] (https://addons.mozilla.org/it/firefox/addon/mozita-l10n-addons/) per accedere più facilmente ai caratteri speciali come `’ “ ” È` ecc.
+  - (Facoltativo) Installa il componente aggiuntivo [MozIta L10n Addons](https://addons.mozilla.org/it/firefox/addon/mozita-l10n-addons/) per accedere più facilmente ai caratteri speciali come `’ “ ” È` ecc.
 - Leggi "[Come tradurre le pagine di MDN](https://developer.mozilla.org/it/docs/MDN/Contribute/Localize/Translating_pages)"
 
 - Leggi i capitoli della guida. Se lo desideri, lascia un feedback nel relativo issue:
@@ -38,11 +33,12 @@ Questo issue è dedicato alla traduzione e revisione di un articolo di [MDN](htt
   - Capitolo 5  – [Risorse esterne](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/5-Risorse_esterne.md) Feedback: issue #36 
 
 #### Prendere in carico il progetto
-* Se non lo hai già fatto, [registra un account gratuito su GitHub](https://github.com/join?source=header-home)
-* Scrivi nell’area commenti qui di seguito che vuoi occuparti di questo progetto
+* Scrivi nello issue #217 l'URL dell'articolo che vuoi tradurre. Verrà aperto uno issue dedicato.
 * Accedi a [MDN](https://developer.mozilla.org/) con il tuo account GitHub
 * Attieniti alle [istruzioni per MDN del capitolo 3](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/blob/master/it/3-Flusso_di_lavoro.md#mdn) e ai suggerimenti del resto della guida, in particolare [i consigli pratici del capitolo 2](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/blob/master/it/2-Linee_guida_di_Mozilla_Italia.md#consigli-pratici)
-* Quando hai terminato, barra la casella "Pronto per la revisione tecninca" e avvisa con un messaggio in questo issue.
+* Quando hai terminato, aggiungi a questo issue il [label](https://help.github.com/en/github/managing-your-work-on-github/about-labels) `richiesta revisione tecnica` e **avvisa con un messaggio nella sezione commenti**.
+  * Se sei il revisore tecnico, quando hai terminato, elimina il *label* `richiesta revisione tecnica` e applica quello `richiesta revisione stilistica`.
+  * Se sei il revisore stilistico, quando hai terminato, elimina il label `richiesta revisione stilistica`.
 * Per qualsiasi problema o domanda scrivi pure in questo issue
 * …e buona traduzione! 🎊 
 
