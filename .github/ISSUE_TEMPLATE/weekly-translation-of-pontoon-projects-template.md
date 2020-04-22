@@ -2,7 +2,7 @@
 name: Weekly Translation of Pontoon Projects template
 about: Usare questo modello per le stringhe settimanali di Pontoon
 title: 'Weekly Translation of Pontoon Projects (Week #)'
-labels: Italian, for new volunteers, help wanted, translation needed!
+labels: help wanted, for new volunteers, translation needed!, Italian, pontoon
 assignees: ''
 
 ---
