@@ -1,8 +1,8 @@
 ---
 name: Weekly Translation of Pontoon Projects template
 about: Usare questo modello per le stringhe settimanali di Pontoon
-title: 'Weekly Translation of Pontoon Projects (Week #)'
-labels: help wanted, for new volunteers, translation needed!, Italian, pontoon
+title: 'Weekly Translation of Pontoon Projects (Week #/AAAA)'
+labels: Italian, for new volunteers, help wanted, pontoon, translation needed!
 assignees: ''
 
 ---
@@ -32,7 +32,7 @@ Questo per organizzare meglio l'attività di traduzione ed evitare che più pers
 ## Istruzioni
 #### Prima di iniziare:
 * [Registrati](https://accounts.firefox.com/oauth/signin?response_type=code&scope=profile%3Auid%20profile%3Aemail%20profile%3Adisplay_name%20profile%3Auid%20profile%3Adisplay_name%20profile%3Aemail&state=yrvTUh3o4F4c&redirect_uri=https%3A%2F%2Fpontoon.mozilla.org%2Faccounts%2Ffxa%2Flogin%2Fcallback%2F&client_id=76ab66239b5585ad) sulla piattaforma di traduzione Pontoon
-  - (Facoltativo) Installa i componenti aggiuntivi [Pontoon Tools](https://addons.mozilla.org/it/firefox/addon/pontoon-tools/) per ricevere le notifiche sulle stringhe mancanti in tempo reale (più altre chicche) e [MozIta L10n Addons](https://addons.mozilla.org/it/firefox/addon/mozita-l10n-addons/) per accedere più facilmente ai caratteri speciali come `’ “ ” È` ecc.
+  - (Facoltativo) Installa i componenti aggiuntivi [Pontoon Add-on](https://addons.mozilla.org/it/firefox/addon/pontoon-tools/) per ricevere le notifiche sulle stringhe mancanti in tempo reale (più altre chicche) e [MozIta L10n Add-on](https://addons.mozilla.org/it/firefox/addon/mozita-l10n/) per accedere più facilmente ai caratteri speciali come `’ “ ” È` ecc.
 * **Leggi i capitoli della guida**, se lo desideri, lascia un feedback nel relativo issue:
   - Capitolo 1 – [Buone norme di traduzione tecnica](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/1-Buone_norme_di_traduzione.md) Feedback: issue #225 
   - Capitolo 2 – [Linee guida di Mozilla Italia](https://github.com/MozillaItalia/Mozilla-Italia-l10n-guide/blob/master/it/2-Linee_guida_di_Mozilla_Italia.md) Feedback: issue #138

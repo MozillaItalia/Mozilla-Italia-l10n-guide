@@ -2,8 +2,8 @@
 name: MDN_TEMPLATE
 about: Usare questo issue per la traduzione di articoli su MDN
 title: Translating MDN – [titolo articolo]
-labels: for senior localizers, for new volunteers, good first bug, translation needed!,
-  Italian, mdn
+labels: Italian, for new volunteers, for senior localizers, good first bug, mdn, translation
+  needed!
 assignees: ''
 
 ---
