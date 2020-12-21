@@ -20,7 +20,6 @@ assignees: ''
 - Lightning (responsabile: Iacopo Benesperi)
 - SUMO (responsabile: Team SuMo)
 - Firefox (sola lettura)
-- Firefox for Android (sola lettura)
 
 ## Informazioni sul progetto
 Questo issue serve a gestire le traduzioni dei siti Mozilla sulla piattaforma [Pontoon](https://pontoon.mozilla.org/it/).
