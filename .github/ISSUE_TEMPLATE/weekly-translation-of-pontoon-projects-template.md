@@ -60,15 +60,14 @@ Questo per organizzare meglio l'attività di traduzione ed evitare che più pers
   - per le singole pagine di [mozilla.org](https://l10n.mozilla-community.org/langchecker/?action=listpages) 
   - per [AMO](https://addons-dev.allizom.org/it/)
   - per [MDN](https://developer.allizom.org/it/)
-  - per [Test Pilot](https://testpilot-l10n.dev.mozaws.net/)
   - per [Common Voice](https://voice.allizom.org/it)
   - per [Thunderbird.net](https://www.thunderbird.net/it/) *sito produzione
   - per [Firefox Monitor](https://fx-breach-alerts.herokuapp.com/) + [Modelli email](https://fx-breach-alerts.herokuapp.com/email-l10n)
-  - per [Firefox Send](https://send.firefox.com/) *sito produzione
   - per [Mozilla Donate website](https://donate-wagtail.mofostaging.net/it/) + [Istruzioni test pagamenti](https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/aEWu_hSnYMU)
 * Motori di ricerca per le stringhe
   - [Pontoon: tutti i progetti](https://pontoon.mozilla.org/it/all-projects/all-resources/?utm_source=pontoon-addon&string=66616) -- Cerca simultaneamente tra tutti i progetti di Pontoon in italiano.
   - [Transvision](https://transvision.mozfr.org/) -- Motore di ricerca esterno per le stringhe Mozilla, complementare a Pontoon.
   - [Microsoft Language Portal](https://www.microsoft.com/en-us/language/Search?langID=408&Source=true&productid=0) -- Glossario Microsoft.
 * [Transvision Access Key](https://transvision.mozfr.org/accesskeys/) -- Rileva eventuali errori nelle access key (da controllare ogni volta che si traduce una stringa contenente access key)
-* [mozilla.dev.l10n.web](https://groups.google.com/forum/#!forum/mozilla.dev.l10n.web) -- Un newsgroup internazionale di riferimento per le stringhe della settimana. Condivide informazioni sui progetti correnti, anche utile per porre domande e segnalare bug ecc.
+* [Sezione Localization in Discourse](https://discourse.mozilla.org/c/l10n/547) -- Sezione dedicata alla localizzazione dei prodotti Mozilla.
+* [#l10n-community in Matrix](https://chat.mozilla.org/#/room/#l10n-community:mozilla.org) -- Sezione dedicata alla comunità di localizzatori Mozilla su Matrix.
