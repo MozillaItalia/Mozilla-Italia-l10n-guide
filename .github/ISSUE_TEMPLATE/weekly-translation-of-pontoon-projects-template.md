@@ -8,10 +8,11 @@ assignees: ''
 ---
 
 # Stringhe della settimana
-`- [ ] [*Nome progetto*](*copia/incolla url progetto, usa il filtro Pontoon **Untranslated**) # stringhe`
-- [ ] []() # stringhe
-- [ ] []() # stringhe
-- [ ] []() # stringhe
+
+| QA richiesto |  In revisione | Tradotto | Nome progetto | Numero stringhe | Traduttore |
+| :-: | :-: | :-: | :-- | :-: | :-- |
+| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | [*Nome progetto*](*copia/incolla url progetto, usa il filtro Pontoon **Untranslated**) | #stringhe | @username |
+<!---| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | []() | #stringhe | @username |--->
 
 ❗️  La lista delle stringhe da tradurre viene aggiornata più volte nell'arco della settimana
 
