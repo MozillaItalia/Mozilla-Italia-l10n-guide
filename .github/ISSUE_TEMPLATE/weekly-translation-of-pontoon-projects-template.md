@@ -9,14 +9,18 @@ assignees: ''
 
 # Stringhe della settimana
 
-| QA richiesto |  In revisione | Tradotto | Nome progetto | Numero stringhe | Traduttore |
+| QA richiesto |  In revisione | Tradotto | Nome progetto (e identificativo stringhe) | Numero stringhe | Traduttore |
 | :-: | :-: | :-: | :-- | :-: | :-- |
-| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | [*Nome progetto*](*copia/incolla url progetto, usa il filtro Pontoon **Untranslated**) | #stringhe | @username |
-<!---| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | []() | #stringhe | @username |--->
+| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | [Nome progetto](link): [Eventuale suddivione per stringhe/file](link) | #stringhe | `@username` |
+
+<!---
+Per aggiungere una nuova riga usare questo codice:
+| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | [](): []() | #stringhe | `@username` |
+--->
 
 ❗️  La lista delle stringhe da tradurre viene aggiornata più volte nell'arco della settimana
 
-❕ I seguenti progetti non sono gestiti dal team L10n. NON includerli nella lista delle stringhe:
+❕ I seguenti progetti non sono gestiti dal team L10n. **NON** includerli nella lista delle stringhe:
 - Seamonkey (responsabile: Iacopo Benesperi)
 - Lightning (responsabile: Iacopo Benesperi)
 - SUMO (responsabile: Team SuMo)
