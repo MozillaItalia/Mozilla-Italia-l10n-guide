@@ -9,14 +9,16 @@ assignees: ''
 
 # Stringhe della settimana
 
-| QA richiesto |  In revisione | Tradotto | Nome progetto (e identificativo stringhe) | Numero stringhe | Traduttore |
-| :-: | :-: | :-: | :-- | :-: | :-- |
-| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | [Nome progetto](link): [Eventuale suddivione per stringhe/file](link) | #stringhe | `@username` |
-
 <!---
+Usare il carattere (emoji): ✅ per marcare i primi tre campi ("QA richiesto", "In revisione" e "Tradotto")
+
 Per aggiungere una nuova riga usare questo codice:
-| <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | <ul><li>[ ] </li></ul> | [](): []() | #stringhe | `@username` |
+|  |  |  | [](): []() | #stringhe |  |
 --->
+
+| QA richiesto |  In revisione | Stringhe tradotte | Nome progetto (e identificativo stringhe) | Numero stringhe | Traduttore `@username` |
+| :-: | :-: | :-: | :-- | :-: | :-- |
+|  |  |  | [Nome progetto](link): [Eventuale suddivione per stringhe/file](link) | #stringhe |  |
 
 ❗️  La lista delle stringhe da tradurre viene aggiornata più volte nell'arco della settimana
 
