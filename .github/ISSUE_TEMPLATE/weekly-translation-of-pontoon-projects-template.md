@@ -16,9 +16,9 @@ Per aggiungere una nuova riga usare questo codice:
 |  |  |  | [](): []() | #stringhe |  |
 --->
 
-| QA richiesto |  In revisione | Approvato | Nome progetto (e identificativo stringhe) | Numero stringhe | Traduttore `@username` |
-| :-: | :-: | :-: | :-- | :-: | :-- |
-|  |  |  | [Nome progetto](link): [Eventuale suddivione per stringhe/file](link) | #stringhe |  |
+| Traduttore `@username` | QA richiesto |  In revisione | Approvato | Nome progetto (e identificativo stringhe) | Numero stringhe |
+| :-- | :-: | :-: | :-: | :-- | :-: |
+|  |  |  |  | [Nome progetto](link): [Eventuale suddivione per stringhe/file](link) | #stringhe |
 
 ❗️  La lista delle stringhe da tradurre viene aggiornata più volte nell'arco della settimana
 
