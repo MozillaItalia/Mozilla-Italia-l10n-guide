@@ -26,7 +26,6 @@ Per aggiungere una nuova riga usare questo codice:
 
 ❕ I seguenti progetti non sono gestiti dal team L10n. **NON** includerli nella lista delle stringhe:
 - Seamonkey (responsabile: Iacopo Benesperi)
-- Lightning (responsabile: Iacopo Benesperi)
 - SUMO (responsabile: Team SuMo)
 - Firefox (sola lettura)
 
